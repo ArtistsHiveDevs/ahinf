@@ -1,0 +1,10 @@
+FROM node:20-alpine
+
+WORKDIR /app
+
+COPY package*.json ./
+RUN npm ci
+
+EXPOSE 3001
+
+CMD ["npx", "nodemon", "--watch", "src", "--ext", "js,ts,json", "src/index.js"]

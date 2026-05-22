@@ -1,0 +1,105 @@
+version: "3.9"
+
+# ============================================================
+#  Artist Hive — Dev Environment
+#  Estructura esperada:
+#    carpeta-raiz/
+#    ├── ahinf/          ← aquí vive este archivo
+#    ├── frontReact/
+#    └── ah-mock-api/
+# ============================================================
+
+services:
+  mongo:
+    image: mongo:7
+    container_name: ah_mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: devpassword
+      MONGO_INITDB_DATABASE: artisthive_dev
+    volumes:
+      - mongo_data:/data/db
+      - ./scripts/mongo/mongo-init.js:/docker-entrypoint-initdb.d/init.js:ro
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: ah_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  cognito-local:
+    image: jagregory/cognito-local:latest
+    container_name: ah_cognito
+    restart: unless-stopped
+    ports:
+      - "9229:9229"
+    volumes:
+      - cognito_data:/app/.cognito
+
+  backend:
+    build:
+      context: ../ah-mock-api
+      dockerfile: Dockerfile.dev
+    container_name: ah_backend
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    volumes:
+      - ../ah-mock-api:/app
+      - /app/node_modules
+    environment:
+      NODE_ENV: development
+      PORT: 3001
+      MONGO_URI_DEV: mongodb://admin:devpassword@mongo:27017/artisthive_dev?authSource=admin
+      REDIS_URL: redis://redis:6379
+      AWS_REGION: us-east-1
+      COGNITO_USER_POOL_ID: local_artist_hive
+      COGNITO_CLIENT_ID: dev_client_id
+      COGNITO_ENDPOINT: http://cognito-local:9229
+      SENDGRID_API_KEY: ${SENDGRID_API_KEY:-SG.dev_placeholder}
+      SENDGRID_SANDBOX_MODE: "true"
+      JWT_SECRET: dev_super_secret_do_not_use_in_prod
+    depends_on:
+      mongo:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+      cognito-local:
+        condition: service_started
+
+  frontend:
+    build:
+      context: ../frontReact
+      dockerfile: Dockerfile.dev
+    container_name: ah_frontend
+    restart: unless-stopped
+    ports:
+      - "5173:5173"
+    volumes:
+      - ../frontReact:/app
+      - /app/node_modules
+    environment:
+      VITE_API_URL: http://localhost:3001
+      VITE_ENV: development
+    depends_on:
+      - backend
+
+volumes:
+  mongo_data:
+    name: ah_mongo_data
+  cognito_data:
+    name: ah_cognito_data
