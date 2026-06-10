@@ -50,6 +50,31 @@ services:
     volumes:
       - cognito_data:/app/.cognito
 
+  cognito-admin:
+    build:
+      context: ./services/cognito-admin
+    container_name: ah_cognito_admin
+    restart: unless-stopped
+    ports:
+      - "9230:9230"
+    environment:
+      AWS_REGION: us-east-1
+      COGNITO_ENDPOINT: http://cognito-local:9229
+      COGNITO_PUBLIC_ENDPOINT: http://localhost:9229
+    depends_on:
+      cognito-local:
+        condition: service_started
+
+  storage-admin:
+    build:
+      context: ./services/storage-admin
+    container_name: ah_storage_admin
+    restart: unless-stopped
+    ports:
+      - "9231:9231"
+    volumes:
+      - storage_data:/app/data
+
   backend:
     build:
       context: ../ah-mock-api
@@ -95,11 +120,18 @@ services:
     environment:
       VITE_API_URL: http://localhost:3001
       VITE_ENV: development
+      VITE_USE_LOCAL_COGNITO: "true"
+      VITE_COGNITO_ADMIN_URL: http://localhost:9230
+      VITE_STORAGE_ADMIN_URL: http://localhost:9231
     depends_on:
       - backend
+      - cognito-admin
+      - storage-admin
 
 volumes:
   mongo_data:
     name: ah_mongo_data
   cognito_data:
     name: ah_cognito_data
+  storage_data:
+    name: ah_storage_data
