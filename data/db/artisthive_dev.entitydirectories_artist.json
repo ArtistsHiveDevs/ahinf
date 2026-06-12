@@ -1,0 +1,396 @@
+[{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa34"
+  },
+  "id": {
+    "$oid": "67e9a8ce6466c0a1997e26b5"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebf986a0b4009dd62b540f866a",
+  "name": "La Pambelé",
+  "username": "lapambele",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:50.944Z",
+  "updatedAt": "2025-03-30T20:25:50.944Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa35"
+  },
+  "id": {
+    "$oid": "67e9a8ce6466c0a1997e26b6"
+  },
+  "entityType": "Artist",
+  "profile_pic": "",
+  "name": "Tres de Febrero",
+  "username": "tresdefebreromusica",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:50.950Z",
+  "updatedAt": "2025-03-30T20:25:50.950Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa36"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26b7"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebc2897ade17eac83f708a8e27",
+  "name": "Lunalé",
+  "username": "lunalemusica",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.084Z",
+  "updatedAt": "2025-03-30T20:25:53.084Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa37"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26b8"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb95ff79643d6087fbdd8d298d",
+  "name": "Los Rolling Ruanas",
+  "username": "losrollingruanas",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.275Z",
+  "updatedAt": "2025-03-30T20:25:53.275Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa38"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26b9"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb512c5f7c2783f7d8bac01642",
+  "name": "Ennui Bogotá",
+  "username": "ennuibogota",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.319Z",
+  "updatedAt": "2025-03-30T20:25:53.319Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa39"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26ba"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebce3f47fd96a4df0a1abb92d1",
+  "name": "Puerto Candelaria",
+  "username": "puertocandelaria",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.354Z",
+  "updatedAt": "2025-03-30T20:25:53.354Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa3a"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26bb"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb9293dfa1b46320cbabca614d",
+  "name": "Chelo La Cabra",
+  "username": "chelolacabra",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.389Z",
+  "updatedAt": "2025-03-30T20:25:53.389Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa3b"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26bc"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab67616d0000b27375bd52f3a3bbdf6e9abaec72",
+  "name": "Los Cañaverales",
+  "username": "los_canaverales",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.427Z",
+  "updatedAt": "2025-03-30T20:25:53.427Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa3c"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26bd"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebf3d3e4096bfc99953d8d6bc5",
+  "name": "Espiral7",
+  "username": "espiral7_",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.462Z",
+  "updatedAt": "2025-03-30T20:25:53.462Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa3d"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26be"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eba827c28ebf33872fa173ee61",
+  "name": "Los Bajeros de la Montaña",
+  "username": "losbajerosgaiteros",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.558Z",
+  "updatedAt": "2025-03-30T20:25:53.558Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa3e"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26bf"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebdd9b33a54a9ac35ea3f95b0d",
+  "name": "Tuna Uniandina",
+  "username": "tunauniandina",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.596Z",
+  "updatedAt": "2025-03-30T20:25:53.596Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa3f"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26c0"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab67616d0000b273e68c409c420e68d29f8a05f5",
+  "name": "Tuna Femenina Uniandina",
+  "username": "tufeuniandina",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.630Z",
+  "updatedAt": "2025-03-30T20:25:53.630Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa40"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26c1"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebd3bc386bba51aa8ffa1aa299",
+  "name": "Tuna Javeriana",
+  "username": "tunajaveriana",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.665Z",
+  "updatedAt": "2025-03-30T20:25:53.665Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa41"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26c2"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab67616d0000b273b34804cc9cea0c0e0dc2af6d",
+  "name": "Tuna Sabana",
+  "username": "tunasabana",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.700Z",
+  "updatedAt": "2025-03-30T20:25:53.700Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa42"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26c3"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb93de922400c3d0586b432dbf",
+  "name": "Bluefinch & the Wanderlust",
+  "username": "bluefinchtheband",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.736Z",
+  "updatedAt": "2025-03-30T20:25:53.736Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa43"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26c4"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebb41fd32db9eaec01e67f662a",
+  "name": "El Alcalde Morcilla",
+  "username": "elalcaldemorcilla",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.773Z",
+  "updatedAt": "2025-03-30T20:25:53.773Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa44"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26c5"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb999e58b1bb71ee0ed1c444bd",
+  "name": "SomosMestizzo",
+  "username": "somosmestizzo",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.806Z",
+  "updatedAt": "2025-03-30T20:25:53.806Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa45"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26c6"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb9b913433cc517749322ca948",
+  "name": "Sonoras Mil",
+  "username": "sonorasmilband",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.837Z",
+  "updatedAt": "2025-03-30T20:25:53.837Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa46"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26c7"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb093e129888ec688c373b581e",
+  "name": "Lalo Cortés",
+  "username": "lalocortesmusic",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.871Z",
+  "updatedAt": "2025-03-30T20:25:53.871Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa47"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26c8"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb26ca89030c002d015a9b4327",
+  "name": "La Mano de Parisi",
+  "username": "lamanodeparisi",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.904Z",
+  "updatedAt": "2025-03-30T20:25:53.904Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa49"
+  },
+  "id": {
+    "$oid": "67e9a8d16466c0a1997e26ca"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb44d316836b4c5d95b9e99fd4",
+  "name": "El Caribefunk",
+  "username": "caribefunk",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:53.972Z",
+  "updatedAt": "2025-03-30T20:25:53.972Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9c094469208888edbaa4f"
+  },
+  "id": {
+    "$oid": "67e9a8d26466c0a1997e26d0"
+  },
+  "entityType": "Artist",
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebe76644f1de86463a56c1afe6",
+  "name": "Gregorio Uribe",
+  "username": "gregoriouribe",
+  "subtitle": "",
+  "verified_status": 1,
+  "location": [],
+  "createdAt": "2025-03-30T20:25:54.180Z",
+  "updatedAt": "2025-03-30T20:25:54.180Z",
+  "__v": 0
+}]

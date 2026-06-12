@@ -1,0 +1,1137 @@
+[{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9befd"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/matikbogota.jpg",
+  "name": "Matik Matik",
+  "username": "matikbogota",
+  "search_cache": "Matik Matik matikbogota South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cra. 11 # 67 - 20",
+      "latitude": 4.6529702,
+      "longitude": -74.0611748,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "cumbia",
+        "world",
+        "hip_hop",
+        "folk",
+        "jazz",
+        "experimental",
+        "genre_fusion",
+        "alternative",
+        "salsa",
+        "metal",
+        "rock",
+        "urban_music"
+      ],
+      "l2": [
+        "latin_pop_rock",
+        "cumbia_traditional",
+        "latin_american_traditional",
+        "latin_hiphop",
+        "world_folk",
+        "latin_jazz",
+        "free_improvisation",
+        "jazz_fusion",
+        "grunge_shoegaze",
+        "andean_indigenous",
+        "classic_salsa",
+        "caribbean_latin",
+        "regional_mexican",
+        "doom_stoner",
+        "folk_traditional",
+        "indie_rock",
+        "reggaeton_classic"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9befe"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/teatrojeg.jpg",
+  "name": "Teatro Jorge Eliécer Gaitán",
+  "username": "teatrojeg",
+  "search_cache": "Teatro Jorge Eliécer Gaitán teatrojeg South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cra. 7 # 22 - 47",
+      "latitude": 4.60869,
+      "longitude": -74.0707264,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "cumbia",
+        "hip_hop",
+        "latin",
+        "folk",
+        "reggae",
+        "world",
+        "urban_music",
+        "salsa",
+        "jazz"
+      ],
+      "l2": [
+        "cumbia_traditional",
+        "latin_hiphop",
+        "latin_pop_rock",
+        "world_folk",
+        "folk_traditional",
+        "regional_reggae",
+        "african",
+        "tango_bolero",
+        "latin_american_traditional",
+        "dancehall",
+        "reggaeton_classic",
+        "caribbean_latin",
+        "classic_salsa",
+        "latin_jazz"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9beff"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/galeriacafelibro.jpg",
+  "name": "Galería Café Libro 93",
+  "username": "galeriacafelibro",
+  "search_cache": "Galería Café Libro 93 galeriacafelibro South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cra. 11a # 93 - 42",
+      "latitude": 4.6751858,
+      "longitude": -74.0479853,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "salsa",
+        "latin",
+        "jazz",
+        "folk",
+        "dance_club",
+        "world",
+        "electronic",
+        "reggae"
+      ],
+      "l2": [
+        "classic_salsa",
+        "caribbean_latin",
+        "latin_jazz",
+        "world_folk",
+        "folk_traditional",
+        "tango_bolero",
+        "latin_dance",
+        "african",
+        "house",
+        "regional_reggae"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf00"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/galeriacafelibrosedepalermo.jpg",
+  "name": "Galería Café Libro Palermo",
+  "username": "galeriacafelibrosedepalermo",
+  "search_cache": "Galería Café Libro Palermo galeriacafelibrosedepalermo South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Trv. 15B No 46 - 38",
+      "latitude": 4.634076,
+      "longitude": -74.0690678,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "salsa",
+        "jazz"
+      ],
+      "l2": [
+        "caribbean_latin",
+        "classic_salsa",
+        "latin_jazz",
+        "folk_traditional"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf01"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/lapascasia.jpg",
+  "name": "La Pascasia",
+  "username": "lapascasia",
+  "search_cache": "La Pascasia lapascasia South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Medellín",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Antioquia",
+      "city": "Medellín",
+      "address": "Calle 47 # 43 - 88",
+      "latitude": 6.2449213,
+      "longitude": -75.5650238,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "hip_hop",
+        "dance_club",
+        "cumbia",
+        "urban_music",
+        "reggae",
+        "jazz",
+        "folk"
+      ],
+      "l2": [
+        "latin_pop_rock",
+        "latin_hiphop",
+        "latin_dance",
+        "cumbia_traditional",
+        "reggaeton_classic",
+        "cloud_emo_rap",
+        "caribbean_latin",
+        "ska",
+        "latin_jazz",
+        "folk_traditional",
+        "tango_bolero",
+        "singer_songwriter"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf02"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/sonoracali.jpg",
+  "name": "Sonora Casa Cultural",
+  "username": "sonoracali",
+  "search_cache": "Sonora Casa Cultural sonoracali South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Cali",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Valle del Cauca",
+      "city": "Cali",
+      "address": "Cra. 9 # 3 - 54",
+      "latitude": 3.4468935,
+      "longitude": -76.5382427,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "dance_club",
+        "latin",
+        "salsa",
+        "cumbia",
+        "jazz",
+        "folk",
+        "world"
+      ],
+      "l2": [
+        "latin_dance",
+        "tango_bolero",
+        "classic_salsa",
+        "cumbia_traditional",
+        "caribbean_latin",
+        "latin_jazz",
+        "world_folk",
+        "folk_traditional",
+        "latin_pop_rock",
+        "european_traditional",
+        "singer_songwriter"
+      ]
+    }
+  },
+  "activity": "probably_active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf03"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/casakilele.jpg",
+  "name": "Casa Kilele",
+  "username": "casakilele",
+  "search_cache": "Casa Kilele casakilele South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cl. 28a # 16a - 31",
+      "latitude": 4.6178333,
+      "longitude": -74.0741353,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "dance_club",
+        "jazz",
+        "latin",
+        "cumbia",
+        "folk",
+        "reggae",
+        "hip_hop",
+        "electronic",
+        "salsa",
+        "urban_music",
+        "world"
+      ],
+      "l2": [
+        "latin_dance",
+        "latin_jazz",
+        "tango_bolero",
+        "andean_indigenous",
+        "folk_traditional",
+        "cumbia_traditional",
+        "world_folk",
+        "latin_pop_rock",
+        "regional_reggae",
+        "latin_hiphop",
+        "house",
+        "classic_salsa",
+        "traditional_jazz",
+        "regional_mexican",
+        "dancehall",
+        "trap_drill",
+        "reggaeton_classic",
+        "european_traditional",
+        "singer_songwriter",
+        "caribbean_latin",
+        "african"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf04"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/discojaguar.bta.jpg",
+  "name": "Disco Jaguar",
+  "username": "discojaguar.bta",
+  "search_cache": "Disco Jaguar discojaguar.bta South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cra 7 # 59 - 30",
+      "latitude": 4.644519,
+      "longitude": -74.0614486,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "world",
+        "latin",
+        "reggae",
+        "urban_music",
+        "dance_club",
+        "electronic",
+        "jazz",
+        "cumbia",
+        "alternative",
+        "hip_hop",
+        "folk"
+      ],
+      "l2": [
+        "african",
+        "latin_pop_rock",
+        "dancehall",
+        "reggaeton_classic",
+        "latin_dance",
+        "house",
+        "latin_jazz",
+        "cumbia_traditional",
+        "noise_experimental",
+        "latin_hiphop",
+        "world_folk"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf05"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/cubanjazzcafebogota.jpg",
+  "name": "Cuban Jazz",
+  "username": "cubanjazzcafebogota",
+  "search_cache": "Cuban Jazz cubanjazzcafebogota South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cra. 7 # 12C - 36",
+      "latitude": 4.6009388,
+      "longitude": -74.0735901,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [],
+      "l2": []
+    }
+  },
+  "activity": "non_active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf07"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/latinopowerchapinero.jpg",
+  "name": "Latino Power",
+  "username": "latinopowerchapinero",
+  "search_cache": "Latino Power latinopowerchapinero South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cl. 58 # 13 - 88",
+      "latitude": 4.6448237,
+      "longitude": -74.0651584,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "cumbia",
+        "latin",
+        "punk",
+        "reggae",
+        "dance_club",
+        "hip_hop",
+        "world",
+        "salsa",
+        "jazz",
+        "folk",
+        "experimental",
+        "genre_fusion",
+        "alternative",
+        "metal",
+        "urban_music"
+      ],
+      "l2": [
+        "cumbia_traditional",
+        "latin_pop_rock",
+        "classic_punk",
+        "ska",
+        "latin_dance",
+        "latin_hiphop",
+        "african",
+        "caribbean_latin",
+        "classic_salsa",
+        "latin_jazz",
+        "world_folk",
+        "uk_dance",
+        "free_improvisation",
+        "jazz_fusion",
+        "post_genres",
+        "dancehall",
+        "singer_songwriter",
+        "folk_traditional",
+        "core_genres",
+        "heavy_metal",
+        "doom_stoner",
+        "grunge_shoegaze",
+        "tango_bolero",
+        "pop_punk",
+        "hardcore_punk",
+        "reggaeton_classic",
+        "cloud_emo_rap"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf09"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/cafecinema90.jpg",
+  "name": "Café cinema La resistencia",
+  "username": "cafecinema90",
+  "search_cache": "Café cinema La resistencia cafecinema90 South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cra 7 # 55 - 03",
+      "latitude": 4.6415229,
+      "longitude": -74.0625434,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "metal"
+      ],
+      "l2": [
+        "latin_pop_rock",
+        "doom_stoner"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf0a"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/cafecinema90.jpg",
+  "name": "Café cinema",
+  "username": "cafecinema90",
+  "search_cache": "Café cinema cafecinema90 South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Calle 19 # 3A - 37",
+      "latitude": 4.603198,
+      "longitude": -74.0687661,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "metal"
+      ],
+      "l2": [
+        "latin_pop_rock",
+        "doom_stoner"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf0b"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/elgocepagano.jpg",
+  "name": "El Goce Pagano",
+  "username": "elgocepagano",
+  "search_cache": "El Goce Pagano elgocepagano South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Dg. 20A # 0 - 82",
+      "latitude": 4.6035242,
+      "longitude": -74.0660281,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "salsa",
+        "jazz",
+        "hip_hop"
+      ],
+      "l2": [
+        "caribbean_latin",
+        "classic_salsa",
+        "latin_jazz",
+        "latin_hiphop"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf0c"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/salsacamaraoficial.jpg",
+  "name": "Salsa Camará",
+  "username": "salsacamaraoficial",
+  "search_cache": "Salsa Camará salsacamaraoficial South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cra. 11 # 70a - 22",
+      "latitude": 4.6557988,
+      "longitude": -74.0595785,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "salsa",
+        "jazz"
+      ],
+      "l2": [
+        "caribbean_latin",
+        "classic_salsa",
+        "latin_jazz",
+        "latin_pop_rock"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf0d"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/soylongos.jpg",
+  "name": "Longo's",
+  "username": "soylongos",
+  "search_cache": "Longo's soylongos South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cra. 20c # 72 - 41",
+      "latitude": 4.6617844,
+      "longitude": -74.0645625,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "hip_hop"
+      ],
+      "l2": [
+        "latin_pop_rock",
+        "latin_hiphop"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf0e"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/cafevallejo.jpg",
+  "name": "Café Vallejo",
+  "username": "cafevallejo",
+  "search_cache": "Café Vallejo cafevallejo South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Medellín",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Antioquia",
+      "city": "Medellín",
+      "address": "Circular 74 b # 39b - 126",
+      "latitude": 6.2464459,
+      "longitude": -75.5947898,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "reggae"
+      ],
+      "l2": [
+        "latin_pop_rock",
+        "ska"
+      ]
+    }
+  },
+  "activity": "non_active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf0f"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/revellioncultubar.jpg",
+  "name": "Revellion Bar",
+  "username": "revellioncultubar",
+  "search_cache": "Revellion Bar revellioncultubar South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Cl. 16 # 4 - 23",
+      "latitude": 4.6010415,
+      "longitude": -74.0704066,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "cumbia",
+        "latin",
+        "salsa"
+      ],
+      "l2": [
+        "cumbia_traditional",
+        "caribbean_latin",
+        "classic_salsa"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9bf10"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/jackassrockbar.jpg",
+  "name": "Jackass Rock Bar",
+  "username": "jackassrockbar",
+  "search_cache": "Jackass Rock Bar jackassrockbar South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Bogotá DC",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Bogotá DC",
+      "city": "Bogotá DC",
+      "address": "Ac 53 # 70d - 41",
+      "latitude": 4.6693518,
+      "longitude": -74.1050706,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin"
+      ],
+      "l2": [
+        "latin_pop_rock",
+        "regional_mexican"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9c029"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/milano_jazzclub.jpg",
+  "name": "Milano Jazz Club",
+  "username": "milano_jazzclub",
+  "search_cache": "Milano Jazz Club milano_jazzclub Europe Europa  Europe Europa  Spain España Spain Espagne Spanien Barcelona",
+  "location": [
+    {
+      "country_name": "España",
+      "country_alpha2": "es",
+      "state": "Cataluña",
+      "city": "Barcelona",
+      "address": "Ronda de la Univ., 35, 08007 Barcelona, España",
+      "latitude": 41.387227,
+      "longitude": 2.167678,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin"
+      ],
+      "l2": [
+        "tango_bolero",
+        "folk_traditional"
+      ]
+    }
+  },
+  "activity": "non_active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9c02b"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/salonmasaya.mde.jpg",
+  "name": "Salón Masaya",
+  "username": "salonmasaya.mde",
+  "search_cache": "Salón Masaya salonmasaya.mde South America América del Sur  Amérique du Sud Südamerika  Colombia Colombia Colombia Colombie Kolumbien Medellín",
+  "location": [
+    {
+      "country_name": "Colombia",
+      "country_alpha2": "co",
+      "state": "Antioquia",
+      "city": "Medellín",
+      "address": "Calle 8 # 43a - 57",
+      "latitude": 6.2092502,
+      "longitude": -75.5722229,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "electronic",
+        "dance_club",
+        "cumbia",
+        "latin",
+        "salsa",
+        "hip_hop",
+        "urban_music",
+        "folk"
+      ],
+      "l2": [
+        "house",
+        "latin_dance",
+        "cumbia_traditional",
+        "caribbean_latin",
+        "classic_salsa",
+        "uk_dance",
+        "latin_hiphop",
+        "reggaeton_classic",
+        "singer_songwriter",
+        "folk_traditional",
+        "latin_pop_rock"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9c02c"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/lulalounge.jpg",
+  "name": "Lula Lounge",
+  "username": "lulalounge",
+  "search_cache": "Lula Lounge lulalounge North America América del Norte  Amérique du Nord Nordamerika  Canada Canada Canada Canada Kanada Toronto",
+  "location": [
+    {
+      "country_name": "Canadá",
+      "country_alpha2": "ca",
+      "state": "Ontario",
+      "city": "Toronto",
+      "address": "1585 Dundas St W, Toronto, ON M6K 1T9, Canadá",
+      "latitude": 43.6497277,
+      "longitude": -79.4345802,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "jazz",
+        "experimental"
+      ],
+      "l2": [
+        "latin_jazz",
+        "avant_garde"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9c031"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/atelier.schwartz.jpg",
+  "name": "Atelier Schwartz",
+  "username": "atelier.schwartz",
+  "search_cache": "Atelier Schwartz atelier.schwartz Europe Europa  Europe Europa  Germany Deutschland Germany Allemagne Deutschland Dresden",
+  "location": [
+    {
+      "country_name": "Alemania",
+      "country_alpha2": "de",
+      "state": "",
+      "city": "Dresden",
+      "address": "Förstereistr. 5 U.G  Förstereistraße",
+      "latitude": 51.0678969,
+      "longitude": 13.7497798,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [],
+      "l2": []
+    }
+  },
+  "activity": "non_active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9c038"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/fabricabracodeprata.jpg",
+  "name": "Fábrica Braço de Prata",
+  "username": "fabricabracodeprata",
+  "search_cache": "Fábrica Braço de Prata fabricabracodeprata Europe Europa  Europe Europa  Portugal Portugal Portugal Portugal Portugal Lisboa",
+  "location": [
+    {
+      "country_name": "Portugal",
+      "country_alpha2": "pt",
+      "state": "",
+      "city": "Lisboa",
+      "address": "R. Fábrica de Material de Guerra 1",
+      "latitude": 38.743791,
+      "longitude": -9.1012422,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "latin",
+        "folk"
+      ],
+      "l2": [
+        "andean_indigenous",
+        "folk_traditional",
+        "singer_songwriter"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9c03d"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/olympo.skybar.jpg",
+  "name": "Olympo Skybar",
+  "username": "olympo.skybar",
+  "search_cache": "Olympo Skybar olympo.skybar South America América del Sur  Amérique du Sud Südamerika  Argentina Argentina Argentina Argentine Argentinien Buenos Aires",
+  "location": [
+    {
+      "country_name": "Argentina",
+      "country_alpha2": "ar",
+      "state": "Buenos Aires",
+      "city": "Buenos Aires",
+      "address": "Av. Corrientes 1464, C1042 Buenos Aires, Argentina",
+      "latitude": -34.6042316,
+      "longitude": -58.3874611,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [],
+      "l2": []
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9c043"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/razzmatazzclubs.jpg",
+  "name": "Razzmatazz Club",
+  "username": "razzmatazzclubs",
+  "search_cache": "Razzmatazz Club razzmatazzclubs Europe Europa  Europe Europa  Spain España Spain Espagne Spanien Barcelona",
+  "location": [
+    {
+      "country_name": "España",
+      "country_alpha2": "es",
+      "state": "Cataluña",
+      "city": "Barcelona",
+      "address": "Almogàvers 122",
+      "latitude": 41.3977323,
+      "longitude": 2.1911108,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "indie",
+        "urban_music",
+        "reggae",
+        "latin",
+        "hip_hop",
+        "folk"
+      ],
+      "l2": [
+        "indie_rock",
+        "reggaeton_classic",
+        "regional_reggae",
+        "latin_pop_rock",
+        "latin_hiphop",
+        "singer_songwriter"
+      ]
+    }
+  },
+  "activity": "active"
+},
+{
+  "_id": {
+    "$oid": "6812b712e6f878c46fc9c048"
+  },
+  "entityType": "Place",
+  "profile_pic": "s3://public/funclubsevilla.jpg",
+  "name": "Sala Funclub",
+  "username": "funclubsevilla",
+  "search_cache": "Sala Funclub funclubsevilla Europe Europa  Europe Europa  Spain España Spain Espagne Spanien Sevilla",
+  "location": [
+    {
+      "country_name": "España",
+      "country_alpha2": "es",
+      "state": "Andalucía",
+      "city": "Sevilla",
+      "address": "Alameda de Hércules, 61, 41002 Sevilla, España",
+      "latitude": 37.3978339,
+      "longitude": -5.9934108,
+      "locationPrecision": "POINT"
+    }
+  ],
+  "__v": 0,
+  "genres": {
+    "music": {
+      "l1": [
+        "folk",
+        "hip_hop",
+        "urban_music",
+        "jazz",
+        "genre_fusion",
+        "world",
+        "alternative",
+        "reggae"
+      ],
+      "l2": [
+        "singer_songwriter",
+        "trap_drill",
+        "reggaeton_classic",
+        "jazz_fusion",
+        "european_traditional",
+        "post_genres",
+        "grunge_shoegaze",
+        "regional_reggae"
+      ]
+    }
+  },
+  "activity": "active"
+}]
