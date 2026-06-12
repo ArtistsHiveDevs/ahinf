@@ -1,0 +1,2732 @@
+[{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26b7"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 3,
+  "name": "Lunalé",
+  "username": "lunalemusica",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebc2897ade17eac83f708a8e27",
+  "photo": "",
+  "description": "Cantante y compositora colombiana. Su segundo álbum: Algo hermoso termina ya está disponible.",
+  "country": {
+    "$oid": "66d61985a546e02c6ce65b11"
+  },
+  "city": "Bucaramanga",
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "latin indie",
+      "bolero",
+      "latin r&b",
+      "latin alternative"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "",
+  "email": "email@domain.com",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "lunalemusica",
+  "tiktok": "lunalemusica",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "lunalemusica",
+  "spotify": "19JUD3vdAL8B0G7hpxQHuu",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UCUiu2JtEQ1Dqchpter1HScw",
+  "youtube_widget_id": "ZJCr3oeuG98",
+  "chartmetric": 788606,
+  "spotify_data": {
+    "followers": 12228,
+    "name": "Lunalé",
+    "popularity": 22
+  },
+  "general_rate": 4.503463312531558,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.4585419881983785,
+      "talent": 4.554058965454353,
+      "performance": 3.259120551345477,
+      "proffesionalism": 4.262732809762193,
+      "stage_presence": 4.408634234938378,
+      "charisma": 4.475225367798876,
+      "timeliness": 4.556469156990413,
+      "communication": 3.580853508520184,
+      "respectfulness": 4.126266983609801,
+      "total_rates": 1633
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "08YpjO7782fC1b4GpR0LsQ",
+        "2AAkCTYG2KE8Ocl7JK97wD",
+        "4JTbF9feswVonYL7fHSVCh",
+        "0syMDHmkYbx5dG8bOnZ60z",
+        "4jS676NJhUIjqAjmDzKG5f",
+        "0ZwjmGhps2YvUMzB7ihFV8",
+        "6dqfuonDrw9UdawWJIAGjs",
+        "2WqHyrHA3jRZWmTFTIynZ1",
+        "2agXYMhipkDXIGmy5C158S",
+        "5zuGV6u9UobNW3KPGXui6o",
+        "6vKHhATIB0in0rvrB1nbmU",
+        "2CDQX14Dm9L7YAyJKfLOe5",
+        "45nJ2GweSs0s4gWVGHLhYu",
+        "7EGQpkwkyAgaJSgnRGHJ59",
+        "09uLTF7iK7cR3WsyhGJCoQ",
+        "5UeFBoZ5aFWt6MtINvwwxL",
+        "7oXCcD0gC5pmtZk0HIxOhk",
+        "7qN9FEsJkAp5Efc0xfRcpM",
+        "0ZQlapKWlxWVqzNldGL4MU",
+        "7EnLmrL4jTZKjeseaZyA0L"
+      ],
+      "related_artists": [
+        "67e9a9356466c0a1997e4327",
+        "67e9a9096466c0a1997e3649",
+        "67e9a8fa6466c0a1997e3254",
+        "67e9a8fc6466c0a1997e32cd",
+        "67e9a8d36466c0a1997e26fd",
+        "67e9a8f46466c0a1997e309e",
+        "67e9a8d86466c0a1997e27e1",
+        "67e9a9166466c0a1997e39ff",
+        "67e9a9036466c0a1997e34cb",
+        "67e9a8d66466c0a1997e279c",
+        "67e9a8f96466c0a1997e3223",
+        "67e9a8fe6466c0a1997e337b",
+        "67e9a8db6466c0a1997e28b0",
+        "67e9a8f66466c0a1997e314f",
+        "67e9a9126466c0a1997e38f7",
+        "67e9a9196466c0a1997e3b01",
+        "67e9a8ff6466c0a1997e3389",
+        "67e9a9116466c0a1997e3884",
+        "67e9a9016466c0a1997e343c",
+        "67e9a8f36466c0a1997e3062"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.084Z",
+  "updatedAt": "2025-03-30T20:25:53.084Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26c2"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 14,
+  "name": "Tuna Sabana",
+  "username": "tunasabana",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab67616d0000b273b34804cc9cea0c0e0dc2af6d",
+  "photo": "",
+  "description": "",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": "Bogotá",
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "tuna universitaria"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "https://www.tunasabana.co/",
+  "email": "email@domain.com",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "tunausabana",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "tunasabana",
+  "spotify": "1mE7dHYb9rhhR3ogOCdoy2",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/@tunasabana",
+  "youtube_widget_id": "",
+  "chartmetric": 4294167,
+  "spotify_data": {
+    "followers": 101,
+    "name": "Tuna Sabana",
+    "popularity": 1
+  },
+  "general_rate": 4.1816787822029,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.387543807483044,
+      "talent": 3.0211856704424354,
+      "performance": 4.706938126421223,
+      "proffesionalism": 4.368499390665706,
+      "stage_presence": 3.59909110700097,
+      "charisma": 4.609164996525906,
+      "timeliness": 3.4652542423979433,
+      "communication": 3.1483232719195913,
+      "respectfulness": 3.3736591401001026,
+      "total_rates": 401
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "4gaAJvyDil7BsoiHPJeeaI",
+        "18XCDa1kTmOth0lKm2h5ZF",
+        "3vhmHryJb3TEfv5SaqGHlK",
+        "5pP04uzY1dvrtc3ylIQqpP",
+        "2lZUPchzKkC2iue6uOMxzy",
+        "2mfceEq2UiJGcNBBy7Y1LC",
+        "0GC5FtE1ls4suUv1DyelEb",
+        "4HodMehq31HO2OLdhj0vut",
+        "6B11a0khK9S2tyId2TGgfl",
+        "7LVXY8xwZjjONMpAJeowfo",
+        "2OKJUGCBc7ccixM0rFator",
+        "5LCIlCHmIXxpUbt7PUXVRu",
+        "0hOq7drTZp3TYeUqkSIwL2",
+        "2Q6BdsHGYbNrfTFJWDlChB",
+        "6w7PYySpIINeUX5zkGhnPE",
+        "1j4ORVg0N55hKRwXNhrmfV",
+        "2TkAAi4IzKrHb4cjZWFhPs",
+        "3FuGDKJNi4Sl3nqicYGvEh",
+        "7oAmLb7PdGrdPzHwRyT6aw",
+        "2nSwfKlHqkL4XHkc10dYxI"
+      ],
+      "related_artists": [
+        "67e9a9806466c0a1997e58d5",
+        "67e9a9886466c0a1997e5aff",
+        "67e9a94e6466c0a1997e4a27",
+        "67e9a98a6466c0a1997e5b97",
+        "67e9a9966466c0a1997e5f34",
+        "67e9a98d6466c0a1997e5c54",
+        "67e9a95d6466c0a1997e4ea7",
+        "67e9a9806466c0a1997e58ad",
+        "67e9a98b6466c0a1997e5bdd",
+        "67e9a9836466c0a1997e5983",
+        "67e9a98e6466c0a1997e5cd1",
+        "67e9a98f6466c0a1997e5d0f",
+        "67e9a9586466c0a1997e4d3a",
+        "67e9a9966466c0a1997e5f12",
+        "67e9a9966466c0a1997e5f35",
+        "67e9a9806466c0a1997e58d6",
+        "67e9a9586466c0a1997e4d47",
+        "67e9a95c6466c0a1997e4e80",
+        "67e9a96b6466c0a1997e52b6",
+        "67e9a9766466c0a1997e55b8"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.700Z",
+  "updatedAt": "2025-03-30T20:25:53.700Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26c8"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 20,
+  "name": "La Mano de Parisi",
+  "username": "lamanodeparisi",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb26ca89030c002d015a9b4327",
+  "photo": "",
+  "description": "LA MANO DE PARISI es una banda con elementos de rock alternativo, R&B y pop, por decir algunos géneros. A la hora de hacer música lo hacen sin prejuicios, porque son personas convencidas de que el género musical no importa cuando se hace música sincera. En el 2015 graban su primer EP A Contraluz, con el que empiezan a sonar en radiónica y en menos de una semana hacen parte de toda la programación. En el 2016 son patrocinados por converse para grabar en los estudios de Arbol Naranja con el reconocido productor Justin Douglas. De ahí nacen Perder el Rumbo y Sumergido y empiezan a sonar en Radioacktiva. En el 2018 quedan seleccionados para tocar en Rock Al Parque, luego en Cosquín Rock Colombia. En el 2019 pasan por el cambio más importante de su carrera. Lafér se convierte en la nueva voz de la banda. En esta oportunidad de re-invención dedican todo su tiempo en la composición de su nuevo álbum, el cuál contará con todo un universo. En el 2021 saldrá a la LUZ el nuevo álbum, es cuestión de sintonizar la señal correcta...",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "latin indie",
+      "colombian pop",
+      "latin alternative"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "LaManodeParisi",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "lamanodeparisi",
+  "spotify": "25pWWTQi2PP1Gbtz7RNmN2",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "",
+  "youtube_widget_id": "",
+  "chartmetric": 880702,
+  "spotify_data": {
+    "followers": 422,
+    "name": "La Mano de Parisi",
+    "popularity": 0
+  },
+  "general_rate": 4.840505455501464,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 3.0684569112530515,
+      "talent": 3.02553674585267,
+      "performance": 3.126032855034822,
+      "proffesionalism": 4.555692870424222,
+      "stage_presence": 4.948054356822843,
+      "charisma": 4.652603609435419,
+      "timeliness": 4.433686164507121,
+      "communication": 3.459223835541457,
+      "respectfulness": 3.265245360057043,
+      "total_rates": 290
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "1PVyef5kTCtTswlEb6n3ht",
+        "1ihVuN3bmIbplN55ntNb6u",
+        "44UGtpVvDidX2nmD3bc8Rb",
+        "1vMLnygcpUAYp0xVLiRVRo",
+        "7lh71JicCLz9Ul5yPknses",
+        "4c6u9CQdqnHaIxMZIC2oqg",
+        "3BwHo43POmZ2IqkNrRxHKd",
+        "4VjBfUBeFbe7QrNGuQmC0V",
+        "3TNTEAUvmKcZmz1iR4t4Sv",
+        "5LJ7P6648Rpy44hhUMlpVZ",
+        "5Y0EeGDFbBRmk7Mkw1fgsf",
+        "4c32Eoc0q8gMxGN2HvSzYZ",
+        "3K2dLbKX8O0kRxCz3D91Ih",
+        "4gRCYlW9Atoy4R2wYEIdNt",
+        "6DjLC4dbdUheJp0P8Sartb",
+        "4MfSYmHJhu3AeOOJtVMcS8",
+        "3t1r9JiOI8yN7HcnOy4YkW",
+        "5bTN0MgAA8rwwi16VuwXwA",
+        "0ykbCu7gMcQJPcJSW01D64",
+        "6JKCynWkaXdxjOsjkNWWl9"
+      ],
+      "related_artists": [
+        "67e9a92a6466c0a1997e401e",
+        "67e9a93f6466c0a1997e45d8",
+        "67e9a91b6466c0a1997e3b97",
+        "67e9a9366466c0a1997e4356",
+        "67e9a9436466c0a1997e471b",
+        "67e9a9406466c0a1997e4615",
+        "67e9a9506466c0a1997e4aba",
+        "67e9a93a6466c0a1997e449a",
+        "67e9a93c6466c0a1997e451a",
+        "67e9a96a6466c0a1997e5277",
+        "67e9a9846466c0a1997e59f5",
+        "67e9a9486466c0a1997e4896",
+        "67e9a9446466c0a1997e474e",
+        "67e9a9236466c0a1997e3e0d",
+        "67e9a9496466c0a1997e48df",
+        "67e9a95d6466c0a1997e4eb9",
+        "67e9a9626466c0a1997e4ff2",
+        "67e9a9216466c0a1997e3d4f",
+        "67e9a9596466c0a1997e4d60",
+        "67e9a9216466c0a1997e3d43"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.904Z",
+  "updatedAt": "2025-03-30T20:25:53.904Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26c1"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 13,
+  "name": "Tuna Javeriana",
+  "username": "tunajaveriana",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebd3bc386bba51aa8ffa1aa299",
+  "photo": "",
+  "description": "La Tuna Javeriana es un grupo músico-vocal conformado por estudiantes y egresados de las diferentes facultades de la Pontificia Universidad Javeriana en Bogotá, Colombia. Desde su origen en 1968 la institución se ha mantenido activa sin interrupción alguna desde su fundación, llevando por todos los rincones del País la música y tradiciones típicas de las tunas ibéricas, y algunos temas de la cultura latinoamericana y del folklore Colombiano.",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": "Bogotá",
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "tuna universitaria"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "tunajaveriana",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "tunajaveriana",
+  "spotify": "3I6pXOf69aneZZhDxhPY9U",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/@tunajaveriana8805",
+  "youtube_widget_id": "",
+  "chartmetric": 1142433,
+  "spotify_data": {
+    "followers": 1522,
+    "name": "Tuna Javeriana",
+    "popularity": 18
+  },
+  "general_rate": 4.942082138920362,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.865478603472491,
+      "talent": 4.409992369024836,
+      "performance": 4.69792569047123,
+      "proffesionalism": 3.163783186908149,
+      "stage_presence": 3.0491351596176726,
+      "charisma": 4.679204885196465,
+      "timeliness": 3.8410779787890448,
+      "communication": 4.731371492866238,
+      "respectfulness": 3.3895653559919987,
+      "total_rates": 1952
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "5MonuXcBHQKfzqXXFgUH4Y",
+        "4eywCITGiSaBWOplCPVMIo",
+        "0OxoXaqnXaSBh8F2FAEQdJ",
+        "2B4PJJGjAOSKtuOa4sYk7E",
+        "3Es1Yl90aEgCBfAMovehW0",
+        "6WAvNyqiaW4nypdAEb0EY8",
+        "63jKof4bxzG19RUau0vVoU",
+        "5Pfahh10kAK0jCqpfxSFvB",
+        "0V1P8oESwyDBsUSl0eNg8V",
+        "2SrBtuRsym1mVLSwM2SLLv",
+        "73fJOB9Pa7Dx9AiSyl540W",
+        "4xcnK8V9lO2c0RDpPVFFeN",
+        "3vhmHryJb3TEfv5SaqGHlK",
+        "51ucyKjU8Sp4psrlPWNnkP",
+        "61FvaVv9FSRJFRxL01oXDP",
+        "2Aar6PJtH7wKuOcgFKsF1p",
+        "6E3ZEFHYxYBIQVMj4idcHB",
+        "0SVC5I9BUTxVMhFXJcnc5H",
+        "2oQ1WRcSU8rDg6kUQ6XWeK",
+        "6PI427HtFWZbQtiBEi3uBi"
+      ],
+      "related_artists": [
+        "67e9a8d16466c0a1997e26bf",
+        "67e9a93a6466c0a1997e44b1",
+        "67e9a9136466c0a1997e3918",
+        "67e9a92e6466c0a1997e4101",
+        "67e9a94b6466c0a1997e4947",
+        "67e9a9356466c0a1997e4300",
+        "67e9a92a6466c0a1997e3ff6",
+        "67e9a9396466c0a1997e4428",
+        "67e9a91b6466c0a1997e3b9c",
+        "67e9a90b6466c0a1997e36f9",
+        "67e9a9946466c0a1997e5e82",
+        "67e9a9136466c0a1997e3939",
+        "67e9a94e6466c0a1997e4a27",
+        "67e9a91e6466c0a1997e3c63",
+        "67e9a9116466c0a1997e3885",
+        "67e9a91b6466c0a1997e3b80",
+        "67e9a90d6466c0a1997e378f",
+        "67e9a9976466c0a1997e5f84",
+        "67e9a9866466c0a1997e5a55",
+        "67e9a9486466c0a1997e4869"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.665Z",
+  "updatedAt": "2025-03-30T20:25:53.665Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26bf"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 11,
+  "name": "Tuna Uniandina",
+  "username": "tunauniandina",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebdd9b33a54a9ac35ea3f95b0d",
+  "photo": "",
+  "description": "Con el espíritu emprendedor y ultraísta, gracias a la iniciativa del estudiante Camilo Mariño acompañado por César Acosta, Luis Arturo Rodríguez y otros estudiantes que compartían la afición de alternar su formación académica con el culto y desarrollo de esta tradición tunesca, sinónimo de romanticismo y alegría, se fundó el 24 de Octubre de 1969 La Tuna de la Universidad de los Andes de Bogotá Colombia, siendo una de las decanas de esta tradición en la nación, y a partir de entonces, por espacio de 53 años, nuestra música no ha dejado de sonar y de irrumpir en muchos rincones de Bogotá, sede natural, sino de otras ciudades del país y fuera de las fronteras de nuestra patria, haciendo presencia y representado con mucho entusiasmo, orgullo y responsabilidad tanto a la Universidad como a la Asociación de Egresados Uniandinos.",
+  "country": {
+    "$oid": "66d61985a546e02c6ce65b11"
+  },
+  "city": "Bogotá",
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "tuna universitaria"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "tunauniand",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "tunauniandina",
+  "spotify": "5MonuXcBHQKfzqXXFgUH4Y",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UC4xMFhP2YlOriy-g8oXsmXQ",
+  "youtube_widget_id": "4ZQ6WM_Gnzs",
+  "chartmetric": 6192826,
+  "spotify_data": {
+    "followers": 402,
+    "name": "Tuna Uniandina",
+    "popularity": 14
+  },
+  "general_rate": 4.277982103577857,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.408261793975769,
+      "talent": 4.615033829047671,
+      "performance": 3.8711629113930845,
+      "proffesionalism": 4.0092675984663995,
+      "stage_presence": 4.689064076748273,
+      "charisma": 4.358277071968693,
+      "timeliness": 4.1176896048675165,
+      "communication": 3.819647381221611,
+      "respectfulness": 4.122033693263693,
+      "total_rates": 1965
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "4eywCITGiSaBWOplCPVMIo",
+        "3I6pXOf69aneZZhDxhPY9U",
+        "3vhmHryJb3TEfv5SaqGHlK",
+        "6WAvNyqiaW4nypdAEb0EY8",
+        "3Es1Yl90aEgCBfAMovehW0",
+        "0CiiYsoRtYyLAcGXqMG45q",
+        "2oQ1WRcSU8rDg6kUQ6XWeK",
+        "6SO8cddA6cbKijaGYeTtns",
+        "1fdJSqbMfXEV5w6zpgQwGP",
+        "56jwU2SerOUsd36REQXoTQ",
+        "1aeAGDoLaqiJDlFPhZ9Lep",
+        "2iEUn7FjvuKrj4HQT4u7xY",
+        "3YA1J6VLQUfGIX74p94Dk8",
+        "2EHWEDC1QAhFbYXBfo2tKo",
+        "6h9bT59TuauyIPCAexGVTi",
+        "1tVLkQBqfUkI3xVF5HMexp",
+        "5LCIlCHmIXxpUbt7PUXVRu",
+        "73fJOB9Pa7Dx9AiSyl540W",
+        "0OxoXaqnXaSBh8F2FAEQdJ",
+        "1cYNGw0DRXeLlgaIQbo566"
+      ],
+      "related_artists": [
+        "67e9a93a6466c0a1997e44b1",
+        "67e9a8d16466c0a1997e26c1",
+        "67e9a94e6466c0a1997e4a27",
+        "67e9a9356466c0a1997e4300",
+        "67e9a94b6466c0a1997e4947",
+        "67e9a94c6466c0a1997e499d",
+        "67e9a9866466c0a1997e5a55",
+        "67e9a9536466c0a1997e4be3",
+        "67e9a9566466c0a1997e4cad",
+        "67e9a9606466c0a1997e4fa4",
+        "67e9a9586466c0a1997e4d13",
+        "67e9a97a6466c0a1997e56dd",
+        "67e9a9746466c0a1997e5543",
+        "67e9a9486466c0a1997e48a6",
+        "67e9a9386466c0a1997e4419",
+        "67e9a9846466c0a1997e59f4",
+        "67e9a98f6466c0a1997e5d0f",
+        "67e9a9946466c0a1997e5e82",
+        "67e9a9136466c0a1997e3918",
+        "67e9a93d6466c0a1997e4563"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.596Z",
+  "updatedAt": "2025-03-30T20:25:53.596Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8ce6466c0a1997e26b6"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 2,
+  "name": "Tres de Febrero",
+  "username": "tresdefebreromusica",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "",
+  "photo": "",
+  "description": "",
+  "country": null,
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": []
+  },
+  "spoken_languages": [],
+  "stage_languages": [],
+  "arts_languages": [],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "tresdefebreromusica",
+  "spotify": "",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UC8SJa0DkQcB0CMrlCKDGzUQ",
+  "youtube_widget_id": "",
+  "chartmetric": "",
+  "spotify_data": {},
+  "general_rate": 4.801056865352869,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.4937600858605755,
+      "talent": 3.3409448732808165,
+      "performance": 4.579473345292965,
+      "proffesionalism": 4.2966962498119035,
+      "stage_presence": 4.705920865343169,
+      "charisma": 3.527289685675846,
+      "timeliness": 4.181894792643099,
+      "communication": 3.425975295425354,
+      "respectfulness": 4.843619415732627,
+      "total_rates": 308
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": []
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:50.950Z",
+  "updatedAt": "2025-03-30T20:25:50.950Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26c4"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 16,
+  "name": "El Alcalde Morcilla",
+  "username": "elalcaldemorcilla",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebb41fd32db9eaec01e67f662a",
+  "photo": "",
+  "description": "El Alcalde Morcilla es un Power Trío de Psicodelia y Art Rock Bogotano. Una banda que no pierde la libertad creativa al componer sus canciones, y que se definen bajo el concepto de entropía. Una dualidad entre surrealismo y ciencia, azar y lógica, improvisación y locura, música y arte. Es una experiencia multisensorial que lleva a la introspección a sus oyentes. La banda fue fundada por allá a finales del 2017 por Juan Camilo y Daniel, con la idea de formar un grupo donde “todo se pueda”, de hacer arte solo por el placer de hacerlo y que la necesidad de plasmar ideas no se limite por prejuicios. Después de un par de ensayos descubren que falta un ingrediente en su receta, e incorporan a Sebastián Passos, cuyas ideas y pensamientos concuerdan perfectamente con el proyecto. Cuando estos tres se juntan a tocar, es como si un aura violeta saliese a iluminar el espacio, el aura del Alcalde Morcilla, que cuando te conectas, saldrás cuestionando acerca de tu ser, de la vida, del universo… Pero con cierta tranquilidad, porque te darás cuenta que esa necesidad de entender la vida está en todos nosotros, y al final nos complicamos más de lo que debemos, que todo es realmente más simple y que los problemas no son tan densos porque todo es una construcción de nuestra conciencia. ENTROPÍA, Libertad, Incomodidad e Inconformismo son términos que también definen al Alcalde Morcilla. Juan Camilo Camacho Leal - TECLADISTA/BAJISTA Daniel Orozco - BATERISTA Sebastián Passos - GUITARRA",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": []
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "elalcaldemorcilla",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "elalcaldemorcilla",
+  "spotify": "4Pi34ikzcryc99QLK06Tyo",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UCDLML-JfqanCEZBZd6WDLKQ",
+  "youtube_widget_id": "nGDsMun9bBM",
+  "chartmetric": 6674678,
+  "spotify_data": {
+    "followers": 262,
+    "name": "El Alcalde Morcilla",
+    "popularity": 0
+  },
+  "general_rate": 3.9815377756919585,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 3.1239363257501327,
+      "talent": 3.1671794420989423,
+      "performance": 3.5882039833279356,
+      "proffesionalism": 3.4249168413803903,
+      "stage_presence": 3.7723524868111555,
+      "charisma": 4.142931169788044,
+      "timeliness": 3.667362129299428,
+      "communication": 3.720226193864426,
+      "respectfulness": 3.9266902206056247,
+      "total_rates": 1788
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "2ToK1ipbVpEIcC3x7Bb52W",
+        "45rYgzX7fZDOXOKysawEqd",
+        "0iALXI2h7FojXxHqUPaqAP",
+        "408srx0TdvWdub6svhUd7d",
+        "2mrRKjHn33Lj0vn6ggNNHN",
+        "19KQG1G6tc5FSmIEQ0WOPs",
+        "2Hp6t42Md908OCRL3mNqa0",
+        "1ExReEwL0h8ZWrLHPjQ9YE",
+        "1wHptSDgqHuIBNzx5YbdkH",
+        "5RD5JAMwWmTkTN1wef1wMG",
+        "7pd5ajNnvLo4tpTA3KfBFB",
+        "4pimjrSwCXS1dhBn2GJjg9",
+        "2BK0stHHGdkx5vxXpnPRNR",
+        "0RzJ4IJAdG4rN5ZnIDxvLK",
+        "4yIsXFg73pYq9XvTiV3el8",
+        "4pHaF9klgap0mRTojNMUkt",
+        "7iCGpfe9uV2Y5K1eo1a51A",
+        "5msm6UmV2J9skOs22xvNYj",
+        "3APn7zrUsyaZCc37kpnc13",
+        "6aEeZI4s7ekiuE3MYLYub7"
+      ],
+      "related_artists": [
+        "67e9a92d6466c0a1997e40c0",
+        "67e9a95e6466c0a1997e4ede",
+        "67e9a9336466c0a1997e427e",
+        "67e9a8d86466c0a1997e2803",
+        "67e9a9416466c0a1997e4696",
+        "67e9a92b6466c0a1997e406b",
+        "67e9a9516466c0a1997e4b43",
+        "67e9a9726466c0a1997e54ca",
+        "67e9a9546466c0a1997e4c26",
+        "67e9a94a6466c0a1997e490b",
+        "67e9a9686466c0a1997e51e3",
+        "67e9a9366466c0a1997e438e",
+        "67e9a9546466c0a1997e4be4",
+        "67e9a9256466c0a1997e3ebe",
+        "67e9a9156466c0a1997e39b8",
+        "67e9a9676466c0a1997e5165",
+        "67e9a91f6466c0a1997e3cc7",
+        "67e9a9506466c0a1997e4afc",
+        "67e9a9606466c0a1997e4fa5",
+        "67e9a92a6466c0a1997e400f"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.773Z",
+  "updatedAt": "2025-03-30T20:25:53.773Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26bd"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 9,
+  "name": "Espiral7",
+  "username": "espiral7_",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebf3d3e4096bfc99953d8d6bc5",
+  "photo": "",
+  "description": "Espiral7 combina los sonidos que habitan en Cali, el Rock, la Salsa y sonidos del pacifico. Hacemos parte del movimiento Neo - Caleño.",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": "Cali",
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": []
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "https://www.espiral7.com/",
+  "email": "email@domain.com",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "espiral7banda",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "espiral7_",
+  "spotify": "05Y9z2ZOtMMuD5lnZZc6VM",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UCvfZHWRxt0qyNMUA_-Pf6xg",
+  "youtube_widget_id": "L5nvU9_NeHc",
+  "chartmetric": 1142463,
+  "spotify_data": {
+    "followers": 1744,
+    "name": "Espiral7",
+    "popularity": 12
+  },
+  "general_rate": 4.544651369817938,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 3.8416803105816935,
+      "talent": 4.732786286391885,
+      "performance": 4.466065658138403,
+      "proffesionalism": 3.493784510849271,
+      "stage_presence": 4.803459020606654,
+      "charisma": 3.2322275083066527,
+      "timeliness": 4.242429349955475,
+      "communication": 4.557589357606427,
+      "respectfulness": 4.077536539830845,
+      "total_rates": 2378
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "3QMjuMcKQYudaantEcbeUb",
+        "27tzWQUHyr1aGIY84qNfjF",
+        "4aqYyh04vHpiOGUvLCOlGH",
+        "6s6J8UFk6BV2u8vNHthqts",
+        "4PzgvYg014fDLGjRi4ahRS",
+        "0Tbz7oXr9wBXU9vEWmEcwk",
+        "5Exv6RVCMfy0dbc175j4aJ",
+        "0BMdOLQhGHWrObED90pppA",
+        "52wfg57M59PEaUtjmsbe5D",
+        "1ZORuVC0wErK1OzSJbc6r9",
+        "6pljX2CuyB0VH1viXx6igj",
+        "1FUemkhG0OCnj4nB7yNL3P",
+        "01mD42HS8LrWfjHEKcLMbl",
+        "5S544yZpVrXBI7vZC7Ng0I",
+        "5B5nkIFc3X1AXurYHp4Kia",
+        "7dzK8BKwM0OjvPFHlttpes",
+        "0ZmLQD0JMILG9pXpHLTfaw",
+        "7ymW4RibYTRpCKmk3Q5YyH",
+        "73IMBZD6q2m037SucXEFvC",
+        "37uC6TQUQXf6UC7DKw5x1S"
+      ],
+      "related_artists": [
+        "67e9a8df6466c0a1997e29ac",
+        "67e9a98d6466c0a1997e5c6d",
+        "67e9a9806466c0a1997e58d4",
+        "67e9a9656466c0a1997e50db",
+        "67e9a91d6466c0a1997e3c33",
+        "67e9a9916466c0a1997e5d9d",
+        "67e9a92d6466c0a1997e40df",
+        "67e9a90b6466c0a1997e36de",
+        "67e9a90e6466c0a1997e37c4",
+        "67e9a9026466c0a1997e349a",
+        "67e9a9566466c0a1997e4c8f",
+        "67e9a93d6466c0a1997e453f",
+        "67e9a9866466c0a1997e5a54",
+        "67e9a93c6466c0a1997e44fd",
+        "67e9a98a6466c0a1997e5b96",
+        "67e9a9666466c0a1997e511e",
+        "67e9a9156466c0a1997e39c8",
+        "67e9a9506466c0a1997e4af2",
+        "67e9a9846466c0a1997e59f3",
+        "67e9a95b6466c0a1997e4e33"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.462Z",
+  "updatedAt": "2025-03-30T20:25:53.462Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26ba"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 6,
+  "name": "Puerto Candelaria",
+  "username": "puertocandelaria",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebce3f47fd96a4df0a1abb92d1",
+  "photo": "",
+  "description": "PUERTO CANDELARIA (Ganador de Latin Grammy 2019 Mejor Álbum Cumbia y nominado nuevamente en 2022 y 2024) es una gran explosión sonora colombiana que ha traspasado las fronteras, ha burlado los esquemas y ha trazado un camino por el que no sólo transita la música: el teatro, la danza y el humor son los efectivos recursos de los que se valen sus integrantes para exponer ácida y burlonamente el absurdo que es Colombia. Puerto Candelaria es una atrevida, controversial e innovadora agrupación colombiana, que ha sido pieza fundamental en el movimiento que redefinió la industria musical de los últimos tiempos de su país y Latinoamérica. Fundada en el año 2000 por el genio y 2 veces ganador del Latin Grammy Juancho Valencia, propone un audaz viaje sonoro por la Cumbia, los sonidos tropicales, el Jazz y la World Music en canciones que invitan por igual al baile loco o la reflexión profunda, convirtiéndose en abanderados de las causas invisibles con un talento excepcional y haciendo resistencia desde la música. Su puesta en escena cargada de humor, baile, teatro y diversión, contagia de inmediato hasta al espectador desprevenido, convirtiéndose en una experiencia inolvidable. Más de 35 países y 180 ciudades alrededor del mundo, han sido conquistados con su sonido único.",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": "Medellín",
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "colombian pop",
+      "latin indie",
+      "latin alternative"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "https://www.puertocandelaria.com/",
+  "email": "email@domain.com",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "PuertoCandelaria",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "puertocandelaria",
+  "spotify": "27neIga89YKdkCk6Yzv0ni",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UC0kgN8XYmjRqd_jU0-v3COg",
+  "youtube_widget_id": "bM6AKoNW2lM",
+  "chartmetric": 138988,
+  "spotify_data": {
+    "followers": 77428,
+    "name": "Puerto Candelaria",
+    "popularity": 38
+  },
+  "general_rate": 3.1111277517219293,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 3.9210538241708397,
+      "talent": 4.020328992302529,
+      "performance": 4.853879952995145,
+      "proffesionalism": 3.8774421508492503,
+      "stage_presence": 3.774406908096287,
+      "charisma": 3.3883040277150687,
+      "timeliness": 4.7072480993047625,
+      "communication": 4.2108975011986045,
+      "respectfulness": 4.327036551858752,
+      "total_rates": 691
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "0MLYbZzqPJvWyUGTxalv9u",
+        "1XPFAsXCMflKBKZuNIkru3",
+        "1g7elX65GsVRwG2StN8rdN",
+        "4amnKowqRToNdZmktAQtIs",
+        "2bptZEfEQ68RipspwZH40F",
+        "0tXDcSrVDkKxUWYxZnZ3Sr",
+        "0xxOFRCAFPCA8ePZcuIb0G",
+        "6acBIoMWoHuUksQRUK1fwd",
+        "5K9s0LL9GnmJ2o8IrJXVCy",
+        "1NSCV7BwFzZuE7WS7ZqXaL",
+        "22CvgjvwICkeXjcYWLykD3",
+        "3aeY1LxKK63GRg7tmI8UVa",
+        "4XDotByiioCWHV566OcWQc",
+        "25UVM4HwATaXX6M7SXT1JI",
+        "6ykPwZtw5Kg15wT3AIg0ld",
+        "2vITZovJRCRAywLXzKqEje",
+        "3XSg2R8eOt7fWiRmBYv2fA",
+        "1UjcraxS4IGrHwUJJydOKG",
+        "3ljnYB3ODjEMEJgdHUPMPi",
+        "0qEMz90gSP62fGglkNnhg9"
+      ],
+      "related_artists": [
+        "67e9a9156466c0a1997e39cd",
+        "67e9a8d16466c0a1997e26b8",
+        "67e9a9126466c0a1997e3902",
+        "67e9a9466466c0a1997e47cd",
+        "67e9a9126466c0a1997e38f1",
+        "67e9a9196466c0a1997e3b1b",
+        "67e9a9006466c0a1997e33cd",
+        "67e9a8d96466c0a1997e2817",
+        "67e9a93d6466c0a1997e4573",
+        "67e9a90f6466c0a1997e382e",
+        "67e9a8d56466c0a1997e2752",
+        "67e9a8d86466c0a1997e280c",
+        "67e9a8d46466c0a1997e271f",
+        "67e9a8d16466c0a1997e26ca",
+        "67e9a8d46466c0a1997e2715",
+        "67e9a8d56466c0a1997e275d",
+        "67e9a91a6466c0a1997e3b3b",
+        "67e9a9026466c0a1997e347a",
+        "67e9a8de6466c0a1997e2961",
+        "67e9a8df6466c0a1997e29b5"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.354Z",
+  "updatedAt": {
+    "$date": "2025-09-15T05:01:54.793Z"
+  },
+  "__v": 4,
+  "entityRoleMap": [
+    {
+      "ids": [
+        {
+          "$oid": "672c21852d6249ea213abe09"
+        }
+      ],
+      "role": "OWNER",
+      "_id": {
+        "$oid": "68bb09b80456e0186e3e9605"
+      }
+    },
+    {
+      "ids": [
+        {
+          "$oid": "672c21852d6249ea213abe09"
+        }
+      ],
+      "role": "MUSIC_PERFORMANCE",
+      "_id": {
+        "$oid": "68bb0eca0456e0186e3e9785"
+      }
+    },
+    {
+      "ids": [
+        {
+          "$oid": "672c21852d6249ea213abe09"
+        }
+      ],
+      "role": "GENERAL_MANAGEMENT",
+      "_id": {
+        "$oid": "68c0a54d2c72ae7944d554e1"
+      }
+    },
+    {
+      "ids": [
+        {
+          "$oid": "672c21852d6249ea213abe09"
+        }
+      ],
+      "role": "VISUAL_ARTS",
+      "_id": {
+        "$oid": "68c79dc27755fbdb52ea5988"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26bb"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 7,
+  "name": "Chelo La Cabra",
+  "username": "chelolacabra",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb9293dfa1b46320cbabca614d",
+  "photo": "",
+  "description": "Chelo la Cabra es una propuesta explosiva desde lo más visceral y esencial. Este \"animal \" en escena no sólo hace mover el cuerpo sino también el cerebro con sus letra agudas que invitan al amor propio, a la búsqueda de la esencia y al respeto por la diferencia, en un show enérgico con mucha fuerza y poder femenino. Una fusión de ritmos universales y tradicionales con el beat de la música alternativa en una mujer que se aleja de los prototipos en la industria y tiene el carácter para reivindicar la trascendencia de lo femenino en la construcción de sociedad. Chelo invita a incomodar, desencajar, desacomodar lo establecido con humor, ironía y muy buena energía. Lo \"urbano\" en la camaleónica voz de Chelo La Cabra es un concepto global, se refiere e incluye a todos los ritmos que nacen en la calle, en la urbe, como son la salsa, el tango o el rock, abriendo un camino alterno en estas músicas desde su sonido y discurso. La Revolución de la Esencia fue el primer trabajo discográfico de Chelo la Cabra, dentro de él su canción Mala se convirtió en el himno de muchas mujeres de todas las edades, que prefieren ser señaladas por su maldad antes de renunciar a lo que son. Actualmente esta Cabra prepara de la mano de su casa productora Merlín Producciones, las canciones que marcarán una nueva faceta en su carrera: experimentos musicales arriesgados bajo la producción del ganador del Latin Grammy Juancho Valencia como Vida Real e Infiel.",
+  "country": null,
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": []
+  },
+  "spoken_languages": [],
+  "stage_languages": [],
+  "arts_languages": [],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "CheloCabra",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "chelolacabra",
+  "spotify": "7fwcXbi5Ta1RFXT5q5v82X",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UCS5w1r0bwsRJHPLHMmHSaGA",
+  "youtube_widget_id": "",
+  "chartmetric": 3674628,
+  "spotify_data": {
+    "followers": 477,
+    "name": "Chelo La Cabra",
+    "popularity": 1
+  },
+  "general_rate": 4.472786484365804,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.092391040273551,
+      "talent": 3.141299759275107,
+      "performance": 4.246892935011042,
+      "proffesionalism": 4.349209578004048,
+      "stage_presence": 4.250106233331121,
+      "charisma": 4.38589590585824,
+      "timeliness": 4.817033523646262,
+      "communication": 3.7124116446426325,
+      "respectfulness": 4.322595382976317,
+      "total_rates": 979
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "3h88pHppDSlon2cSrigQgq",
+        "3wZX8I5wAaSgoGbPsJFaaE",
+        "52E92fgzjy9nlbzXbpFU9I",
+        "3R7P1bbJCt2w7OI2awRHqZ",
+        "174IWW1eKb4HdfjJCGhpzE",
+        "3y6JcWChQ1NctZArU0u7cn",
+        "2rrXcTnuijYuwD8rlRA34a",
+        "5ruBAH1MNHjAjcOCGcE4FV",
+        "1QUg6mcVTLtqICHf5TzUNq",
+        "30ljQHlmGdZ6XM2Qr2t80E",
+        "2b4o3i2FEUYEVFmi72Jxnh",
+        "3yklYqdLci5txywymFVzjq",
+        "61DbWVZzA8e59iGqxMJx5J",
+        "52wfg57M59PEaUtjmsbe5D",
+        "5MU8sxl6XTj4hWwvuooZJF",
+        "4E0ojokbKsSvvK8zUArFTc",
+        "5OfJYcZttEc3n5M38qVKUA",
+        "7aa1K7D6Vhyu7cFltT9IPC",
+        "4SA4YqRxbhRNcHaoedTTbY",
+        "1FWIORCrgcKnZsI0L6yaVJ"
+      ],
+      "related_artists": [
+        "67e9a9226466c0a1997e3d90",
+        "67e9a95a6466c0a1997e4de1",
+        "67e9a92c6466c0a1997e4094",
+        "67e9a92a6466c0a1997e3ffb",
+        "67e9a98f6466c0a1997e5ceb",
+        "67e9a9946466c0a1997e5e81",
+        "67e9a95e6466c0a1997e4eec",
+        "67e9a9406466c0a1997e4643",
+        "67e9a9716466c0a1997e544b",
+        "67e9a94f6466c0a1997e4a73",
+        "67e9a9356466c0a1997e431e",
+        "67e9a9436466c0a1997e46fb",
+        "67e9a9916466c0a1997e5db9",
+        "67e9a90e6466c0a1997e37c4",
+        "67e9a9776466c0a1997e561c",
+        "67e9a9246466c0a1997e3e3f",
+        "67e9a9246466c0a1997e3e42",
+        "67e9a9676466c0a1997e517c",
+        "67e9a9766466c0a1997e55e1",
+        "67e9a9486466c0a1997e4868"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.389Z",
+  "updatedAt": "2025-03-30T20:25:53.389Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26c0"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 12,
+  "name": "Tuna Femenina Uniandina",
+  "username": "tufeuniandina",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab67616d0000b273e68c409c420e68d29f8a05f5",
+  "photo": "",
+  "description": "",
+  "country": {
+    "$oid": "66d61985a546e02c6ce65b11"
+  },
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": []
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "tunafemuniandina",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "tufeuniandina",
+  "spotify": "0L781YVH7uhxnb9Yofxwu6",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "",
+  "youtube_widget_id": "",
+  "chartmetric": 898440,
+  "spotify_data": {
+    "followers": 152,
+    "name": "Tuna Femenina Uniandina",
+    "popularity": 1
+  },
+  "general_rate": 4.061350738170461,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.035659237355384,
+      "talent": 4.819998483870567,
+      "performance": 4.628517326050229,
+      "proffesionalism": 4.2160672277059295,
+      "stage_presence": 3.6500256293783444,
+      "charisma": 4.493066792411506,
+      "timeliness": 4.579004444817675,
+      "communication": 3.593969398203791,
+      "respectfulness": 3.6457750394015926,
+      "total_rates": 972
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "40bfJ8CMCUDig6sp0X5zk2",
+        "4PSMDggtJL3mzoMxOoYNwK",
+        "3wH4XpGQG8QDlZesfQdnc5",
+        "33b5WiHuTylkrCLxsgX36c",
+        "3l3vXjpTyFyJozSOMlhKvs",
+        "7JzpL5RxFNUl6dvkpb3Oza",
+        "0dlUURgTpz0rYgLLg0IW4V",
+        "2fcO7oVM8lpbM0HYjYt8fl",
+        "6TVPDW0FmSh628IdwPHrf7",
+        "3C9lLm7hblhUHTxcyVMWHE",
+        "2dvR1Bnomw4TZ1ApBL9biq",
+        "3GpPzinSYiVCG2lcJJUnmG",
+        "7ceUuXFkDbWYyfvTXwmktG",
+        "6SrQqB6dK7ygofU9vVKZcI",
+        "2GhTqVT1DZxlpm3vXLzDlW",
+        "4Tcxui0zXH1WB4elgr86su",
+        "1ER8W9PjiPFIpkrU7oep4W",
+        "2Xawm1NU3hWIQLN78iQZrJ",
+        "58SnCJ3nLJMDLUdBRLfV2B",
+        "0KgCCEhI48HnH79xe5w8cQ"
+      ],
+      "related_artists": [
+        "67e9a9976466c0a1997e5f5b",
+        "67e9a9916466c0a1997e5dba",
+        "67e9a98d6466c0a1997e5c53",
+        "67e9a9576466c0a1997e4cdb",
+        "67e9a95d6466c0a1997e4ea6",
+        "67e9a9896466c0a1997e5b52",
+        "67e9a9646466c0a1997e50a5",
+        "67e9a9866466c0a1997e5a56",
+        "67e9a9976466c0a1997e5f5c",
+        "67e9a98b6466c0a1997e5bfa",
+        "67e9a9966466c0a1997e5f11",
+        "67e9a9906466c0a1997e5d4a",
+        "67e9a97e6466c0a1997e5803",
+        "67e9a97a6466c0a1997e571a",
+        "67e9a9966466c0a1997e5f33",
+        "67e9a98f6466c0a1997e5d2e",
+        "67e9a97c6466c0a1997e57a7",
+        "67e9a94f6466c0a1997e4aae",
+        "67e9a9896466c0a1997e5b53",
+        "67e9a9836466c0a1997e5982"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.630Z",
+  "updatedAt": "2025-03-30T20:25:53.630Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26ca"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 22,
+  "name": "El Caribefunk",
+  "username": "caribefunk",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb44d316836b4c5d95b9e99fd4",
+  "photo": "",
+  "description": "El Caribefunk is a musical project from Cartagena, Colombia. The group was formed in 2012 in the Argentinian capital Buenos Aires, where musicians from different latitudes met each other and started to study and create music together. After being a four piece band, today El Caribefunk continues as a fully independent self-managed duo, which has brought its new challenges. Their most recent album \"Energía para Regalar\" received a Latin Grammy 2020 nomination for best contemporary album/Tropical fusion and reflect the maturity of the new Caribefunk. El Caribefunk current formation of Funkcho Salas (vocals and guitar) and Andrés Mordecai (percussionist and vocalist) is the result of a never ending search for the most natural and wholesome way to apply new musical influences and to connect with their audience. All the contributing members have defined the project as a mental state, an organic sound, a place where African music meets the greater Caribbean. Since 2012 El Caribefunk have taken their music to the most distant countries. Initially, in Buenos Aires and various cities in Argentina and Colombia. However, what started as a backpacking trip through Latin America, ended up kickstarting the exposure of (and demand for) their music in the streets, bars or beaches of a multitude of Latin American cities. In the following years, the spectrum expanded throughout almost all of America and Europe, leading the group to a self-managed tours around 23 countries.",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "colombian pop"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "https://caribefunk.com/",
+  "email": "email@domain.com",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "caribefunk",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "caribefunk",
+  "spotify": "25UVM4HwATaXX6M7SXT1JI",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "elcaribefunk",
+  "youtube_widget_id": "1w0cWJwLoSI",
+  "chartmetric": 136679,
+  "spotify_data": {
+    "followers": 71438,
+    "name": "El Caribefunk",
+    "popularity": 41
+  },
+  "general_rate": 3.1486928168064314,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 3.927682075808854,
+      "talent": 4.638028789416397,
+      "performance": 3.328462016885119,
+      "proffesionalism": 3.5475358345583574,
+      "stage_presence": 4.970152035542631,
+      "charisma": 4.64354667850318,
+      "timeliness": 3.531526426302039,
+      "communication": 4.846075648539422,
+      "respectfulness": 3.3015898604610516,
+      "total_rates": 1348
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "6acBIoMWoHuUksQRUK1fwd",
+        "0tXDcSrVDkKxUWYxZnZ3Sr",
+        "2xp0qk4c05JNAzXNxrMtL3",
+        "1MS4MMgPaQ0WyM0u0Uj3EO",
+        "4amnKowqRToNdZmktAQtIs",
+        "2Otnykd696YidQYfEGVmNq",
+        "2SIZkgqao1WVQAuliN0PN4",
+        "6o18TntwImEA6s5ZfQNX80",
+        "1g7elX65GsVRwG2StN8rdN",
+        "6Hw8INToSfJFmHYEeQDFVb",
+        "3B60XaU4JlyOP1kHkRnFo4",
+        "27neIga89YKdkCk6Yzv0ni",
+        "6guLg5yfcFlYyRp4DzrEO2",
+        "5d9KoTojPUrURfVQDK6KL7",
+        "4uEjs5nRJ1zdrFUZj7Zh3o",
+        "0MLYbZzqPJvWyUGTxalv9u",
+        "5rcngGcuqZIHMnXihxSJHP",
+        "2dwM9OcE4c3Ph1UBINSodx",
+        "2ovmrverobmQvD14n5REoU",
+        "4IIMZoAdqA6UymMNnWvs2t"
+      ],
+      "related_artists": [
+        "67e9a8d96466c0a1997e2817",
+        "67e9a9196466c0a1997e3b1b",
+        "67e9a8d26466c0a1997e26cf",
+        "67e9a8d46466c0a1997e271c",
+        "67e9a9466466c0a1997e47cd",
+        "67e9a8d96466c0a1997e2821",
+        "67e9a8d46466c0a1997e271d",
+        "67e9a8d36466c0a1997e26f3",
+        "67e9a9126466c0a1997e3902",
+        "67e9a8d46466c0a1997e271e",
+        "67e9a8d26466c0a1997e26ce",
+        "67e9a8d16466c0a1997e26ba",
+        "67e9a8f86466c0a1997e31ca",
+        "67e9a9036466c0a1997e34ca",
+        "67e9a9376466c0a1997e43c2",
+        "67e9a9156466c0a1997e39cd",
+        "67e9a8e06466c0a1997e2a11",
+        "67e9a9096466c0a1997e364d",
+        "67e9a8d46466c0a1997e2721",
+        "67e9a8fb6466c0a1997e32a2"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.972Z",
+  "updatedAt": "2025-03-30T20:25:53.972Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26bc"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 8,
+  "name": "Los Cañaverales",
+  "username": "los_canaverales",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab67616d0000b27375bd52f3a3bbdf6e9abaec72",
+  "photo": "",
+  "description": "Los Cañaverales",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": []
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "loscanaveralesdelbohio",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "los_canaverales",
+  "spotify": "3O08E697JnrOi9nAFA7yc6",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/@los_canaverales",
+  "youtube_widget_id": "w28v3q8jiOk",
+  "chartmetric": 5141196,
+  "spotify_data": {
+    "followers": 81,
+    "name": "Los Cañaverales",
+    "popularity": 0
+  },
+  "general_rate": 3.1331715443689956,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.333041655944493,
+      "talent": 3.101083926255634,
+      "performance": 4.199623167385111,
+      "proffesionalism": 4.586520759789994,
+      "stage_presence": 4.762341427653423,
+      "charisma": 4.7031135442409955,
+      "timeliness": 3.289499787052374,
+      "communication": 3.2719981354944148,
+      "respectfulness": 3.1802158512284997,
+      "total_rates": 2084
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "1A1UEOuMlKlMjsYgULstTl",
+        "24EsYorEEpOEH5ptXTIe7o",
+        "7Al8ctAhz81snpXzJUZygQ",
+        "7i560Jt8I05Swtx1BfXYZA",
+        "61PIyhVCk8fWjzBazokdp3",
+        "5Ft8Q1NcBo5YP9LSyOju1m",
+        "19TeGaesiRigdwiTNgKfGT",
+        "4v2L7LSPnmwjtf4EShxbnh",
+        "604fVQ1fRHGKpDl5JzcmIC",
+        "2nQ7zZ2esSVKZFJS2L6gFb",
+        "11T7wIH9Ep1OLNcZ3h4VBs",
+        "4DgYSOXGnS40mo1Huu1SRD",
+        "7fSzGfIilk1Ya4hd4rVjEs",
+        "2NqLIrTelvMT5PSyEqnpou",
+        "1ulNN2dzPnUpDyZQqXHCAZ",
+        "2XdOncbK4YubUJEexCjlYm",
+        "64kIWHAHEpIDY8ogbP4dyM",
+        "3un9ofJS8pOP6P2TrZ7jSC",
+        "2wScIKlAtlfxaNaHoPYTn3",
+        "4bMjmkopVr1ulgqEdVyluL"
+      ],
+      "related_artists": [
+        "67e9a9596466c0a1997e4d89",
+        "67e9a9296466c0a1997e3f9d",
+        "67e9a9366466c0a1997e4373",
+        "67e9a9666466c0a1997e5130",
+        "67e9a97d6466c0a1997e57c5",
+        "67e9a98e6466c0a1997e5cb2",
+        "67e9a98a6466c0a1997e5b76",
+        "67e9a93b6466c0a1997e44c3",
+        "67e9a9696466c0a1997e51fb",
+        "67e9a9776466c0a1997e561d",
+        "67e9a97e6466c0a1997e5844",
+        "67e9a98e6466c0a1997e5cd0",
+        "67e9a9736466c0a1997e5508",
+        "67e9a9916466c0a1997e5d9c",
+        "67e9a94d6466c0a1997e4a0c",
+        "67e9a97f6466c0a1997e588c",
+        "67e9a95c6466c0a1997e4e4a",
+        "67e9a95b6466c0a1997e4e11",
+        "67e9a9646466c0a1997e50c1",
+        "67e9a9756466c0a1997e559e"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.427Z",
+  "updatedAt": "2025-03-30T20:25:53.427Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26b8"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 4,
+  "name": "Los Rolling Ruanas",
+  "username": "losrollingruanas",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb95ff79643d6087fbdd8d298d",
+  "photo": "",
+  "description": "Nativos de la ciudad de Bogotá, Colombia, Los Rolling Ruanas se forman en 2014 con Juan Diego Moreno (Voz y Guacharaca), Fer Cely \"El Padrino\" (Requinto y Coros), Luis Guillermo González (Guitarra y Coros) y Jorge Mario Vinasco (Tiple y Coros), Los Rolling Ruanas mezclan elementos de la música campesina del interior colombiano con diferentes géneros de Latinoamérica y el mundo. En su carrera han publicado seis discos: La balada del Carranguero (2017), Sangre Caliente (2018), La Casa de la Abuela (2020), Nueva Tierra (2021), LatinoAMORricano(2023) y El Rey de la Montañana (soundtrack oficial) 2023. En sus 10 años de carrera han realizado más de 300 conciertos en Colombia, Estados Unidos,Europa e India.",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": "Bogotá",
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "colombian indie",
+      "colombian rock",
+      "folclor colombiano"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "www.losrollingruanas.com",
+  "email": "email@domain.com",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "losrollingruanas",
+  "tiktok": "losrollingruanas",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "losrollingruanas",
+  "spotify": "1XPFAsXCMflKBKZuNIkru3",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UCjKeErXIP2gWGYS_inNyK1A",
+  "youtube_widget_id": "WyM2eorrBWo",
+  "chartmetric": 102606,
+  "spotify_data": {
+    "followers": 33297,
+    "name": "Los Rolling Ruanas",
+    "popularity": 27
+  },
+  "general_rate": 4.930340987176587,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.078344336411774,
+      "talent": 3.2140162945383155,
+      "performance": 4.917394492828569,
+      "proffesionalism": 4.408054435809781,
+      "stage_presence": 3.1312185093917484,
+      "charisma": 3.668720947025854,
+      "timeliness": 4.314035636726006,
+      "communication": 4.498579087186872,
+      "respectfulness": 3.806596384258773,
+      "total_rates": 1314
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "27neIga89YKdkCk6Yzv0ni",
+        "3XSg2R8eOt7fWiRmBYv2fA",
+        "0xxOFRCAFPCA8ePZcuIb0G",
+        "1nh1tWk4ZqRPrl0XqICYgn",
+        "1UjcraxS4IGrHwUJJydOKG",
+        "1JsOhvlKixB7iZtWliD1nd",
+        "7cC14jlZcFQueGrGHDYg51",
+        "2vITZovJRCRAywLXzKqEje",
+        "3ljnYB3ODjEMEJgdHUPMPi",
+        "0tXDcSrVDkKxUWYxZnZ3Sr",
+        "0MLYbZzqPJvWyUGTxalv9u",
+        "59E88LhjuxkFlH56ByY5Oi",
+        "61w7uHNAsKqT4IXHHOT5iP",
+        "1nV4bRtpwOUY2BAoxsLcpq",
+        "5cV9Dza9Slv8jlGAzYYiCy",
+        "6qr2W4OfZLCIC7gItc7j0r",
+        "1v1bLU3nx3dpJKGoWLYkhW",
+        "5BZ6sE59U7VZpR90vWbMma",
+        "2saVhSlCKjNZnW4QZcFHkE",
+        "1To9XZOmBJgqfVfUCRK0OI"
+      ],
+      "related_artists": [
+        "67e9a8d16466c0a1997e26ba",
+        "67e9a91a6466c0a1997e3b3b",
+        "67e9a9006466c0a1997e33cd",
+        "67e9a90f6466c0a1997e37fa",
+        "67e9a9026466c0a1997e347a",
+        "67e9a9126466c0a1997e38d8",
+        "67e9a8d96466c0a1997e284a",
+        "67e9a8d56466c0a1997e275d",
+        "67e9a8de6466c0a1997e2961",
+        "67e9a9196466c0a1997e3b1b",
+        "67e9a9156466c0a1997e39cd",
+        "67e9a90c6466c0a1997e3748",
+        null,
+        "67e9a8e36466c0a1997e2aff",
+        "67e9a8d36466c0a1997e26fb",
+        "67e9a8ea6466c0a1997e2e3e",
+        "67e9a96b6466c0a1997e529a",
+        "67e9a8f06466c0a1997e2f9a",
+        "67e9a8f56466c0a1997e30f5",
+        "67e9a8f86466c0a1997e31ae"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.275Z",
+  "updatedAt": "2025-03-30T20:25:53.275Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26c6"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 18,
+  "name": "Sonoras Mil",
+  "username": "sonorasmilband",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb9b913433cc517749322ca948",
+  "photo": "",
+  "description": "Sonoras Mil´s music can be initially defined as “tropical -experimental pop with a lot of groove”, evoking sounds from different parts of the world. However, beyond labels, Sonoras Mil is a musical trip to places that do not exist but that are still familiar, almost intimate. In Sonoras Mil ́ s music you can find elements of funk, reggae, dub, rock, psychedelic cumbia, salsa, tribal, latin and electronica, all assembled in a pop and yet alternative format. The band Is leaded by the brothers Felipe and Mauricio Gómez Ossa, two self taught musicians from Pereira, Colombia, who learned their music skills by playing at punk shows at abandoned properties in their home town.",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "tropical music",
+      "latin alternative"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "sonorasmil",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "sonorasmilband",
+  "spotify": "2pbfinO11kaKjnGcCxRQQn",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/@sonorasmil7670",
+  "youtube_widget_id": "P7hY0g54yHI",
+  "chartmetric": 183226,
+  "spotify_data": {
+    "followers": 1227,
+    "name": "Sonoras Mil",
+    "popularity": 6
+  },
+  "general_rate": 3.8747420962838603,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 3.5693111694015784,
+      "talent": 3.296513321680453,
+      "performance": 4.035887697467266,
+      "proffesionalism": 4.220917902764315,
+      "stage_presence": 3.845695298788892,
+      "charisma": 4.107845900308051,
+      "timeliness": 3.70982688214896,
+      "communication": 3.8357688765260805,
+      "respectfulness": 3.8737383782547954,
+      "total_rates": 2680
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "3a9Fm0ZCXy8dBNU7FKNRey",
+        "0kzHX3o9K2TlFlmyPv1m7A",
+        "7mh8HeKBDTRexFMCB7YqJz",
+        "3NDlWRpBUC2BmqEaIJM9Mc",
+        "3iyQBZXKm6XQJkHNTMA2rN",
+        "5bnyriuUG3xCIVwuriP7S2",
+        "2FnsN1clpAcQyARnTbeq9p",
+        "37CZoFthYWhs27AGT9H2nI",
+        "2I0OqHW57Fnng2HRxuNKUE",
+        "5PyMja4pPSTjPf9l2ZYx8L",
+        "0XDKfMxkp3x9HmlbnZ0v2S",
+        "28G6DYggqBKljjVSEVcZ1k",
+        "7J6NcbzFzL1tOK4tLxbnnz",
+        "1tPTL351dUCP6xlNdU4l7e",
+        "6V7rHDMmOTKbRtKOw2cGxg",
+        "3I1rsPi9uMJABnWdHfAw4r",
+        "1FWIORCrgcKnZsI0L6yaVJ",
+        "54FJndhLYYRtj8aR4iRJGL",
+        "3LdDKZXpylvd5an0zU2q28",
+        "3sWHtMroJrlmDnWyrMgL6z"
+      ],
+      "related_artists": [
+        "67e9a9216466c0a1997e3d65",
+        "67e9a9336466c0a1997e4293",
+        "67e9a9256466c0a1997e3ea5",
+        "67e9a9506466c0a1997e4ab9",
+        "67e9a9706466c0a1997e540e",
+        "67e9a9976466c0a1997e5f85",
+        "67e9a9766466c0a1997e55ba",
+        "67e9a9776466c0a1997e5643",
+        "67e9a97c6466c0a1997e5789",
+        "67e9a93d6466c0a1997e456d",
+        "67e9a9576466c0a1997e4cce",
+        "67e9a98a6466c0a1997e5b98",
+        "67e9a9496466c0a1997e48c7",
+        "67e9a9826466c0a1997e595f",
+        "67e9a9836466c0a1997e5986",
+        "67e9a9286466c0a1997e3f96",
+        "67e9a9486466c0a1997e4868",
+        "67e9a9076466c0a1997e35df",
+        "67e9a9126466c0a1997e3912",
+        "67e9a9266466c0a1997e3ecf"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.837Z",
+  "updatedAt": "2025-03-30T20:25:53.837Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d26466c0a1997e26d0"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 28,
+  "name": "Gregorio Uribe",
+  "username": "gregoriouribe",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5ebe76644f1de86463a56c1afe6",
+  "photo": "",
+  "description": "Gregorio Uribe es un cantautor y acordeonista colombiano recientemente nominado al Latin GRAMMY. Tendemos a imaginar a un cantautor como un artista acompañado por una guitarra sin embargo, Gregorio nos recuerda que los juglares antiguos que llevaban sus cantos de pueblo en pueblo acompañados por su acordeón también escribían sus canciones. Es entonces como este bogotano nos invita a explorar letras íntimas y profundas desde su fuelle y a la vez a considerar ritmos que van “más allá del vallenato”. En su más reciente producción “Hombre absurdo” convergen la literatura existencial de Camus y Dostoevsky con la sabrosura de los ritmos sabaneros de Lisandro Meza y Andrés Landero y de vez en cuando se cuela algún tango, un bolero o un reggae. Recientemente llevó sus canciones al afamado Tiny Desk y además ha compartido el escenario con Rubén Blades, Carlos Vives y Paquito D’Rivera entre otros. Su música ha sonado con la misma autenticidad en reconocidos escenarios como Carnegie Hall y en los patios de Los Montes de María.",
+  "city": "New York",
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": []
+  },
+  "spoken_languages": [],
+  "stage_languages": [],
+  "arts_languages": [],
+  "website": "https://www.gregoriouribe.com/bio",
+  "email": "email@domain.com",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "gregoriouribemusic",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "gregoriouribe",
+  "spotify": "1nmfhcpodsNRKK9FuW01fM",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UC0hWvRdN2o7bVePTIU1Hecg",
+  "youtube_widget_id": "xYXsmyZCp6s",
+  "chartmetric": 118982,
+  "spotify_data": {
+    "followers": 2770,
+    "name": "Gregorio Uribe",
+    "popularity": 22
+  },
+  "general_rate": 4.538769220419832,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 3.71197538351542,
+      "talent": 4.596298057146909,
+      "performance": 4.787125218374792,
+      "proffesionalism": 4.550913078796837,
+      "stage_presence": 3.213906341368959,
+      "charisma": 3.844298766884268,
+      "timeliness": 4.921344163471356,
+      "communication": 3.4663554749518806,
+      "respectfulness": 4.743390338001053,
+      "total_rates": 2213
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "1jYRdM5PDaXDNyZWicE92w",
+        "1WIGahdkQiPn67Xf3JrZVC",
+        "0PV2e5oazoV4SUMTNr1aD4",
+        "3vK9K7420aB6FXJ32IDD9t",
+        "1ZkBCweMlHRNY3UNJgj01h",
+        "0cNiAv2ljjm6OgUF2rxvIm",
+        "7wgIpuURyGZ1U1TFgpXVnt",
+        "71RG4LFQLn8NpMlv8Q5CVC",
+        "2LIdH0LA5JzqO5o6toNkl5",
+        "0kxg6fCG2zNP3mcq8QG4Sw",
+        "1VkKzaiGHnjQSJ1rQ3RRsX",
+        "2iUqaqxubYRvnk7jo3kjQ4",
+        "6aqhvC9ttNmw8AMJLaah9X",
+        "6FJDC1DjKkisqN6iF4Cj1d",
+        "2aAkfIriw47pc8JfPeCgQS",
+        "0tzIRowoKOf2XyvvuSBRWf",
+        "1a1B3usUWpHK4S3u0iN8T4",
+        "67lqEaDnR37X71PoM6tNxR",
+        "4lOmdZbCjdqg5gx3uSRZVI",
+        "4MujafFGIxKfhffX8r1bV5"
+      ],
+      "related_artists": [
+        "67e9a9146466c0a1997e397d",
+        "67e9a90f6466c0a1997e3829",
+        "67e9a91c6466c0a1997e3bdd",
+        "67e9a8d76466c0a1997e27a9",
+        "67e9a9276466c0a1997e3f4e",
+        "67e9a9336466c0a1997e426d",
+        "67e9a9376466c0a1997e43ba",
+        "67e9a92f6466c0a1997e4175",
+        "67e9a95e6466c0a1997e4edf",
+        "67e9a9176466c0a1997e3a43",
+        "67e9a97c6466c0a1997e57a8",
+        "67e9a9466466c0a1997e47d6",
+        "67e9a9206466c0a1997e3d33",
+        "67e9a91a6466c0a1997e3b74",
+        "67e9a9076466c0a1997e35c1",
+        "67e9a8e36466c0a1997e2af7",
+        "67e9a8f96466c0a1997e3211",
+        "67e9a90e6466c0a1997e37e8",
+        "67e9a95e6466c0a1997e4f09",
+        "67e9a91d6466c0a1997e3c2e"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:54.180Z",
+  "updatedAt": {
+    "$date": "2025-09-05T16:14:57.430Z"
+  },
+  "__v": 1,
+  "entityRoleMap": [
+    {
+      "ids": [
+        {
+          "$oid": "672c21852d6249ea213abe09"
+        }
+      ],
+      "role": "OWNER",
+      "_id": {
+        "$oid": "68bb0c810456e0186e3e96bd"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26c5"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 17,
+  "name": "SomosMestizzo",
+  "username": "somosmestizzo",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb999e58b1bb71ee0ed1c444bd",
+  "photo": "",
+  "description": "SomosMestizzo, es una banda de Bogotá - Colombia. Julián Cuestas, Santiago Corrales y Jonathan Durán, son los integrantes de la banda que explora diferentes géneros musicales como: Funk, Blues, Soul, Pop y Rock. En 4 años de carrera, la banda ha llegado a diferentes ecosistemas musicales, compartiendo escenario con artistas como Piel Camaleón , entrando al radar internacional de países como México, Argentina, Perú, Costa Rica, entre otros. En el presente año 2024 la banda se encuentra lanzando sencillos como Tauro y Suéltame que harán parte de su primer álbum de estudio.",
+  "country": null,
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": []
+  },
+  "spoken_languages": [],
+  "stage_languages": [],
+  "arts_languages": [],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "somosmestizzo",
+  "tiktok": "somosmestizzo",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "somosmestizzo",
+  "spotify": "624F8S0T7eBi4jtCgseTQr",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UCU-fj0X1AzlN4H1yKbsFL6w",
+  "youtube_widget_id": "iychnvXc0iI",
+  "chartmetric": 8371115,
+  "spotify_data": {
+    "followers": 177,
+    "name": "SomosMestizzo",
+    "popularity": 0
+  },
+  "general_rate": 4.304178308693901,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 3.020468533026773,
+      "talent": 4.999130334305681,
+      "performance": 3.688660060387676,
+      "proffesionalism": 3.0902153666028953,
+      "stage_presence": 4.914871847899157,
+      "charisma": 4.101101028173495,
+      "timeliness": 4.438428820999306,
+      "communication": 3.2765910844673707,
+      "respectfulness": 3.127614627755421,
+      "total_rates": 838
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "5dZcQFCRsZyiEkX1WILOMi",
+        "5jD09fbIq40oghuXGhqF7I",
+        "1LhvjgceO2I3ZWFZidNjU5",
+        "7s3nMK9ufpdkJSaSAfZn3g",
+        "3gOkRQtwphxhQ91Q0JVkdz",
+        "1semWiCZtz0q6d5HRvGx42",
+        "4jMpmuTRuqytxfbYVYBjXo",
+        "1nCP0W9i7wrOKNV9SGYCKF",
+        "5R0roh2DaMaze2UEamxpbd",
+        "3IyGe1cenwg0U6WH1k1qDX",
+        "00N1ZBWQCWdaoSK1XvApEx",
+        "0ry0bcxkmzZ6b3zay00rZ7",
+        "3i1XIHpUUntAL0uWLE6KKO",
+        "6OEBCHZPDCkWJgOb6U2oou",
+        "4XvGF9OMyGAhzv2yx52Xx8",
+        "1C1Yy9aV1jMaevcKxwjd8s",
+        "4VgzUQeJ7Z34ubJGfAzd4J",
+        "7FWWw3zCNb1Z6BNIEgc1Yl",
+        "2r7hksgp9JL985O37WPO1W",
+        "02xT2MzoPPjV9AJwRk66Yf"
+      ],
+      "related_artists": [
+        "67e9a9826466c0a1997e5937",
+        "67e9a9726466c0a1997e5496",
+        "67e9a9446466c0a1997e4733",
+        "67e9a9466466c0a1997e47e6",
+        "67e9a9766466c0a1997e55b9",
+        "67e9a96b6466c0a1997e52c9",
+        "67e9a9836466c0a1997e5985",
+        "67e9a9386466c0a1997e4409",
+        "67e9a9546466c0a1997e4c07",
+        "67e9a9566466c0a1997e4c7c",
+        "67e9a96c6466c0a1997e52f5",
+        "67e9a97c6466c0a1997e5772",
+        "67e9a9816466c0a1997e58fc",
+        "67e9a9686466c0a1997e51e4",
+        "67e9a9426466c0a1997e46b0",
+        "67e9a94b6466c0a1997e496b",
+        "67e9a9726466c0a1997e5497",
+        "67e9a9866466c0a1997e5a79",
+        "67e9a98a6466c0a1997e5b77",
+        "67e9a94c6466c0a1997e49c7"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.806Z",
+  "updatedAt": "2025-03-30T20:25:53.806Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26b9"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 5,
+  "name": "Ennui Bogotá",
+  "username": "ennuibogota",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb512c5f7c2783f7d8bac01642",
+  "photo": "",
+  "description": "¡Rock pesado desde Bogotá, Colombia! En español, con bases de metal y grunge que no teme explorar sonoridades y texturas de otros géneros como la balada, la cumbia, el punk, el flamenco, entre otros. A través de sonidos fuertes hablan de la vida, la muerte, el amor y de diferentes condiciones mentales y emocionales desde una perspectiva de reflexión, empatía y resistencia. \"Ennui\" es un término francés que traduce tedio, aburrimiento, fastidio y muchos otros sentimientos presentes en la cotidianidad de las personas. La banda canta a quienes se sienten abandonados en sí mismos, a quienes se sienten tristes y vacíos por cualquier razón. El deseo es que sepan que está bien sentirse mal, que todo pasa, que no están solos. Aun estando en los lugares más densos de la mente, se puede celebrar que estamos vivos. ES LA CRISIS COMO TRANSFORMACIÓN. La banda cuenta con un álbum en vivo (2022), un álbum de estudio (2011), 6 EPs y un álbum que verá la luz en 2024, 3 videoclips, un minidocumental y muchos videos en vivo. Todo esto documenta la persistencia, la disciplina y el amor de Ennui por la música. Construyendo su trayectoria un día a la vez.",
+  "country": {
+    "$oid": "66d61979a546e02c6ce65a39"
+  },
+  "city": "Bogotá",
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "colombian pop"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806264"
+    }
+  ],
+  "website": "https://ennuibogota.com/banda/",
+  "email": "email@domain.com",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "ennuibogota",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "ennuibogota",
+  "spotify": "3UxjBvP0pvz35UevSs25eh",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/user/ennuitv",
+  "youtube_widget_id": "pV8SQqCv0ZI&pp",
+  "chartmetric": 4030535,
+  "spotify_data": {
+    "followers": 288,
+    "name": "Ennui Bogotá",
+    "popularity": 1
+  },
+  "general_rate": 4.940076578850386,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 3.2168051083862963,
+      "talent": 4.474536269123796,
+      "performance": 3.0096909163985606,
+      "proffesionalism": 4.716559266877084,
+      "stage_presence": 3.1638054386213157,
+      "charisma": 4.108038725898786,
+      "timeliness": 4.5095735416775415,
+      "communication": 4.967198304018938,
+      "respectfulness": 3.7039588400506935,
+      "total_rates": 2212
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "5kWB061qJhxqmljZfY4dxd",
+        "3DUEQUgLWLWMg2iYpq0f7d",
+        "4r5i6zrZYhc67kUISUchds",
+        "3JV0QFNpkQm8nGdcyn7rvu",
+        "576H9v0deMCCvHkmlmNOgn",
+        "4EtXHBrEqoBblpMIg0WGTC",
+        "5KMDJEsTOhoGjVJM8LwPWQ",
+        "66Fxb3U10NyxROOeiM44q4",
+        "1NfsknZu41mXq4gHeqCFNl",
+        "6yzG7OofsZHKnqhAbwZxW0",
+        "5RHYJVE4qFiG6nbe31YJaD",
+        "27NmvQiC31ZALUHG8fjbUd",
+        "4Qt3a2bDDZGEu8ZmZG9PS7",
+        "44NniaaFxq9Ijo7RlJSQxE",
+        "276JlGQWGqQGqjeRGDhFYo",
+        "3nEi3z4HQRZlwsGcthO8zC",
+        "5whkWpbGYZ9POUKu92mhFi",
+        "3NHpKLo1Rg8k5v2ujXZGgq",
+        "7wymy1jP1ml9ZIIzuUA8hd",
+        "59Q74YYXsIt8u1yborC2PI"
+      ],
+      "related_artists": [
+        "67e9a96d6466c0a1997e532f",
+        "67e9a93b6466c0a1997e44e6",
+        "67e9a9746466c0a1997e5560",
+        "67e9a93b6466c0a1997e44cf",
+        "67e9a95f6466c0a1997e4f21",
+        "67e9a9416466c0a1997e467f",
+        "67e9a95d6466c0a1997e4e90",
+        "67e9a93b6466c0a1997e44d5",
+        "67e9a9506466c0a1997e4af1",
+        "67e9a9896466c0a1997e5b51",
+        "67e9a9576466c0a1997e4cda",
+        "67e9a9356466c0a1997e432d",
+        "67e9a9656466c0a1997e50da",
+        "67e9a9646466c0a1997e50c0",
+        "67e9a9526466c0a1997e4b7b",
+        "67e9a91e6466c0a1997e3c8c",
+        "67e9a9746466c0a1997e5542",
+        "67e9a93f6466c0a1997e45f0",
+        "67e9a95a6466c0a1997e4de0",
+        "67e9a9406466c0a1997e4614"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.319Z",
+  "updatedAt": {
+    "$date": "2025-09-05T16:00:44.496Z"
+  },
+  "__v": 3,
+  "entityRoleMap": [
+    {
+      "ids": [
+        {
+          "$oid": "672c21852d6249ea213abe09"
+        }
+      ],
+      "role": "OWNER",
+      "_id": {
+        "$oid": "68bb073452e2042df2ead333"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26be"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 10,
+  "name": "Los Bajeros de la Montaña",
+  "username": "losbajerosgaiteros",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eba827c28ebf33872fa173ee61",
+  "photo": "",
+  "description": "El grupo \"Los Bajeros de la Montaña\" se ha especializado durante tres décadas, en representar el folclor autóctono de la música de gaitas y tambores de la región de los Montes de María. Especialmente la población de San Juan Nepomuceno y San Jacinto (Bolívar). Tierra de grandes músicos que han inmortalizado la música de gaita y la cumbia, haciendo un aporte de singular valía al fortalecimiento de la identidad cultural del pueblo colombiano. Retomando el legado de los viejos maestros \"Toño\" Fernandez, Manuel Serpa, Manuel de Jesús Mendoza, Juan Lara, José Lara, José Tobías “Ñomono”, Federico Luna, Antonio Rodríguez, entre muchos otros, buscamos recrear de manera fiel, la herencia milenaria de ésta música mestiza. El grupo es la cuarta generación de gaiteros de profesión, tomando como referencia la de Teófilo Mendoza, gaitero en cuyas prodigiosas manos estuvo el legado ancestral de la gaitería en las ruedas de gaita realizadas en el pueblo de San Jacinto, donde para su época, ésta era solamente instrumental, no llevaba cantos.",
+  "country": {
+    "$oid": "66d6198da546e02c6ce65ba7"
+  },
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "traditional music"
+    ]
+  },
+  "spoken_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806260"
+    }
+  ],
+  "stage_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806260"
+    }
+  ],
+  "arts_languages": [
+    {
+      "$oid": "66d5fa7e2c353f2733806260"
+    }
+  ],
+  "website": "",
+  "email": "email@domain.com",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "LosBajeros",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "losbajerosgaiteros",
+  "spotify": "2PDA3bcTO3rWrtRnKmtp5e",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/channel/UCr3VNLiyVGvOuusH9_WTFng",
+  "youtube_widget_id": "",
+  "chartmetric": 4909713,
+  "spotify_data": {
+    "followers": 761,
+    "name": "Los Bajeros de la Montaña",
+    "popularity": 3
+  },
+  "general_rate": 3.142138067505425,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.563411237838674,
+      "talent": 3.085306362043241,
+      "performance": 3.874216956147329,
+      "proffesionalism": 3.4565096789878687,
+      "stage_presence": 3.254726995781109,
+      "charisma": 4.137412201041005,
+      "timeliness": 4.296655197587049,
+      "communication": 4.823175397889381,
+      "respectfulness": 4.671746635223581,
+      "total_rates": 312
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "4awaCGNHnsFNZgRb9rfnlD",
+        "4LU6pKIrcyKiJ3VKltT1IY",
+        "7MCS2s52ytENwwr72mSnYp",
+        "5uo06ZeDRdveALBw47p4En",
+        "30PseGh2sUCdwIYd0qGxkL",
+        "2huALKUHINMnLacbNFPepg",
+        "0ssRDGDxaECfZiYEidfpBB",
+        "1n97oP5X43vsYB77wJC7Gf",
+        "1QSaCEDPkII1dFhXOigmd5",
+        "4JrmanRvi8npyvAtH2aamS",
+        "6kxSjw43Do0izMRXeLCgMy",
+        "2uSFcJXSLMdPWXnOWRp1Se",
+        "3540RnmGnu5ihQrOP8bGi5",
+        "6opDjzIepdTm6Ri1xklwyE",
+        "2v9QUZQNGy2lUKrHAZLCUm",
+        "1lG4GuQl6ZbBkBnK31AIbl",
+        "0FeT3OAN9pB1aUoX5TwlnQ",
+        "6ZnVOCQn8Ymgx2nognrbeh",
+        "01VetncOuPKKSEHVhmIApg",
+        "0AJYIk8I4HjMVmjyNwWxDG"
+      ],
+      "related_artists": [
+        "67e9a9886466c0a1997e5ae0",
+        "67e9a93e6466c0a1997e45b4",
+        "67e9a9216466c0a1997e3d7c",
+        "67e9a9456466c0a1997e478a",
+        "67e9a94c6466c0a1997e498d",
+        "67e9a91f6466c0a1997e3cbd",
+        "67e9a9646466c0a1997e50a4",
+        "67e9a9946466c0a1997e5ea1",
+        "67e9a91a6466c0a1997e3b68",
+        "67e9a9706466c0a1997e540d",
+        "67e9a9766466c0a1997e55e2",
+        "67e9a9316466c0a1997e420e",
+        "67e9a96d6466c0a1997e5330",
+        "67e9a9826466c0a1997e595e",
+        "67e9a98f6466c0a1997e5d0e",
+        "67e9a9826466c0a1997e5936",
+        "67e9a9696466c0a1997e5212",
+        "67e9a95b6466c0a1997e4df6",
+        "67e9a90a6466c0a1997e36a1",
+        "67e9a9976466c0a1997e5f5a"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.558Z",
+  "updatedAt": "2025-03-30T20:25:53.558Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26c7"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 19,
+  "name": "Lalo Cortés",
+  "username": "lalocortesmusic",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb093e129888ec688c373b581e",
+  "photo": "",
+  "description": "",
+  "country": null,
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": [
+      "latin r&b",
+      "latin folk"
+    ]
+  },
+  "spoken_languages": [],
+  "stage_languages": [],
+  "arts_languages": [],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "LaloCortesMusic",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "lalocortesmusic",
+  "spotify": "5aOSxuZtFtsOFvNB4xlssQ",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://www.youtube.com/c/LaloCort%C3%A9sMusic",
+  "youtube_widget_id": "qUdV11cGjKw",
+  "chartmetric": 7020509,
+  "spotify_data": {
+    "followers": 2763,
+    "name": "Lalo Cortés",
+    "popularity": 19
+  },
+  "general_rate": 3.583733278871624,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.631642204341327,
+      "talent": 3.142245419655288,
+      "performance": 4.015295329598022,
+      "proffesionalism": 4.762208329806195,
+      "stage_presence": 4.40566535623611,
+      "charisma": 4.190377900503247,
+      "timeliness": 4.134073669657891,
+      "communication": 3.8274396365689074,
+      "respectfulness": 3.9129995220484775,
+      "total_rates": 2725
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "38WvNBHvqwUXnwkWIioPxo",
+        "0XGcjQMRjxUa3QQxmxa4el",
+        "632hn2DX5vh2nnytdhrDfY",
+        "0wi4BjYbEeecnYvhQtvwi3",
+        "1OpY7SZzuoFnsuAHGiqP8z",
+        "4RuSib7ZtJd4SI61XGkCto",
+        "0b8Lfum3tO7TcDTLxcWr8L",
+        "3qvYBZ7NovbtwIlRahinyv",
+        "1ACKJ6hH5bMUkcgcKXIqbZ",
+        "6dqfuonDrw9UdawWJIAGjs",
+        "55eyl0WBtTXDb9jpXVS9AP",
+        "4X5zjb9hLr37IngXyDpdZb",
+        "2cKO3OiykGBzHdb6406dHZ",
+        "4KcUp7k6HasVCPeB4uIA1i",
+        "3pekDKI6o0TbYTLQfwHnHO",
+        "2XOpsJ8j0Bk6hwQkaLxL5N",
+        "3YO4XfqFWFucptWqUpmBzF",
+        "6qY4trCAIzKfKFpH7pjehg",
+        "2WqHyrHA3jRZWmTFTIynZ1",
+        "3e5H74siCYmTw9SkMQVyAk"
+      ],
+      "related_artists": [
+        "67e9a9056466c0a1997e3544",
+        "67e9a90f6466c0a1997e3834",
+        "67e9a9166466c0a1997e3a02",
+        "67e9a9276466c0a1997e3f3a",
+        "67e9a9126466c0a1997e38e3",
+        "67e9a9246466c0a1997e3e53",
+        "67e9a90f6466c0a1997e3820",
+        "67e9a9406466c0a1997e4633",
+        "67e9a9446466c0a1997e4767",
+        "67e9a8d86466c0a1997e27e1",
+        "67e9a9006466c0a1997e3401",
+        "67e9a9146466c0a1997e3961",
+        "67e9a8d76466c0a1997e27d7",
+        "67e9a9086466c0a1997e3641",
+        "67e9a91e6466c0a1997e3c5c",
+        "67e9a9216466c0a1997e3d4e",
+        "67e9a9566466c0a1997e4c90",
+        "67e9a97a6466c0a1997e571b",
+        "67e9a9166466c0a1997e39ff",
+        "67e9a92c6466c0a1997e40a3"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.871Z",
+  "updatedAt": "2025-03-30T20:25:53.871Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e9a8d16466c0a1997e26c3"
+  },
+  "artistType": "musician",
+  "is_inactive": 0,
+  "num": 15,
+  "name": "Bluefinch & the Wanderlust",
+  "username": "bluefinchtheband",
+  "subtitle": "",
+  "verified_status": 1,
+  "profile_pic": "https://i.scdn.co/image/ab6761610000e5eb93de922400c3d0586b432dbf",
+  "photo": "",
+  "description": "Bluefinch & The Wanderlust es una banda de Rock Alternativo bogotana formada por Osvaldo Oliver (Bajo y Coros), Julian Londoño, (Guitarra Líder), Juan Pinzón (Batería y Coros) y Sergio de Helena (Voz y Guitarra). Aunque el rock alternativo se distingue como la influencia más destacada, los músicos de la banda no se dejan encasillar en un sólo género, seducidos por el blues, el rock británico, las nuevas propuestas locales y el deseo constante de explorar sus límites Bluefinch & The Wanderlust se compromete con lo heterogéneo, su sonido siempre contundente más nunca unívoco, refleja la riqueza del contexto bogotano en el que viven sus músicos.",
+  "country": null,
+  "city": null,
+  "since": null,
+  "home_city": "",
+  "genres": {
+    "music": []
+  },
+  "spoken_languages": [],
+  "stage_languages": [],
+  "arts_languages": [],
+  "website": "",
+  "email": "",
+  "mobile_phone": "",
+  "whatsapp": "",
+  "facebook": "bluefinchtheband",
+  "tiktok": "",
+  "twitter": "",
+  "twitch": "",
+  "instagram": "bluefinchtheband",
+  "spotify": "5wVJiZKzEWvrxHyP5WhDFu",
+  "soundcloud": "",
+  "songkick": "",
+  "youtube": "https://m.youtube.com/@bluefinchthewanderlust1608",
+  "youtube_widget_id": "c9G8EO7va4o",
+  "chartmetric": 3774652,
+  "spotify_data": {
+    "followers": 75,
+    "name": "Bluefinch & the Wanderlust",
+    "popularity": 0
+  },
+  "general_rate": 4.88982196501304,
+  "followers": 0,
+  "event_followers": 0,
+  "stats": {
+    "rating": {
+      "overall": 4.951531892293698,
+      "talent": 3.414666709714481,
+      "performance": 3.181422199940039,
+      "proffesionalism": 4.295112259617665,
+      "stage_presence": 3.825417722902704,
+      "charisma": 4.333841658060015,
+      "timeliness": 3.888980555196777,
+      "communication": 3.7982489442080043,
+      "respectfulness": 3.9862383397780423,
+      "total_rates": 2320
+    }
+  },
+  "arts": {
+    "music": {
+      "albums": [],
+      "top_tracks": [],
+      "related_artist_spotify": [
+        "3D3z6nvTmjoMb8sd7spFna",
+        "2Fh0vrE23pmsmCPMPeksa9",
+        "1GtWSFj6GFwjNVLlFFx6ZU",
+        "7GvxIyTTCkVQsoQQjlcO0m",
+        "7p954Rghy93TI3k2G3udwR",
+        "7ufgSWAbsTrAjGOHNZPKUt",
+        "7I75fm7j7B9MdW9GZlcF5a",
+        "1Tc37cmzeodRx2K0wRYvnw",
+        "4H75t5n5HGvw46PHfNesPf",
+        "12Rof1TwwBh6ekpUROV5LA",
+        "1KbAah3T5bOKgHO98LP7bh",
+        "2c92F31DFbnY8hxoQXpDU3",
+        "3Ha0TO43zWQsD2ySFmmp8C",
+        "7Cx2VpYNV4xFURsaPY4FwY",
+        "1O1BLGtjfUJJGVkrFXznro",
+        "1z2rZ0JNvmNh3Hk3xr5FvZ",
+        "7xbF1DCHsrjt7CStZGU2ds",
+        "5sodIGKcAbf0LZ9BqP25IF",
+        "674J7CX8pb1oGcDKaN26rm",
+        "0n6XkqtRLobBLHkMoE7nLH"
+      ],
+      "related_artists": [
+        "67e9a95e6466c0a1997e4eed",
+        "67e9a9566466c0a1997e4cc0",
+        "67e9a94e6466c0a1997e4a40",
+        "67e9a9306466c0a1997e4184",
+        "67e9a9886466c0a1997e5ae1",
+        "67e9a9726466c0a1997e54c9",
+        "67e9a9686466c0a1997e51e2",
+        "67e9a9516466c0a1997e4b36",
+        "67e9a93a6466c0a1997e4485",
+        "67e9a9636466c0a1997e506e",
+        "67e9a94d6466c0a1997e4a04",
+        "67e9a9726466c0a1997e54ad",
+        "67e9a91a6466c0a1997e3b3c",
+        "67e9a92d6466c0a1997e40bc",
+        "67e9a9946466c0a1997e5e83",
+        "67e9a98a6466c0a1997e5bbb",
+        "67e9a9836466c0a1997e5984",
+        "67e9a94d6466c0a1997e4a05",
+        "67e9a97e6466c0a1997e5845",
+        "67e9a9336466c0a1997e427d"
+      ]
+    }
+  },
+  "followed_by": [],
+  "followed_profiles": [],
+  "createdAt": "2025-03-30T20:25:53.736Z",
+  "updatedAt": "2025-03-30T20:25:53.736Z",
+  "__v": 0
+}]
