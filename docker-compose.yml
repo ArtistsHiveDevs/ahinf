@@ -73,7 +73,7 @@ services:
     ports:
       - "9231:9231"
     volumes:
-      - storage_data:/app/data
+      - ./services/storage-admin/data:/app/data
 
   backend:
     build:
@@ -120,6 +120,7 @@ services:
     environment:
       VITE_API_URL: http://localhost:3001
       VITE_ENV: development
+      VITE_AMP_ENV: dev
       VITE_USE_LOCAL_COGNITO: "true"
       VITE_COGNITO_ADMIN_URL: http://localhost:9230
       VITE_STORAGE_ADMIN_URL: http://localhost:9231
@@ -133,5 +134,3 @@ volumes:
     name: ah_mongo_data
   cognito_data:
     name: ah_cognito_data
-  storage_data:
-    name: ah_storage_data
