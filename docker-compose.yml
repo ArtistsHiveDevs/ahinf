@@ -82,7 +82,7 @@ services:
     ports:
       - "3001:3001"
     volumes:
-      - ../ah-mock-api:/app
+      - ../ah-mock-api:/app:delegated
       - /app/node_modules
     environment:
       NODE_ENV: development
@@ -113,7 +113,7 @@ services:
     ports:
       - "5173:5173"
     volumes:
-      - ../frontReact:/app
+      - ../frontReact:/app:delegated
       - /app/node_modules
     environment:
       VITE_API_URL: http://localhost:3001
@@ -122,6 +122,8 @@ services:
       VITE_USE_LOCAL_COGNITO: "true"
       VITE_COGNITO_ADMIN_URL: http://localhost:9230
       VITE_STORAGE_ADMIN_URL: http://localhost:9231
+      CHOKIDAR_USEPOLLING: "true"
+      CHOKIDAR_INTERVAL: 1000
     depends_on:
       - backend
       - cognito-admin
