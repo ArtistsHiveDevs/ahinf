@@ -1,21 +1,21 @@
-const path = require('path');
-const fs = require('fs');
-const express = require('express');
-const cors = require('cors');
-const multer = require('multer');
+const path = require("path");
+const fs = require("fs");
+const express = require("express");
+const cors = require("cors");
+const multer = require("multer");
 
 const PORT = process.env.PORT || 9231;
-const DATA_DIR = path.join(__dirname, 'data');
+const DATA_DIR = path.join(__dirname, "data");
 
 fs.mkdirSync(DATA_DIR, { recursive: true });
 
 // Evita que un path con ".." escape de DATA_DIR
 function resolveSafePath(relativePath) {
-  const normalized = path.normalize(relativePath).replace(/^([/\\])+/, '');
+  const normalized = path.normalize(relativePath).replace(/^([/\\])+/, "");
   const resolved = path.join(DATA_DIR, normalized);
 
   if (!resolved.startsWith(DATA_DIR)) {
-    throw new Error('Path inválido');
+    throw new Error("Path inválido");
   }
 
   return resolved;
@@ -49,9 +49,16 @@ function listFiles(dir) {
     if (entry.isDirectory()) {
       files = files.concat(listFiles(fullPath));
     } else {
-      const relativePath = path.relative(DATA_DIR, fullPath).split(path.sep).join('/');
+      const relativePath = path
+        .relative(DATA_DIR, fullPath)
+        .split(path.sep)
+        .join("/");
       const stats = fs.statSync(fullPath);
-      files.push({ path: relativePath, size: stats.size, modified: stats.mtime });
+      files.push({
+        path: relativePath,
+        size: stats.size,
+        modified: stats.mtime,
+      });
     }
   }
 
@@ -60,10 +67,34 @@ function listFiles(dir) {
 
 const app = express();
 app.use(cors());
-app.use('/files', express.static(DATA_DIR));
-app.use('/admin', express.static(path.join(__dirname, 'public')));
+app.use("/files", express.static(DATA_DIR));
+app.use(
+  "/",
+  express.static(path.join(__dirname, "public"), {
+    etag: false,
+    maxAge: 0,
+    setHeaders: (res) => {
+      res.setHeader(
+        "Cache-Control",
+        "no-store, no-cache, must-revalidate, private",
+      );
+    },
+  }),
+);
+app.use(
+  express.static(path.join(__dirname, "public"), {
+    etag: false,
+    maxAge: 0,
+    setHeaders: (res) => {
+      res.setHeader(
+        "Cache-Control",
+        "no-store, no-cache, must-revalidate, private",
+      );
+    },
+  }),
+);
 
-app.get('/list', (req, res) => {
+app.get("/list", (req, res) => {
   try {
     const files = listFiles(DATA_DIR).sort((a, b) => b.modified - a.modified);
     res.json(files);
@@ -72,19 +103,19 @@ app.get('/list', (req, res) => {
   }
 });
 
-app.post('/upload', upload.single('file'), (req, res) => {
+app.post("/upload", upload.single("file"), (req, res) => {
   if (!req.body.path) {
-    return res.status(400).json({ message: 'path es requerido' });
+    return res.status(400).json({ message: "path es requerido" });
   }
 
   if (!req.file) {
-    return res.status(400).json({ message: 'file es requerido' });
+    return res.status(400).json({ message: "file es requerido" });
   }
 
   res.json({ path: req.body.path });
 });
 
-app.delete('/files/*', (req, res) => {
+app.delete("/files/*", (req, res) => {
   try {
     const targetPath = resolveSafePath(req.params[0]);
     fs.rmSync(targetPath, { force: true });
@@ -95,5 +126,7 @@ app.delete('/files/*', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`[storage-admin] Escuchando en puerto ${PORT}, almacenando en ${DATA_DIR}`);
+  console.log(
+    `[storage-admin] Escuchando en puerto ${PORT}, almacenando en ${DATA_DIR}`,
+  );
 });
