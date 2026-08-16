@@ -1,0 +1,7671 @@
+[{
+  "_id": {
+    "$oid": "66d5fa7a2c353f2733806218"
+  },
+  "key": "aa",
+  "main_flag_2": "DJ",
+  "main_flag_3": "DJI",
+  "other_flags_2": [
+    "ET",
+    "ER"
+  ],
+  "other_flags_3": [
+    "ETH",
+    "ERI"
+  ],
+  "name": "Afar",
+  "native": "Afar",
+  "i18n": {
+    "de": {
+      "name": "Afar"
+    },
+    "en": {
+      "name": "Afar"
+    },
+    "es": {
+      "name": "Afar"
+    },
+    "fr": {
+      "name": "Afar"
+    },
+    "it": {
+      "name": "Afar"
+    },
+    "pt": {
+      "name": "Afar"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:42.400Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:42.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7a2c353f273380621a"
+  },
+  "key": "ab",
+  "main_flag_2": "GE",
+  "main_flag_3": "GEO",
+  "other_flags_2": [
+    "RU"
+  ],
+  "other_flags_3": [
+    "RUS"
+  ],
+  "name": "Abkhazian",
+  "native": "Аҧсуа",
+  "i18n": {
+    "de": {
+      "name": "Abchasisch"
+    },
+    "en": {
+      "name": "Abkhazian"
+    },
+    "es": {
+      "name": "Abjasio"
+    },
+    "fr": {
+      "name": "Abkhaze"
+    },
+    "it": {
+      "name": "Abcaso"
+    },
+    "pt": {
+      "name": "Abecásio"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:42.505Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:42.505Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7a2c353f273380621c"
+  },
+  "key": "af",
+  "main_flag_2": "ZA",
+  "main_flag_3": "ZAF",
+  "other_flags_2": [
+    "NA"
+  ],
+  "other_flags_3": [
+    "NAM"
+  ],
+  "name": "Afrikaans",
+  "native": "Afrikaans",
+  "i18n": {
+    "de": {
+      "name": "Afrikaans"
+    },
+    "en": {
+      "name": "Afrikaans"
+    },
+    "es": {
+      "name": "Afrikáans"
+    },
+    "fr": {
+      "name": "Afrikaans"
+    },
+    "it": {
+      "name": "Afrikaans"
+    },
+    "pt": {
+      "name": "Africâner"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:42.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:42.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7a2c353f273380621e"
+  },
+  "key": "ak",
+  "main_flag_2": "GH",
+  "main_flag_3": "GHA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Akan",
+  "native": "Akana",
+  "i18n": {
+    "de": {
+      "name": "Akan"
+    },
+    "en": {
+      "name": "Akan"
+    },
+    "es": {
+      "name": "Akan"
+    },
+    "fr": {
+      "name": "Akan"
+    },
+    "it": {
+      "name": "Akan"
+    },
+    "pt": {
+      "name": "Akan"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:42.720Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:42.720Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7a2c353f2733806220"
+  },
+  "key": "am",
+  "main_flag_2": "ET",
+  "main_flag_3": "ETH",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Amharic",
+  "native": "አማርኛ",
+  "i18n": {
+    "de": {
+      "name": "Amharisch"
+    },
+    "en": {
+      "name": "Amharic"
+    },
+    "es": {
+      "name": "Amárico"
+    },
+    "fr": {
+      "name": "Amharique"
+    },
+    "it": {
+      "name": "Amarico"
+    },
+    "pt": {
+      "name": "Amárico"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:42.827Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:42.827Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7a2c353f2733806222"
+  },
+  "key": "an",
+  "main_flag_2": "ES",
+  "main_flag_3": "ESP",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Aragonese",
+  "native": "Aragonés",
+  "i18n": {
+    "de": {
+      "name": "Aragonesisch"
+    },
+    "en": {
+      "name": "Aragonese"
+    },
+    "es": {
+      "name": "Aragonés"
+    },
+    "fr": {
+      "name": "Aragonais"
+    },
+    "it": {
+      "name": "Aragonese"
+    },
+    "pt": {
+      "name": "Aragonês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:42.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:42.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7b2c353f2733806224"
+  },
+  "key": "ar",
+  "main_flag_2": "SA",
+  "main_flag_3": "SAU",
+  "other_flags_2": [
+    "AE",
+    "EG",
+    "IQ",
+    "JO",
+    "KW",
+    "LB",
+    "LY",
+    "MA",
+    "OM",
+    "QA",
+    "SD",
+    "SY",
+    "TN",
+    "YE"
+  ],
+  "other_flags_3": [
+    "ARE",
+    "EGY",
+    "IRQ",
+    "JOR",
+    "KWT",
+    "LBN",
+    "LBY",
+    "MAR",
+    "OMN",
+    "QAT",
+    "SDN",
+    "SYR",
+    "TUN",
+    "YEM"
+  ],
+  "name": "Arabic",
+  "native": "العربية",
+  "i18n": {
+    "de": {
+      "name": "Arabisch"
+    },
+    "en": {
+      "name": "Arabic"
+    },
+    "es": {
+      "name": "Árabe"
+    },
+    "fr": {
+      "name": "Arabe"
+    },
+    "it": {
+      "name": "Arabo"
+    },
+    "pt": {
+      "name": "Árabe"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:43.043Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:43.043Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7b2c353f2733806226"
+  },
+  "key": "as",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Assamese",
+  "native": "অসমীয়া",
+  "i18n": {
+    "de": {
+      "name": "Assamesisch"
+    },
+    "en": {
+      "name": "Assamese"
+    },
+    "es": {
+      "name": "Asamés"
+    },
+    "fr": {
+      "name": "Assamais"
+    },
+    "it": {
+      "name": "Assamese"
+    },
+    "pt": {
+      "name": "Assamês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:43.151Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:43.151Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7b2c353f2733806228"
+  },
+  "key": "av",
+  "main_flag_2": "RU",
+  "main_flag_3": "RUS",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Avar",
+  "native": "Авар",
+  "i18n": {
+    "de": {
+      "name": "Awarisch"
+    },
+    "en": {
+      "name": "Avaric"
+    },
+    "es": {
+      "name": "Avaro"
+    },
+    "fr": {
+      "name": "Avar"
+    },
+    "it": {
+      "name": "Avaro"
+    },
+    "pt": {
+      "name": "Avárico"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:43.258Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:43.258Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7b2c353f273380622a"
+  },
+  "key": "ay",
+  "main_flag_2": "BO",
+  "main_flag_3": "BOL",
+  "other_flags_2": [
+    "PE"
+  ],
+  "other_flags_3": [
+    "PER"
+  ],
+  "name": "Aymara",
+  "native": "Aymar",
+  "i18n": {
+    "de": {
+      "name": "Aymara"
+    },
+    "en": {
+      "name": "Aymara"
+    },
+    "es": {
+      "name": "Aimara"
+    },
+    "fr": {
+      "name": "Aymara"
+    },
+    "it": {
+      "name": "Aymara"
+    },
+    "pt": {
+      "name": "Aimará"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:43.366Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:43.366Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7b2c353f273380622c"
+  },
+  "key": "az",
+  "main_flag_2": "AZ",
+  "main_flag_3": "AZE",
+  "other_flags_2": [
+    "IR",
+    "TR"
+  ],
+  "other_flags_3": [
+    "IRN",
+    "TUR"
+  ],
+  "name": "Azerbaijani",
+  "native": "Azərbaycanca / آذربايجان",
+  "i18n": {
+    "de": {
+      "name": "Aserbaidschanisch"
+    },
+    "en": {
+      "name": "Azerbaijani"
+    },
+    "es": {
+      "name": "Azerí"
+    },
+    "fr": {
+      "name": "Azerbaïdjanais"
+    },
+    "it": {
+      "name": "Azerbaigiano"
+    },
+    "pt": {
+      "name": "Azerbaijano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:43.473Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:43.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7b2c353f273380622e"
+  },
+  "key": "ba",
+  "main_flag_2": "RU",
+  "main_flag_3": "RUS",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Bashkir",
+  "native": "Башҡорт",
+  "i18n": {
+    "de": {
+      "name": "Baschkirisch"
+    },
+    "en": {
+      "name": "Bashkir"
+    },
+    "es": {
+      "name": "Baskir"
+    },
+    "fr": {
+      "name": "Bachkir"
+    },
+    "it": {
+      "name": "Baschiro"
+    },
+    "pt": {
+      "name": "Bachkir"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:43.581Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:43.581Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7b2c353f2733806230"
+  },
+  "key": "be",
+  "main_flag_2": "BY",
+  "main_flag_3": "BLR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Belarusian",
+  "native": "Беларуская",
+  "i18n": {
+    "de": {
+      "name": "Weißrussisch"
+    },
+    "en": {
+      "name": "Belarusian"
+    },
+    "es": {
+      "name": "Bielorruso"
+    },
+    "fr": {
+      "name": "Biélorusse"
+    },
+    "it": {
+      "name": "Bielorusso"
+    },
+    "pt": {
+      "name": "Bielorrusso"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:43.689Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:43.689Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7b2c353f2733806232"
+  },
+  "key": "bg",
+  "main_flag_2": "BG",
+  "main_flag_3": "BGR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Bulgarian",
+  "native": "Български",
+  "i18n": {
+    "de": {
+      "name": "Bulgarisch"
+    },
+    "en": {
+      "name": "Bulgarian"
+    },
+    "es": {
+      "name": "Búlgaro"
+    },
+    "fr": {
+      "name": "Bulgare"
+    },
+    "it": {
+      "name": "Bulgaro"
+    },
+    "pt": {
+      "name": "Búlgaro"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:43.797Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:43.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7b2c353f2733806234"
+  },
+  "key": "bh",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Bihari",
+  "native": "भोजपुरी",
+  "i18n": {
+    "de": {
+      "name": "Bihari"
+    },
+    "en": {
+      "name": "Bihari"
+    },
+    "es": {
+      "name": "Bhojpurí"
+    },
+    "fr": {
+      "name": "Bihari"
+    },
+    "it": {
+      "name": "Bihari"
+    },
+    "pt": {
+      "name": "Bihari"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:43.906Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:43.906Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f2733806236"
+  },
+  "key": "bi",
+  "main_flag_2": "VU",
+  "main_flag_3": "VUT",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Bislama",
+  "native": "Bislama",
+  "i18n": {
+    "de": {
+      "name": "Bislama"
+    },
+    "en": {
+      "name": "Bislama"
+    },
+    "es": {
+      "name": "Bislama"
+    },
+    "fr": {
+      "name": "Bichelamar"
+    },
+    "it": {
+      "name": "Bislama"
+    },
+    "pt": {
+      "name": "Bislama"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.014Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f2733806238"
+  },
+  "key": "bm",
+  "main_flag_2": "ML",
+  "main_flag_3": "MLI",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Bambara",
+  "native": "Bamanankan",
+  "i18n": {
+    "de": {
+      "name": "Bambara"
+    },
+    "en": {
+      "name": "Bambara"
+    },
+    "es": {
+      "name": "Bambara"
+    },
+    "fr": {
+      "name": "Bambara"
+    },
+    "it": {
+      "name": "Bambara"
+    },
+    "pt": {
+      "name": "Bambara"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.121Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.121Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f273380623a"
+  },
+  "key": "bn",
+  "main_flag_2": "BD",
+  "main_flag_3": "BGD",
+  "other_flags_2": [
+    "IN"
+  ],
+  "other_flags_3": [
+    "IND"
+  ],
+  "name": "Bengali",
+  "native": "বাংলা",
+  "i18n": {
+    "de": {
+      "name": "Bengalisch"
+    },
+    "en": {
+      "name": "Bengali"
+    },
+    "es": {
+      "name": "Bengalí"
+    },
+    "fr": {
+      "name": "Bengali"
+    },
+    "it": {
+      "name": "Bengalese"
+    },
+    "pt": {
+      "name": "Bengali"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.229Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.229Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f273380623c"
+  },
+  "key": "bo",
+  "main_flag_2": "CN",
+  "main_flag_3": "CHN",
+  "other_flags_2": [
+    "IN"
+  ],
+  "other_flags_3": [
+    "IND"
+  ],
+  "name": "Tibetan",
+  "native": "བོད་ཡིག / Bod skad",
+  "i18n": {
+    "de": {
+      "name": "Tibetisch"
+    },
+    "en": {
+      "name": "Tibetan"
+    },
+    "es": {
+      "name": "Tibetano"
+    },
+    "fr": {
+      "name": "Tibétain"
+    },
+    "it": {
+      "name": "Tibetano"
+    },
+    "pt": {
+      "name": "Tibetano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f273380623e"
+  },
+  "key": "br",
+  "main_flag_2": "FR",
+  "main_flag_3": "FRA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Breton",
+  "native": "Brezhoneg",
+  "i18n": {
+    "de": {
+      "name": "Bretonisch"
+    },
+    "en": {
+      "name": "Breton"
+    },
+    "es": {
+      "name": "Bretón"
+    },
+    "fr": {
+      "name": "Breton"
+    },
+    "it": {
+      "name": "Bretone"
+    },
+    "pt": {
+      "name": "Bretão"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.445Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f2733806240"
+  },
+  "key": "bs",
+  "main_flag_2": "BA",
+  "main_flag_3": "BIH",
+  "other_flags_2": [
+    "ME"
+  ],
+  "other_flags_3": [
+    "MNE"
+  ],
+  "name": "Bosnian",
+  "native": "Bosanski",
+  "i18n": {
+    "de": {
+      "name": "Bosnisch"
+    },
+    "en": {
+      "name": "Bosnian"
+    },
+    "es": {
+      "name": "Bosnio"
+    },
+    "fr": {
+      "name": "Bosniaque"
+    },
+    "it": {
+      "name": "Bosniaco"
+    },
+    "pt": {
+      "name": "Bósnio"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.552Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f2733806242"
+  },
+  "key": "ca",
+  "main_flag_2": "ES",
+  "main_flag_3": "ESP",
+  "other_flags_2": [
+    "AD"
+  ],
+  "other_flags_3": [
+    "AND"
+  ],
+  "name": "Catalan",
+  "native": "Català",
+  "i18n": {
+    "de": {
+      "name": "Katalanisch"
+    },
+    "en": {
+      "name": "Catalan"
+    },
+    "es": {
+      "name": "Catalán"
+    },
+    "fr": {
+      "name": "Catalan"
+    },
+    "it": {
+      "name": "Catalano"
+    },
+    "pt": {
+      "name": "Catalão"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.650Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f2733806244"
+  },
+  "key": "ce",
+  "main_flag_2": "RU",
+  "main_flag_3": "RUS",
+  "other_flags_2": [
+    "GE"
+  ],
+  "other_flags_3": [
+    "GEO"
+  ],
+  "name": "Chechen",
+  "native": "Нохчийн",
+  "i18n": {
+    "de": {
+      "name": "Tschetschenisch"
+    },
+    "en": {
+      "name": "Chechen"
+    },
+    "es": {
+      "name": "Checheno"
+    },
+    "fr": {
+      "name": "Tchétchène"
+    },
+    "it": {
+      "name": "Ceceno"
+    },
+    "pt": {
+      "name": "Checheno"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f2733806246"
+  },
+  "key": "ch",
+  "main_flag_2": "CN",
+  "main_flag_3": "CHN",
+  "other_flags_2": [
+    "SG"
+  ],
+  "other_flags_3": [
+    "SGP"
+  ],
+  "name": "Chamorro",
+  "native": "Chamoru",
+  "i18n": {
+    "de": {
+      "name": "Chamorro"
+    },
+    "en": {
+      "name": "Chamorro"
+    },
+    "es": {
+      "name": "Chamorro"
+    },
+    "fr": {
+      "name": "Chamorro"
+    },
+    "it": {
+      "name": "Chamorro"
+    },
+    "pt": {
+      "name": "Chamorro"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7c2c353f2733806248"
+  },
+  "key": "co",
+  "main_flag_2": "CO",
+  "main_flag_3": "COL",
+  "other_flags_2": [
+    "VE"
+  ],
+  "other_flags_3": [
+    "VEN"
+  ],
+  "name": "Corsican",
+  "native": "Corsu",
+  "i18n": {
+    "de": {
+      "name": "Korsisch"
+    },
+    "en": {
+      "name": "Corsican"
+    },
+    "es": {
+      "name": "Corso"
+    },
+    "fr": {
+      "name": "Corse"
+    },
+    "it": {
+      "name": "Corso"
+    },
+    "pt": {
+      "name": "Córsico"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:44.968Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:44.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7d2c353f273380624a"
+  },
+  "key": "cr",
+  "main_flag_2": "CR",
+  "main_flag_3": "CRI",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Cree",
+  "native": "Nehiyaw",
+  "i18n": {
+    "de": {
+      "name": "Cree"
+    },
+    "en": {
+      "name": "Cree"
+    },
+    "es": {
+      "name": "Cree"
+    },
+    "fr": {
+      "name": "Cree"
+    },
+    "it": {
+      "name": "Cree"
+    },
+    "pt": {
+      "name": "Cree"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:45.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:45.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7d2c353f273380624c"
+  },
+  "key": "cs",
+  "main_flag_2": "CZ",
+  "main_flag_3": "CZE",
+  "other_flags_2": [
+    "SK"
+  ],
+  "other_flags_3": [
+    "SVK"
+  ],
+  "name": "Czech",
+  "native": "Čeština",
+  "i18n": {
+    "de": {
+      "name": "Tschechisch"
+    },
+    "en": {
+      "name": "Czech"
+    },
+    "es": {
+      "name": "Checo"
+    },
+    "fr": {
+      "name": "Tchèque"
+    },
+    "it": {
+      "name": "Ceco"
+    },
+    "pt": {
+      "name": "Tcheco"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:45.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:45.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7d2c353f273380624e"
+  },
+  "key": "cu",
+  "main_flag_2": "CU",
+  "main_flag_3": "CUB",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Old Church Slavonic / Old Bulgarian",
+  "native": "словѣньскъ / slověnĭskŭ",
+  "i18n": {
+    "de": {
+      "name": "Kirchenslawisch"
+    },
+    "en": {
+      "name": "Church Slavic"
+    },
+    "es": {
+      "name": "Eslavo eclesiástico"
+    },
+    "fr": {
+      "name": "Vieux slavon d'église"
+    },
+    "it": {
+      "name": "Slavo ecclesiastico"
+    },
+    "pt": {
+      "name": "Eslavo eclesiástico"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:45.286Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:45.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7d2c353f2733806250"
+  },
+  "key": "cv",
+  "main_flag_2": "CV",
+  "main_flag_3": "CPV",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Chuvash",
+  "native": "Чăваш",
+  "i18n": {
+    "de": {
+      "name": "Tschuwaschisch"
+    },
+    "en": {
+      "name": "Chuvash"
+    },
+    "es": {
+      "name": "Chuvasio"
+    },
+    "fr": {
+      "name": "Tchouvache"
+    },
+    "it": {
+      "name": "Ciuvascio"
+    },
+    "pt": {
+      "name": "Tchuvache"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:45.394Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:45.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7d2c353f2733806252"
+  },
+  "key": "cy",
+  "main_flag_2": "GB",
+  "main_flag_3": "GBR",
+  "other_flags_2": [
+    "CY"
+  ],
+  "other_flags_3": [
+    "CYP"
+  ],
+  "name": "Welsh",
+  "native": "Cymraeg",
+  "i18n": {
+    "de": {
+      "name": "Walisisch"
+    },
+    "en": {
+      "name": "Welsh"
+    },
+    "es": {
+      "name": "Galés"
+    },
+    "fr": {
+      "name": "Gallois"
+    },
+    "it": {
+      "name": "Gallese"
+    },
+    "pt": {
+      "name": "Galês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:45.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:45.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7d2c353f2733806254"
+  },
+  "key": "da",
+  "main_flag_2": "DK",
+  "main_flag_3": "DNK",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Danish",
+  "native": "Dansk",
+  "i18n": {
+    "de": {
+      "name": "Dänisch"
+    },
+    "en": {
+      "name": "Danish"
+    },
+    "es": {
+      "name": "Danés"
+    },
+    "fr": {
+      "name": "Danois"
+    },
+    "it": {
+      "name": "Danese"
+    },
+    "pt": {
+      "name": "Dinamarquês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:45.593Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:45.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7d2c353f2733806256"
+  },
+  "key": "de",
+  "main_flag_2": "DE",
+  "main_flag_3": "DEU",
+  "other_flags_2": [
+    "AT",
+    "CH",
+    "LI"
+  ],
+  "other_flags_3": [
+    "AUT",
+    "CHE",
+    "LIE"
+  ],
+  "name": "German",
+  "native": "Deutsch",
+  "i18n": {
+    "de": {
+      "name": "Deutsch"
+    },
+    "en": {
+      "name": "German"
+    },
+    "es": {
+      "name": "Alemán"
+    },
+    "fr": {
+      "name": "Allemand"
+    },
+    "it": {
+      "name": "Tedesco"
+    },
+    "pt": {
+      "name": "Alemão"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:45.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:45.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7d2c353f2733806258"
+  },
+  "key": "dv",
+  "main_flag_2": "MV",
+  "main_flag_3": "MDV",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Divehi",
+  "native": "ދިވެހިބަސް",
+  "i18n": {
+    "de": {
+      "name": "Dhivehi"
+    },
+    "en": {
+      "name": "Divehi"
+    },
+    "es": {
+      "name": "Dhivehi"
+    },
+    "fr": {
+      "name": "Divehi"
+    },
+    "it": {
+      "name": "Divehi"
+    },
+    "pt": {
+      "name": "Divehi"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:45.808Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:45.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7d2c353f273380625a"
+  },
+  "key": "dz",
+  "main_flag_2": "DZ",
+  "main_flag_3": "DZA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Dzongkha",
+  "native": "ཇོང་ཁ",
+  "i18n": {
+    "de": {
+      "name": "Dzongkha"
+    },
+    "en": {
+      "name": "Dzongkha"
+    },
+    "es": {
+      "name": "Dzongkha"
+    },
+    "fr": {
+      "name": "Dzongkha"
+    },
+    "it": {
+      "name": "Dzongkha"
+    },
+    "pt": {
+      "name": "Dzongkha"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:45.915Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:45.915Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f273380625c"
+  },
+  "key": "ee",
+  "main_flag_2": "EE",
+  "main_flag_3": "EST",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Ewe",
+  "native": "Ɛʋɛ",
+  "i18n": {
+    "de": {
+      "name": "Ewe"
+    },
+    "en": {
+      "name": "Ewe"
+    },
+    "es": {
+      "name": "Ewe"
+    },
+    "fr": {
+      "name": "Éwé"
+    },
+    "it": {
+      "name": "Ève"
+    },
+    "pt": {
+      "name": "Ewe"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.024Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f273380625e"
+  },
+  "key": "el",
+  "main_flag_2": "GR",
+  "main_flag_3": "GRC",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Greek",
+  "native": "Ελληνικά",
+  "i18n": {
+    "de": {
+      "name": "Griechisch"
+    },
+    "en": {
+      "name": "Greek"
+    },
+    "es": {
+      "name": "Griego"
+    },
+    "fr": {
+      "name": "Grec"
+    },
+    "it": {
+      "name": "Greco"
+    },
+    "pt": {
+      "name": "Grego"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f2733806260"
+  },
+  "key": "en",
+  "main_flag_2": "GB",
+  "main_flag_3": "GBR",
+  "other_flags_2": [
+    "US",
+    "AU",
+    "CA",
+    "NZ",
+    "IE"
+  ],
+  "other_flags_3": [
+    "USA",
+    "AUS",
+    "CAN",
+    "NZL",
+    "IRL"
+  ],
+  "name": "English",
+  "native": "English",
+  "i18n": {
+    "de": {
+      "name": "Englisch"
+    },
+    "en": {
+      "name": "English"
+    },
+    "es": {
+      "name": "Inglés"
+    },
+    "fr": {
+      "name": "Anglais"
+    },
+    "it": {
+      "name": "Inglese"
+    },
+    "pt": {
+      "name": "Inglês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.240Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.240Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f2733806262"
+  },
+  "key": "eo",
+  "main_flag_2": "EO",
+  "main_flag_3": "EPO",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Esperanto",
+  "native": "Esperanto",
+  "i18n": {
+    "de": {
+      "name": "Esperanto"
+    },
+    "en": {
+      "name": "Esperanto"
+    },
+    "es": {
+      "name": "Esperanto"
+    },
+    "fr": {
+      "name": "Espéranto"
+    },
+    "it": {
+      "name": "Esperanto"
+    },
+    "pt": {
+      "name": "Esperanto"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.348Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f2733806264"
+  },
+  "key": "es",
+  "main_flag_2": "ES",
+  "main_flag_3": "ESP",
+  "other_flags_2": [
+    "AR",
+    "BO",
+    "CL",
+    "CO",
+    "CR",
+    "CU",
+    "DO",
+    "EC",
+    "GQ",
+    "GT",
+    "HN",
+    "MX",
+    "NI",
+    "PA",
+    "PY",
+    "PE",
+    "SV",
+    "UY",
+    "VE"
+  ],
+  "other_flags_3": [
+    "ARG",
+    "BOL",
+    "CHL",
+    "COL",
+    "CRI",
+    "CUB",
+    "DOM",
+    "ECU",
+    "GNQ",
+    "GTM",
+    "HND",
+    "MEX",
+    "NIC",
+    "PAN",
+    "PRY",
+    "PER",
+    "SLV",
+    "URY",
+    "VEN"
+  ],
+  "name": "Spanish",
+  "native": "Español",
+  "i18n": {
+    "de": {
+      "name": "Spanisch"
+    },
+    "en": {
+      "name": "Spanish"
+    },
+    "es": {
+      "name": "Español"
+    },
+    "fr": {
+      "name": "Espagnol"
+    },
+    "it": {
+      "name": "Spagnolo"
+    },
+    "pt": {
+      "name": "Espanhol"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.457Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.457Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f2733806266"
+  },
+  "key": "et",
+  "main_flag_2": "EE",
+  "main_flag_3": "EST",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Estonian",
+  "native": "Eesti",
+  "i18n": {
+    "de": {
+      "name": "Estnisch"
+    },
+    "en": {
+      "name": "Estonian"
+    },
+    "es": {
+      "name": "Estonio"
+    },
+    "fr": {
+      "name": "Estonien"
+    },
+    "it": {
+      "name": "Estone"
+    },
+    "pt": {
+      "name": "Estoniano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.565Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.565Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f2733806268"
+  },
+  "key": "eu",
+  "main_flag_2": "ES",
+  "main_flag_3": "ESP",
+  "other_flags_2": [
+    "FR"
+  ],
+  "other_flags_3": [
+    "FRA"
+  ],
+  "name": "Basque",
+  "native": "Euskara",
+  "i18n": {
+    "de": {
+      "name": "Baskisch"
+    },
+    "en": {
+      "name": "Basque"
+    },
+    "es": {
+      "name": "Euskera"
+    },
+    "fr": {
+      "name": "Basque"
+    },
+    "it": {
+      "name": "Basco"
+    },
+    "pt": {
+      "name": "Basco"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.674Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.674Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f273380626a"
+  },
+  "key": "fa",
+  "main_flag_2": "IR",
+  "main_flag_3": "IRN",
+  "other_flags_2": [
+    "AF"
+  ],
+  "other_flags_3": [
+    "AFG"
+  ],
+  "name": "Persian",
+  "native": "فارسی",
+  "i18n": {
+    "de": {
+      "name": "Persisch"
+    },
+    "en": {
+      "name": "Persian"
+    },
+    "es": {
+      "name": "Persa"
+    },
+    "fr": {
+      "name": "Persan"
+    },
+    "it": {
+      "name": "Persiano"
+    },
+    "pt": {
+      "name": "Persa"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.780Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.780Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f273380626c"
+  },
+  "key": "ff",
+  "main_flag_2": "SN",
+  "main_flag_3": "SEN",
+  "other_flags_2": [
+    "CM",
+    "GQ",
+    "NG"
+  ],
+  "other_flags_3": [
+    "CMR",
+    "GNQ",
+    "NGA"
+  ],
+  "name": "Peul",
+  "native": "Fulfulde",
+  "i18n": {
+    "de": {
+      "name": "Ful"
+    },
+    "en": {
+      "name": "Fulah"
+    },
+    "es": {
+      "name": "Fula"
+    },
+    "fr": {
+      "name": "Peul"
+    },
+    "it": {
+      "name": "Fula"
+    },
+    "pt": {
+      "name": "Fula"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.888Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7e2c353f273380626e"
+  },
+  "key": "fi",
+  "main_flag_2": "FI",
+  "main_flag_3": "FIN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Finnish",
+  "native": "Suomi",
+  "i18n": {
+    "de": {
+      "name": "Finnisch"
+    },
+    "en": {
+      "name": "Finnish"
+    },
+    "es": {
+      "name": "Finés"
+    },
+    "fr": {
+      "name": "Finnois"
+    },
+    "it": {
+      "name": "Finlandese"
+    },
+    "pt": {
+      "name": "Finlandês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:46.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:46.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7f2c353f2733806270"
+  },
+  "key": "fj",
+  "main_flag_2": "FJ",
+  "main_flag_3": "FJI",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Fijian",
+  "native": "Na Vosa Vakaviti",
+  "i18n": {
+    "de": {
+      "name": "Fidschianisch"
+    },
+    "en": {
+      "name": "Fijian"
+    },
+    "es": {
+      "name": "Fiyiano"
+    },
+    "fr": {
+      "name": "Fidjien"
+    },
+    "it": {
+      "name": "Figiano"
+    },
+    "pt": {
+      "name": "Fijiano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:47.104Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:47.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7f2c353f2733806272"
+  },
+  "key": "fo",
+  "main_flag_2": "FO",
+  "main_flag_3": "FRO",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Faroese",
+  "native": "Føroyskt",
+  "i18n": {
+    "de": {
+      "name": "Färöisch"
+    },
+    "en": {
+      "name": "Faroese"
+    },
+    "es": {
+      "name": "Feroés"
+    },
+    "fr": {
+      "name": "Féroïen"
+    },
+    "it": {
+      "name": "Faroese"
+    },
+    "pt": {
+      "name": "Feroês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:47.212Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:47.212Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7f2c353f2733806274"
+  },
+  "key": "fr",
+  "main_flag_2": "FR",
+  "main_flag_3": "FRA",
+  "other_flags_2": [
+    "BE",
+    "CA",
+    "CH",
+    "CI",
+    "CM",
+    "DJ",
+    "GA",
+    "GF",
+    "GP",
+    "ML",
+    "MQ",
+    "NE",
+    "RE",
+    "SN",
+    "TD",
+    "TG",
+    "VA"
+  ],
+  "other_flags_3": [
+    "BEL",
+    "CAN",
+    "CHE",
+    "CIV",
+    "CMR",
+    "DJI",
+    "GAB",
+    "GUF",
+    "GLP",
+    "MLI",
+    "MTQ",
+    "NER",
+    "REU",
+    "SEN",
+    "TCD",
+    "TGO",
+    "VAT"
+  ],
+  "name": "French",
+  "native": "Français",
+  "i18n": {
+    "de": {
+      "name": "Französisch"
+    },
+    "en": {
+      "name": "French"
+    },
+    "es": {
+      "name": "Francés"
+    },
+    "fr": {
+      "name": "Français"
+    },
+    "it": {
+      "name": "Francese"
+    },
+    "pt": {
+      "name": "Francês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:47.306Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:47.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7f2c353f2733806276"
+  },
+  "key": "fy",
+  "main_flag_2": "NL",
+  "main_flag_3": "NLD",
+  "other_flags_2": [
+    "DE"
+  ],
+  "other_flags_3": [
+    "DEU"
+  ],
+  "name": "West Frisian",
+  "native": "Frysk",
+  "i18n": {
+    "de": {
+      "name": "Westfriesisch"
+    },
+    "en": {
+      "name": "Western Frisian"
+    },
+    "es": {
+      "name": "Frisón occidental"
+    },
+    "fr": {
+      "name": "Frison occidental"
+    },
+    "it": {
+      "name": "Frisone occidentale"
+    },
+    "pt": {
+      "name": "Frísio ocidental"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:47.413Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:47.413Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7f2c353f2733806278"
+  },
+  "key": "ga",
+  "main_flag_2": "IE",
+  "main_flag_3": "IRL",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Irish",
+  "native": "Gaeilge",
+  "i18n": {
+    "de": {
+      "name": "Irisch"
+    },
+    "en": {
+      "name": "Irish"
+    },
+    "es": {
+      "name": "Irlandés"
+    },
+    "fr": {
+      "name": "Irlandais"
+    },
+    "it": {
+      "name": "Irlandese"
+    },
+    "pt": {
+      "name": "Irlandês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:47.520Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:47.520Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7f2c353f273380627a"
+  },
+  "key": "gd",
+  "main_flag_2": "GB",
+  "main_flag_3": "GBR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Scottish Gaelic",
+  "native": "Gàidhlig",
+  "i18n": {
+    "de": {
+      "name": "Schottisch-Gälisch"
+    },
+    "en": {
+      "name": "Scottish Gaelic"
+    },
+    "es": {
+      "name": "Gaélico escocés"
+    },
+    "fr": {
+      "name": "Gaélique écossais"
+    },
+    "it": {
+      "name": "Gaelico scozzese"
+    },
+    "pt": {
+      "name": "Gaélico escocês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:47.628Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:47.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7f2c353f273380627c"
+  },
+  "key": "gl",
+  "main_flag_2": "ES",
+  "main_flag_3": "ESP",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Galician",
+  "native": "Galego",
+  "i18n": {
+    "de": {
+      "name": "Galicisch"
+    },
+    "en": {
+      "name": "Galician"
+    },
+    "es": {
+      "name": "Gallego"
+    },
+    "fr": {
+      "name": "Galicien"
+    },
+    "it": {
+      "name": "Galiziano"
+    },
+    "pt": {
+      "name": "Galego"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:47.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:47.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7f2c353f273380627e"
+  },
+  "key": "gn",
+  "main_flag_2": "PY",
+  "main_flag_3": "PRY",
+  "other_flags_2": [
+    "BO",
+    "BR",
+    "CO"
+  ],
+  "other_flags_3": [
+    "BOL",
+    "BRA",
+    "COL"
+  ],
+  "name": "Guarani",
+  "native": "Avañe'ẽ",
+  "i18n": {
+    "de": {
+      "name": "Guaraní"
+    },
+    "en": {
+      "name": "Guarani"
+    },
+    "es": {
+      "name": "Guaraní"
+    },
+    "fr": {
+      "name": "Guarani"
+    },
+    "it": {
+      "name": "Guaraní"
+    },
+    "pt": {
+      "name": "Guarani"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:47.842Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:47.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa7f2c353f2733806280"
+  },
+  "key": "gu",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Gujarati",
+  "native": "ગુજરાતી",
+  "i18n": {
+    "de": {
+      "name": "Gujarati"
+    },
+    "en": {
+      "name": "Gujarati"
+    },
+    "es": {
+      "name": "Guyaratí"
+    },
+    "fr": {
+      "name": "Gujarati"
+    },
+    "it": {
+      "name": "Gujarati"
+    },
+    "pt": {
+      "name": "Gujarati"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:47.935Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:47.935Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa802c353f2733806282"
+  },
+  "key": "gv",
+  "main_flag_2": "IM",
+  "main_flag_3": "IMN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Manx",
+  "native": "Gaelg",
+  "i18n": {
+    "de": {
+      "name": "Manx"
+    },
+    "en": {
+      "name": "Manx"
+    },
+    "es": {
+      "name": "Manés"
+    },
+    "fr": {
+      "name": "Manx"
+    },
+    "it": {
+      "name": "Manx"
+    },
+    "pt": {
+      "name": "Manx"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:48.042Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:48.042Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa802c353f2733806284"
+  },
+  "key": "ha",
+  "main_flag_2": "NG",
+  "main_flag_3": "NGA",
+  "other_flags_2": [
+    "NE"
+  ],
+  "other_flags_3": [
+    "NER"
+  ],
+  "name": "Hausa",
+  "native": "هَوُسَ",
+  "i18n": {
+    "de": {
+      "name": "Haussa"
+    },
+    "en": {
+      "name": "Hausa"
+    },
+    "es": {
+      "name": "Hausa"
+    },
+    "fr": {
+      "name": "Haoussa"
+    },
+    "it": {
+      "name": "Hausa"
+    },
+    "pt": {
+      "name": "Hauçá"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:48.150Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:48.150Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa802c353f2733806286"
+  },
+  "key": "he",
+  "main_flag_2": "IL",
+  "main_flag_3": "ISR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Hebrew",
+  "native": "עברית",
+  "i18n": {
+    "de": {
+      "name": "Hebräisch"
+    },
+    "en": {
+      "name": "Hebrew"
+    },
+    "es": {
+      "name": "Hebreo"
+    },
+    "fr": {
+      "name": "Hébreu"
+    },
+    "it": {
+      "name": "Ebraico"
+    },
+    "pt": {
+      "name": "Hebraico"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:48.257Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:48.257Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa802c353f2733806288"
+  },
+  "key": "hi",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Hindi",
+  "native": "हिन्दी",
+  "i18n": {
+    "de": {
+      "name": "Hindi"
+    },
+    "en": {
+      "name": "Hindi"
+    },
+    "es": {
+      "name": "Hindi"
+    },
+    "fr": {
+      "name": "Hindi"
+    },
+    "it": {
+      "name": "Hindi"
+    },
+    "pt": {
+      "name": "Hindi"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:48.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:48.365Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa802c353f273380628a"
+  },
+  "key": "ho",
+  "main_flag_2": "HN",
+  "main_flag_3": "HND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Hiri Motu",
+  "native": "Hiri Motu",
+  "i18n": {
+    "de": {
+      "name": "Hiri Motu"
+    },
+    "en": {
+      "name": "Hiri Motu"
+    },
+    "es": {
+      "name": "Hiri Motu"
+    },
+    "fr": {
+      "name": "Hiri Motu"
+    },
+    "it": {
+      "name": "Hiri Motu"
+    },
+    "pt": {
+      "name": "Hiri Motu"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:48.473Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:48.473Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa802c353f273380628c"
+  },
+  "key": "hr",
+  "main_flag_2": "HR",
+  "main_flag_3": "HRV",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Croatian",
+  "native": "Hrvatski",
+  "i18n": {
+    "de": {
+      "name": "Kroatisch"
+    },
+    "en": {
+      "name": "Croatian"
+    },
+    "es": {
+      "name": "Croata"
+    },
+    "fr": {
+      "name": "Croate"
+    },
+    "it": {
+      "name": "Croato"
+    },
+    "pt": {
+      "name": "Croata"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:48.580Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:48.580Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa802c353f273380628e"
+  },
+  "key": "ht",
+  "main_flag_2": "HT",
+  "main_flag_3": "HTI",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Haitian",
+  "native": "Krèyol ayisyen",
+  "i18n": {
+    "de": {
+      "name": "Haitianisch"
+    },
+    "en": {
+      "name": "Haitian"
+    },
+    "es": {
+      "name": "Haitiano"
+    },
+    "fr": {
+      "name": "Haïtien"
+    },
+    "it": {
+      "name": "Haitiano"
+    },
+    "pt": {
+      "name": "Haitiano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:48.688Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:48.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa802c353f2733806290"
+  },
+  "key": "hu",
+  "main_flag_2": "HU",
+  "main_flag_3": "HUN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Hungarian",
+  "native": "Magyar",
+  "i18n": {
+    "de": {
+      "name": "Ungarisch"
+    },
+    "en": {
+      "name": "Hungarian"
+    },
+    "es": {
+      "name": "Húngaro"
+    },
+    "fr": {
+      "name": "Hongrois"
+    },
+    "it": {
+      "name": "Ungherese"
+    },
+    "pt": {
+      "name": "Húngaro"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:48.796Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:48.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa802c353f2733806292"
+  },
+  "key": "hy",
+  "main_flag_2": "AM",
+  "main_flag_3": "ARM",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Armenian",
+  "native": "Հայերեն",
+  "i18n": {
+    "de": {
+      "name": "Armenisch"
+    },
+    "en": {
+      "name": "Armenian"
+    },
+    "es": {
+      "name": "Armenio"
+    },
+    "fr": {
+      "name": "Arménien"
+    },
+    "it": {
+      "name": "Armeno"
+    },
+    "pt": {
+      "name": "Armênio"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:48.904Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:48.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f2733806294"
+  },
+  "key": "hz",
+  "main_flag_2": "NA",
+  "main_flag_3": "NAM",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Herero",
+  "native": "Otsiherero",
+  "i18n": {
+    "de": {
+      "name": "Herero"
+    },
+    "en": {
+      "name": "Herero"
+    },
+    "es": {
+      "name": "Herero"
+    },
+    "fr": {
+      "name": "Herero"
+    },
+    "it": {
+      "name": "Herero"
+    },
+    "pt": {
+      "name": "Herero"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.011Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f2733806296"
+  },
+  "key": "ia",
+  "main_flag_2": "ia",
+  "main_flag_3": "ina",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Interlingua",
+  "native": "Interlingua",
+  "i18n": {
+    "de": {
+      "name": "Interlingua"
+    },
+    "en": {
+      "name": "Interlingua"
+    },
+    "es": {
+      "name": "Interlingua"
+    },
+    "fr": {
+      "name": "Interlingua"
+    },
+    "it": {
+      "name": "Interlingua"
+    },
+    "pt": {
+      "name": "Interlingua"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f2733806298"
+  },
+  "key": "id",
+  "main_flag_2": "ID",
+  "main_flag_3": "IDN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Indonesian",
+  "native": "Bahasa Indonesia",
+  "i18n": {
+    "de": {
+      "name": "Indonesisch"
+    },
+    "en": {
+      "name": "Indonesian"
+    },
+    "es": {
+      "name": "Indonesio"
+    },
+    "fr": {
+      "name": "Indonésien"
+    },
+    "it": {
+      "name": "Indonesiano"
+    },
+    "pt": {
+      "name": "Indonésio"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f273380629a"
+  },
+  "key": "ie",
+  "main_flag_2": "ie",
+  "main_flag_3": "ile",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Interlingue",
+  "native": "Interlingue",
+  "i18n": {
+    "de": {
+      "name": "Interlingue"
+    },
+    "en": {
+      "name": "Interlingue"
+    },
+    "es": {
+      "name": "Interlingue"
+    },
+    "fr": {
+      "name": "Interlingue"
+    },
+    "it": {
+      "name": "Interlingue"
+    },
+    "pt": {
+      "name": "Interlingue"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.336Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.336Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f273380629c"
+  },
+  "key": "ig",
+  "main_flag_2": "NG",
+  "main_flag_3": "NGA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Igbo",
+  "native": "Igbo",
+  "i18n": {
+    "de": {
+      "name": "Igbo"
+    },
+    "en": {
+      "name": "Igbo"
+    },
+    "es": {
+      "name": "Igbo"
+    },
+    "fr": {
+      "name": "Igbo"
+    },
+    "it": {
+      "name": "Igbo"
+    },
+    "pt": {
+      "name": "Igbo"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.445Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.445Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f273380629e"
+  },
+  "key": "ii",
+  "main_flag_2": "CN",
+  "main_flag_3": "CHN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Sichuan Yi",
+  "native": "ꆇꉙ / 四川彝语",
+  "i18n": {
+    "de": {
+      "name": "Sichuan Yi"
+    },
+    "en": {
+      "name": "Sichuan Yi"
+    },
+    "es": {
+      "name": "Yi de Sichuán"
+    },
+    "fr": {
+      "name": "Sichuan Yi"
+    },
+    "it": {
+      "name": "Sichuan Yi"
+    },
+    "pt": {
+      "name": "Sichuan Yi"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.552Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.552Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f27338062a0"
+  },
+  "key": "ik",
+  "main_flag_2": "US",
+  "main_flag_3": "USA",
+  "other_flags_2": [
+    "CA"
+  ],
+  "other_flags_3": [
+    "CAN"
+  ],
+  "name": "Inupiak",
+  "native": "Iñupiak",
+  "i18n": {
+    "de": {
+      "name": "Inupiaq"
+    },
+    "en": {
+      "name": "Inupiaq"
+    },
+    "es": {
+      "name": "Inupiaq"
+    },
+    "fr": {
+      "name": "Inupiaq"
+    },
+    "it": {
+      "name": "Inupiaq"
+    },
+    "pt": {
+      "name": "Inupiaq"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.660Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f27338062a2"
+  },
+  "key": "io",
+  "main_flag_2": "io",
+  "main_flag_3": "ido",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Ido",
+  "native": "Ido",
+  "i18n": {
+    "de": {
+      "name": "Ido"
+    },
+    "en": {
+      "name": "Ido"
+    },
+    "es": {
+      "name": "Ido"
+    },
+    "fr": {
+      "name": "Ido"
+    },
+    "it": {
+      "name": "Ido"
+    },
+    "pt": {
+      "name": "Ido"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.767Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f27338062a4"
+  },
+  "key": "is",
+  "main_flag_2": "IS",
+  "main_flag_3": "ISL",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Icelandic",
+  "native": "Íslenska",
+  "i18n": {
+    "de": {
+      "name": "Isländisch"
+    },
+    "en": {
+      "name": "Icelandic"
+    },
+    "es": {
+      "name": "Islandés"
+    },
+    "fr": {
+      "name": "Islandais"
+    },
+    "it": {
+      "name": "Islandese"
+    },
+    "pt": {
+      "name": "Islandês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa812c353f27338062a6"
+  },
+  "key": "it",
+  "main_flag_2": "IT",
+  "main_flag_3": "ITA",
+  "other_flags_2": [
+    "CH",
+    "SM",
+    "VA"
+  ],
+  "other_flags_3": [
+    "CHE",
+    "SMR",
+    "VAT"
+  ],
+  "name": "Italian",
+  "native": "Italiano",
+  "i18n": {
+    "de": {
+      "name": "Italienisch"
+    },
+    "en": {
+      "name": "Italian"
+    },
+    "es": {
+      "name": "Italiano"
+    },
+    "fr": {
+      "name": "Italien"
+    },
+    "it": {
+      "name": "Italiano"
+    },
+    "pt": {
+      "name": "Italiano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:49.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:49.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa822c353f27338062a8"
+  },
+  "key": "iu",
+  "main_flag_2": "CA",
+  "main_flag_3": "CAN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Inuktitut",
+  "native": "ᐃᓄᒃᑎᑐᑦ",
+  "i18n": {
+    "de": {
+      "name": "Inuktitut"
+    },
+    "en": {
+      "name": "Inuktitut"
+    },
+    "es": {
+      "name": "Inuktitut"
+    },
+    "fr": {
+      "name": "Inuktitut"
+    },
+    "it": {
+      "name": "Inuktitut"
+    },
+    "pt": {
+      "name": "Inuktitut"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:50.089Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:50.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa822c353f27338062aa"
+  },
+  "key": "ja",
+  "main_flag_2": "JP",
+  "main_flag_3": "JPN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Japanese",
+  "native": "日本語",
+  "i18n": {
+    "de": {
+      "name": "Japanisch"
+    },
+    "en": {
+      "name": "Japanese"
+    },
+    "es": {
+      "name": "Japonés"
+    },
+    "fr": {
+      "name": "Japonais"
+    },
+    "it": {
+      "name": "Giapponese"
+    },
+    "pt": {
+      "name": "Japonês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:50.196Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:50.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa822c353f27338062ac"
+  },
+  "key": "jv",
+  "main_flag_2": "ID",
+  "main_flag_3": "IDN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Javanese",
+  "native": "Basa Jawa",
+  "i18n": {
+    "de": {
+      "name": "Javanisch"
+    },
+    "en": {
+      "name": "Javanese"
+    },
+    "es": {
+      "name": "Javanés"
+    },
+    "fr": {
+      "name": "Javanais"
+    },
+    "it": {
+      "name": "Giapponese"
+    },
+    "pt": {
+      "name": "Javanês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:50.304Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:50.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa822c353f27338062ae"
+  },
+  "key": "ka",
+  "main_flag_2": "GE",
+  "main_flag_3": "GEO",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Georgian",
+  "native": "ქართული",
+  "i18n": {
+    "de": {
+      "name": "Georgisch"
+    },
+    "en": {
+      "name": "Georgian"
+    },
+    "es": {
+      "name": "Georgiano"
+    },
+    "fr": {
+      "name": "Géorgien"
+    },
+    "it": {
+      "name": "Georgiano"
+    },
+    "pt": {
+      "name": "Georgiano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:50.411Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:50.411Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa822c353f27338062b0"
+  },
+  "key": "kg",
+  "main_flag_2": "CG",
+  "main_flag_3": "COG",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Kongo",
+  "native": "KiKongo",
+  "i18n": {
+    "de": {
+      "name": "Kongo"
+    },
+    "en": {
+      "name": "Kongo"
+    },
+    "es": {
+      "name": "Kongo"
+    },
+    "fr": {
+      "name": "Kongo"
+    },
+    "it": {
+      "name": "Kongo"
+    },
+    "pt": {
+      "name": "Kongo"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:50.519Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:50.519Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa822c353f27338062b2"
+  },
+  "key": "ki",
+  "main_flag_2": "KE",
+  "main_flag_3": "KEN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Kikuyu",
+  "native": "Gĩkũyũ",
+  "i18n": {
+    "de": {
+      "name": "Kikuyu"
+    },
+    "en": {
+      "name": "Kikuyu"
+    },
+    "es": {
+      "name": "Kikuyu"
+    },
+    "fr": {
+      "name": "Kikuyu"
+    },
+    "it": {
+      "name": "Kikuyu"
+    },
+    "pt": {
+      "name": "Kikuyu"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:50.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:50.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa822c353f27338062b4"
+  },
+  "key": "kj",
+  "main_flag_2": "AO",
+  "main_flag_3": "AGO",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Kuanyama",
+  "native": "Kuanyama",
+  "i18n": {
+    "de": {
+      "name": "Kwanyama"
+    },
+    "en": {
+      "name": "Kwanyama"
+    },
+    "es": {
+      "name": "Kwanyama"
+    },
+    "fr": {
+      "name": "Kwanyama"
+    },
+    "it": {
+      "name": "Kwanyama"
+    },
+    "pt": {
+      "name": "Kwanyama"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:50.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:50.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa822c353f27338062b6"
+  },
+  "key": "kk",
+  "main_flag_2": "KZ",
+  "main_flag_3": "KAZ",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Kazakh",
+  "native": "Қазақша",
+  "i18n": {
+    "de": {
+      "name": "Kasachisch"
+    },
+    "en": {
+      "name": "Kazakh"
+    },
+    "es": {
+      "name": "Kazajo"
+    },
+    "fr": {
+      "name": "Kazakh"
+    },
+    "it": {
+      "name": "Kazako"
+    },
+    "pt": {
+      "name": "Cazaque"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:50.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:50.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa822c353f27338062b8"
+  },
+  "key": "kl",
+  "main_flag_2": "GL",
+  "main_flag_3": "GRL",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Greenlandic",
+  "native": "Kalaallisut",
+  "i18n": {
+    "de": {
+      "name": "Grönländisch"
+    },
+    "en": {
+      "name": "Greenlandic"
+    },
+    "es": {
+      "name": "Groenlandés"
+    },
+    "fr": {
+      "name": "Groenlandais"
+    },
+    "it": {
+      "name": "Groenlandese"
+    },
+    "pt": {
+      "name": "Groenlandês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:50.949Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:50.949Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa832c353f27338062ba"
+  },
+  "key": "km",
+  "main_flag_2": "KH",
+  "main_flag_3": "KHM",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Cambodian",
+  "native": "ភាសាខ្មែរ",
+  "i18n": {
+    "de": {
+      "name": "Khmer"
+    },
+    "en": {
+      "name": "Khmer"
+    },
+    "es": {
+      "name": "Jemer"
+    },
+    "fr": {
+      "name": "Khmer"
+    },
+    "it": {
+      "name": "Khmer"
+    },
+    "pt": {
+      "name": "Khmer"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:51.057Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:51.057Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa832c353f27338062bc"
+  },
+  "key": "kn",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [
+    "SG"
+  ],
+  "other_flags_3": [
+    "SGP"
+  ],
+  "name": "Kannada",
+  "native": "ಕನ್ನಡ",
+  "i18n": {
+    "de": {
+      "name": "Kannada"
+    },
+    "en": {
+      "name": "Kannada"
+    },
+    "es": {
+      "name": "Canarés"
+    },
+    "fr": {
+      "name": "Kannada"
+    },
+    "it": {
+      "name": "Kannada"
+    },
+    "pt": {
+      "name": "Canarês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:51.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:51.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa832c353f27338062be"
+  },
+  "key": "ko",
+  "main_flag_2": "KR",
+  "main_flag_3": "KOR",
+  "other_flags_2": [
+    "KP"
+  ],
+  "other_flags_3": [
+    "PRK"
+  ],
+  "name": "Korean",
+  "native": "한국어",
+  "i18n": {
+    "de": {
+      "name": "Koreanisch"
+    },
+    "en": {
+      "name": "Korean"
+    },
+    "es": {
+      "name": "Coreano"
+    },
+    "fr": {
+      "name": "Coréen"
+    },
+    "it": {
+      "name": "Coreano"
+    },
+    "pt": {
+      "name": "Coreano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:51.272Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:51.272Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa832c353f27338062c0"
+  },
+  "key": "kr",
+  "main_flag_2": "KR",
+  "main_flag_3": "KOR",
+  "other_flags_2": [
+    "KP"
+  ],
+  "other_flags_3": [
+    "PRK"
+  ],
+  "name": "Kanuri",
+  "native": "Kanuri",
+  "i18n": {
+    "de": {
+      "name": "Kanuri"
+    },
+    "en": {
+      "name": "Kanuri"
+    },
+    "es": {
+      "name": "Kanuri"
+    },
+    "fr": {
+      "name": "Kanouri"
+    },
+    "it": {
+      "name": "Kanuri"
+    },
+    "pt": {
+      "name": "Kanuri"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:51.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:51.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa832c353f27338062c2"
+  },
+  "key": "ks",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [
+    "PK"
+  ],
+  "other_flags_3": [
+    "PAK"
+  ],
+  "name": "Kashmiri",
+  "native": "कश्मीरी / كشميري",
+  "i18n": {
+    "de": {
+      "name": "Kaschmiri"
+    },
+    "en": {
+      "name": "Kashmiri"
+    },
+    "es": {
+      "name": "Cachemiro"
+    },
+    "fr": {
+      "name": "Cachemiri"
+    },
+    "it": {
+      "name": "Kashmiri"
+    },
+    "pt": {
+      "name": "Caxemira"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:51.488Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:51.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa832c353f27338062c4"
+  },
+  "key": "ku",
+  "main_flag_2": "TR",
+  "main_flag_3": "TUR",
+  "other_flags_2": [
+    "IQ",
+    "SY",
+    "IR"
+  ],
+  "other_flags_3": [
+    "IRQ",
+    "SYR",
+    "IRN"
+  ],
+  "name": "Kurdish",
+  "native": "Kurdî / كوردی",
+  "i18n": {
+    "de": {
+      "name": "Kurdisch"
+    },
+    "en": {
+      "name": "Kurdish"
+    },
+    "es": {
+      "name": "Kurdo"
+    },
+    "fr": {
+      "name": "Kurde"
+    },
+    "it": {
+      "name": "Curdo"
+    },
+    "pt": {
+      "name": "Curdo"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:51.595Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:51.595Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa832c353f27338062c6"
+  },
+  "key": "kv",
+  "main_flag_2": "RU",
+  "main_flag_3": "RUS",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Komi",
+  "native": "Коми",
+  "i18n": {
+    "de": {
+      "name": "Komi"
+    },
+    "en": {
+      "name": "Komi"
+    },
+    "es": {
+      "name": "Komi"
+    },
+    "fr": {
+      "name": "Komi"
+    },
+    "it": {
+      "name": "Komi"
+    },
+    "pt": {
+      "name": "Komi"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:51.703Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:51.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa832c353f27338062c8"
+  },
+  "key": "kw",
+  "main_flag_2": "GB",
+  "main_flag_3": "GBR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Cornish",
+  "native": "Kernewek",
+  "i18n": {
+    "de": {
+      "name": "Kornisch"
+    },
+    "en": {
+      "name": "Cornish"
+    },
+    "es": {
+      "name": "Córnico"
+    },
+    "fr": {
+      "name": "Cornique"
+    },
+    "it": {
+      "name": "Cornico"
+    },
+    "pt": {
+      "name": "Córnico"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:51.797Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:51.797Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa832c353f27338062ca"
+  },
+  "key": "ky",
+  "main_flag_2": "KY",
+  "main_flag_3": "CYM",
+  "other_flags_2": [
+    "JM"
+  ],
+  "other_flags_3": [
+    "JAM"
+  ],
+  "name": "Kyrgyz",
+  "native": "Кыргызча",
+  "i18n": {
+    "de": {
+      "name": "Kirgisisch"
+    },
+    "en": {
+      "name": "Kyrgyz"
+    },
+    "es": {
+      "name": "Kirguís"
+    },
+    "fr": {
+      "name": "Kirghize"
+    },
+    "it": {
+      "name": "Kirghiso"
+    },
+    "pt": {
+      "name": "Quirguiz"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:51.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:51.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062cc"
+  },
+  "key": "la",
+  "main_flag_2": "VA",
+  "main_flag_3": "VAT",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Latin",
+  "native": "Latina",
+  "i18n": {
+    "de": {
+      "name": "Latein"
+    },
+    "en": {
+      "name": "Latin"
+    },
+    "es": {
+      "name": "Latín"
+    },
+    "fr": {
+      "name": "Latin"
+    },
+    "it": {
+      "name": "Latino"
+    },
+    "pt": {
+      "name": "Latim"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.010Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062ce"
+  },
+  "key": "lb",
+  "main_flag_2": "LB",
+  "main_flag_3": "LBN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Luxembourgish",
+  "native": "Lëtzebuergesch",
+  "i18n": {
+    "de": {
+      "name": "Luxemburgisch"
+    },
+    "en": {
+      "name": "Luxembourgish"
+    },
+    "es": {
+      "name": "Luxemburgués"
+    },
+    "fr": {
+      "name": "Luxembourgeois"
+    },
+    "it": {
+      "name": "Lussemburghese"
+    },
+    "pt": {
+      "name": "Luxemburguês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.119Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062d0"
+  },
+  "key": "lg",
+  "main_flag_2": "UG",
+  "main_flag_3": "UGA",
+  "other_flags_2": [
+    "TZ"
+  ],
+  "other_flags_3": [
+    "TZA"
+  ],
+  "name": "Ganda",
+  "native": "Luganda",
+  "i18n": {
+    "de": {
+      "name": "Ganda"
+    },
+    "en": {
+      "name": "Ganda"
+    },
+    "es": {
+      "name": "Ganda"
+    },
+    "fr": {
+      "name": "Ganda"
+    },
+    "it": {
+      "name": "Ganda"
+    },
+    "pt": {
+      "name": "Ganda"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.227Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062d2"
+  },
+  "key": "li",
+  "main_flag_2": "LI",
+  "main_flag_3": "LIE",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Limburgian",
+  "native": "Limburgs",
+  "i18n": {
+    "de": {
+      "name": "Limburgisch"
+    },
+    "en": {
+      "name": "Limburgish"
+    },
+    "es": {
+      "name": "Limburgués"
+    },
+    "fr": {
+      "name": "Limbourgeois"
+    },
+    "it": {
+      "name": "Limburghese"
+    },
+    "pt": {
+      "name": "Limburguês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.335Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062d4"
+  },
+  "key": "ln",
+  "main_flag_2": "CD",
+  "main_flag_3": "COD",
+  "other_flags_2": [
+    "CF",
+    "CG"
+  ],
+  "other_flags_3": [
+    "CAF",
+    "COG"
+  ],
+  "name": "Lingala",
+  "native": "Lingála",
+  "i18n": {
+    "de": {
+      "name": "Lingála"
+    },
+    "en": {
+      "name": "Lingala"
+    },
+    "es": {
+      "name": "Lingala"
+    },
+    "fr": {
+      "name": "Lingala"
+    },
+    "it": {
+      "name": "Lingala"
+    },
+    "pt": {
+      "name": "Lingala"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.443Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.443Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062d6"
+  },
+  "key": "lo",
+  "main_flag_2": "LA",
+  "main_flag_3": "LAO",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Laotian",
+  "native": "ລາວ / Pha xa lao",
+  "i18n": {
+    "de": {
+      "name": "Laotisch"
+    },
+    "en": {
+      "name": "Lao"
+    },
+    "es": {
+      "name": "Lao"
+    },
+    "fr": {
+      "name": "Lao"
+    },
+    "it": {
+      "name": "Lao"
+    },
+    "pt": {
+      "name": "Lao"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.551Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062d8"
+  },
+  "key": "lt",
+  "main_flag_2": "LT",
+  "main_flag_3": "LTU",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Lithuanian",
+  "native": "Lietuvių",
+  "i18n": {
+    "de": {
+      "name": "Litauisch"
+    },
+    "en": {
+      "name": "Lithuanian"
+    },
+    "es": {
+      "name": "Lituano"
+    },
+    "fr": {
+      "name": "Lituanien"
+    },
+    "it": {
+      "name": "Lituano"
+    },
+    "pt": {
+      "name": "Lituano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.658Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062da"
+  },
+  "key": "lu",
+  "main_flag_2": "LU",
+  "main_flag_3": "LUX",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Luba-Katanga",
+  "native": "Tshiluba",
+  "i18n": {
+    "de": {
+      "name": "Luba-Katanga"
+    },
+    "en": {
+      "name": "Luba-Katanga"
+    },
+    "es": {
+      "name": "Luba-Katanga"
+    },
+    "fr": {
+      "name": "Luba-Katanga"
+    },
+    "it": {
+      "name": "Luba-Katanga"
+    },
+    "pt": {
+      "name": "Luba-Katanga"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.766Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.766Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062dc"
+  },
+  "key": "lv",
+  "main_flag_2": "LV",
+  "main_flag_3": "LVA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Latvian",
+  "native": "Latviešu",
+  "i18n": {
+    "de": {
+      "name": "Lettisch"
+    },
+    "en": {
+      "name": "Latvian"
+    },
+    "es": {
+      "name": "Letón"
+    },
+    "fr": {
+      "name": "Letton"
+    },
+    "it": {
+      "name": "Lettone"
+    },
+    "pt": {
+      "name": "Letão"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.873Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.873Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa842c353f27338062de"
+  },
+  "key": "mg",
+  "main_flag_2": "MG",
+  "main_flag_3": "MDG",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Malagasy",
+  "native": "Malagasy",
+  "i18n": {
+    "de": {
+      "name": "Madagassisch"
+    },
+    "en": {
+      "name": "Malagasy"
+    },
+    "es": {
+      "name": "Malgache"
+    },
+    "fr": {
+      "name": "Malgache"
+    },
+    "it": {
+      "name": "Malgascio"
+    },
+    "pt": {
+      "name": "Malgaxe"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:52.980Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:52.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa852c353f27338062e0"
+  },
+  "key": "mh",
+  "main_flag_2": "MH",
+  "main_flag_3": "MHL",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Marshallese",
+  "native": "Kajin Majel / Ebon",
+  "i18n": {
+    "de": {
+      "name": "Marschallesisch"
+    },
+    "en": {
+      "name": "Marshallese"
+    },
+    "es": {
+      "name": "Marshalés"
+    },
+    "fr": {
+      "name": "Marshalleis"
+    },
+    "it": {
+      "name": "Marshalese"
+    },
+    "pt": {
+      "name": "Marshallês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:53.087Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:53.087Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa852c353f27338062e2"
+  },
+  "key": "mi",
+  "main_flag_2": "NZ",
+  "main_flag_3": "NZL",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Maori",
+  "native": "Māori",
+  "i18n": {
+    "de": {
+      "name": "Maorisch"
+    },
+    "en": {
+      "name": "Maori"
+    },
+    "es": {
+      "name": "Maorí"
+    },
+    "fr": {
+      "name": "Maori"
+    },
+    "it": {
+      "name": "Maori"
+    },
+    "pt": {
+      "name": "Maori"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:53.195Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:53.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa852c353f27338062e4"
+  },
+  "key": "mk",
+  "main_flag_2": "MK",
+  "main_flag_3": "MKD",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Macedonian",
+  "native": "Македонски",
+  "i18n": {
+    "de": {
+      "name": "Mazedonisch"
+    },
+    "en": {
+      "name": "Macedonian"
+    },
+    "es": {
+      "name": "Macedonio"
+    },
+    "fr": {
+      "name": "Macédonien"
+    },
+    "it": {
+      "name": "Macedone"
+    },
+    "pt": {
+      "name": "Macedônio"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:53.302Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:53.302Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa852c353f27338062e6"
+  },
+  "key": "ml",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Malayalam",
+  "native": "മലയാളം",
+  "i18n": {
+    "de": {
+      "name": "Malayalam"
+    },
+    "en": {
+      "name": "Malayalam"
+    },
+    "es": {
+      "name": "Malabar"
+    },
+    "fr": {
+      "name": "Malayalam"
+    },
+    "it": {
+      "name": "Malayalam"
+    },
+    "pt": {
+      "name": "Malaiala"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:53.410Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:53.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa852c353f27338062e8"
+  },
+  "key": "mn",
+  "main_flag_2": "MN",
+  "main_flag_3": "MNG",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Mongolian",
+  "native": "Монгол",
+  "i18n": {
+    "de": {
+      "name": "Mongolisch"
+    },
+    "en": {
+      "name": "Mongolian"
+    },
+    "es": {
+      "name": "Mongol"
+    },
+    "fr": {
+      "name": "Mongol"
+    },
+    "it": {
+      "name": "Mongolo"
+    },
+    "pt": {
+      "name": "Mongol"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:53.518Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:53.518Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa852c353f27338062ea"
+  },
+  "key": "mo",
+  "main_flag_2": "MO",
+  "main_flag_3": "MAC",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Moldovan",
+  "native": "Moldovenească",
+  "i18n": {
+    "de": {
+      "name": "Moldauisch"
+    },
+    "en": {
+      "name": "Moldovan"
+    },
+    "es": {
+      "name": "Moldavo"
+    },
+    "fr": {
+      "name": "Moldave"
+    },
+    "it": {
+      "name": "Moldavo"
+    },
+    "pt": {
+      "name": "Moldávio"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:53.626Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:53.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa852c353f27338062ec"
+  },
+  "key": "mr",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Marathi",
+  "native": "मराठी",
+  "i18n": {
+    "de": {
+      "name": "Marathi"
+    },
+    "en": {
+      "name": "Marathi"
+    },
+    "es": {
+      "name": "Maratí"
+    },
+    "fr": {
+      "name": "Marathi"
+    },
+    "it": {
+      "name": "Marathi"
+    },
+    "pt": {
+      "name": "Marata"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:53.734Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:53.734Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa852c353f27338062ee"
+  },
+  "key": "ms",
+  "main_flag_2": "MY",
+  "main_flag_3": "MYS",
+  "other_flags_2": [
+    "SG",
+    "BN"
+  ],
+  "other_flags_3": [
+    "SGP",
+    "BRN"
+  ],
+  "name": "Malay",
+  "native": "Bahasa Melayu",
+  "i18n": {
+    "de": {
+      "name": "Malaiisch"
+    },
+    "en": {
+      "name": "Malay"
+    },
+    "es": {
+      "name": "Malayo"
+    },
+    "fr": {
+      "name": "Malais"
+    },
+    "it": {
+      "name": "Malese"
+    },
+    "pt": {
+      "name": "Malaio"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:53.841Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:53.841Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa852c353f27338062f0"
+  },
+  "key": "mt",
+  "main_flag_2": "MT",
+  "main_flag_3": "MLT",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Maltese",
+  "native": "bil-Malti",
+  "i18n": {
+    "de": {
+      "name": "Maltesisch"
+    },
+    "en": {
+      "name": "Maltese"
+    },
+    "es": {
+      "name": "Maltés"
+    },
+    "fr": {
+      "name": "Maltais"
+    },
+    "it": {
+      "name": "Maltese"
+    },
+    "pt": {
+      "name": "Maltês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:53.948Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:53.948Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa862c353f27338062f2"
+  },
+  "key": "my",
+  "main_flag_2": "MM",
+  "main_flag_3": "MMR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Burmese",
+  "native": "မြန်မာစာ",
+  "i18n": {
+    "de": {
+      "name": "Birmanisch"
+    },
+    "en": {
+      "name": "Burmese"
+    },
+    "es": {
+      "name": "Birmano"
+    },
+    "fr": {
+      "name": "Birman"
+    },
+    "it": {
+      "name": "Birmano"
+    },
+    "pt": {
+      "name": "Birmanês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:54.056Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:54.056Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa862c353f27338062f4"
+  },
+  "key": "na",
+  "main_flag_2": "NA",
+  "main_flag_3": "NAM",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Nauruan",
+  "native": "Dorerin Naoero",
+  "i18n": {
+    "de": {
+      "name": "Nauruanisch"
+    },
+    "en": {
+      "name": "Nauruan"
+    },
+    "es": {
+      "name": "Nauruano"
+    },
+    "fr": {
+      "name": "Nauruan"
+    },
+    "it": {
+      "name": "Nauruano"
+    },
+    "pt": {
+      "name": "Nauruano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:54.163Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:54.163Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa862c353f27338062f6"
+  },
+  "key": "nb",
+  "main_flag_2": "NO",
+  "main_flag_3": "NOR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Norwegian Bokmål",
+  "native": "Norsk bokmål",
+  "i18n": {
+    "de": {
+      "name": "Bokmål"
+    },
+    "en": {
+      "name": "Norwegian Bokmål"
+    },
+    "es": {
+      "name": "Noruego Bokmål"
+    },
+    "fr": {
+      "name": "Bokmål"
+    },
+    "it": {
+      "name": "Norvegese Bokmål"
+    },
+    "pt": {
+      "name": "Bokmål"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:54.270Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:54.270Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa862c353f27338062f8"
+  },
+  "key": "nd",
+  "main_flag_2": "ZA",
+  "main_flag_3": "ZAF",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "North Ndebele",
+  "native": "Sindebele",
+  "i18n": {
+    "de": {
+      "name": "Nord-Ndebele"
+    },
+    "en": {
+      "name": "Northern Ndebele"
+    },
+    "es": {
+      "name": "Ndebele del Norte"
+    },
+    "fr": {
+      "name": "Ndebele du Nord"
+    },
+    "it": {
+      "name": "Ndebele Settentrionale"
+    },
+    "pt": {
+      "name": "Ndebele do Norte"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:54.378Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:54.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa862c353f27338062fa"
+  },
+  "key": "ne",
+  "main_flag_2": "NE",
+  "main_flag_3": "NER",
+  "other_flags_2": [
+    "BF",
+    "NG"
+  ],
+  "other_flags_3": [
+    "BFA",
+    "NGA"
+  ],
+  "name": "Nepali",
+  "native": "नेपाली",
+  "i18n": {
+    "de": {
+      "name": "Nepalesisch"
+    },
+    "en": {
+      "name": "Nepali"
+    },
+    "es": {
+      "name": "Nepalí"
+    },
+    "fr": {
+      "name": "Népalais"
+    },
+    "it": {
+      "name": "Nepalese"
+    },
+    "pt": {
+      "name": "Nepalês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:54.486Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:54.486Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa862c353f27338062fc"
+  },
+  "key": "ng",
+  "main_flag_2": "NA",
+  "main_flag_3": "NAM",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Ndonga",
+  "native": "Oshiwambo",
+  "i18n": {
+    "de": {
+      "name": "Ndonga"
+    },
+    "en": {
+      "name": "Ndonga"
+    },
+    "es": {
+      "name": "Ndonga"
+    },
+    "fr": {
+      "name": "Ndonga"
+    },
+    "it": {
+      "name": "Ndonga"
+    },
+    "pt": {
+      "name": "Ndonga"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:54.593Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:54.593Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa862c353f27338062fe"
+  },
+  "key": "nl",
+  "main_flag_2": "NL",
+  "main_flag_3": "NLD",
+  "other_flags_2": [
+    "BE"
+  ],
+  "other_flags_3": [
+    "BEL"
+  ],
+  "name": "Dutch",
+  "native": "Nederlands",
+  "i18n": {
+    "de": {
+      "name": "Niederländisch"
+    },
+    "en": {
+      "name": "Dutch"
+    },
+    "es": {
+      "name": "Neerlandés"
+    },
+    "fr": {
+      "name": "Néerlandais"
+    },
+    "it": {
+      "name": "Olandese"
+    },
+    "pt": {
+      "name": "Holandês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:54.700Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:54.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa862c353f2733806300"
+  },
+  "key": "nn",
+  "main_flag_2": "NO",
+  "main_flag_3": "NOR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Norwegian Nynorsk",
+  "native": "Norsk nynorsk",
+  "i18n": {
+    "de": {
+      "name": "Nynorsk"
+    },
+    "en": {
+      "name": "Norwegian Nynorsk"
+    },
+    "es": {
+      "name": "Noruego Nynorsk"
+    },
+    "fr": {
+      "name": "Nynorsk"
+    },
+    "it": {
+      "name": "Norvegese Nynorsk"
+    },
+    "pt": {
+      "name": "Nynorsk"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:54.807Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:54.807Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa862c353f2733806302"
+  },
+  "key": "no",
+  "main_flag_2": "NO",
+  "main_flag_3": "NOR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Norwegian",
+  "native": "Norsk",
+  "i18n": {
+    "de": {
+      "name": "Norwegisch"
+    },
+    "en": {
+      "name": "Norwegian"
+    },
+    "es": {
+      "name": "Noruego"
+    },
+    "fr": {
+      "name": "Norvégien"
+    },
+    "it": {
+      "name": "Norvegese"
+    },
+    "pt": {
+      "name": "Norueguês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:54.913Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:54.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f2733806304"
+  },
+  "key": "nr",
+  "main_flag_2": "ZA",
+  "main_flag_3": "ZAF",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "South Ndebele",
+  "native": "isiNdebele",
+  "i18n": {
+    "de": {
+      "name": "Süd-Ndebele"
+    },
+    "en": {
+      "name": "Southern Ndebele"
+    },
+    "es": {
+      "name": "Ndebele del Sur"
+    },
+    "fr": {
+      "name": "Ndebele du Sud"
+    },
+    "it": {
+      "name": "Ndebele Meridionale"
+    },
+    "pt": {
+      "name": "Ndebele do Sul"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.020Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f2733806306"
+  },
+  "key": "nv",
+  "main_flag_2": "US",
+  "main_flag_3": "USA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Navajo",
+  "native": "Diné bizaad",
+  "i18n": {
+    "de": {
+      "name": "Navajo"
+    },
+    "en": {
+      "name": "Navajo"
+    },
+    "es": {
+      "name": "Navajo"
+    },
+    "fr": {
+      "name": "Navajo"
+    },
+    "it": {
+      "name": "Navajo"
+    },
+    "pt": {
+      "name": "Navajo"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.128Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f2733806308"
+  },
+  "key": "ny",
+  "main_flag_2": "MW",
+  "main_flag_3": "MWI",
+  "other_flags_2": [
+    "MZ",
+    "TZ"
+  ],
+  "other_flags_3": [
+    "MOZ",
+    "TZA"
+  ],
+  "name": "Chichewa",
+  "native": "Chi-Chewa",
+  "i18n": {
+    "de": {
+      "name": "Chichewa"
+    },
+    "en": {
+      "name": "Chichewa"
+    },
+    "es": {
+      "name": "Chichewa"
+    },
+    "fr": {
+      "name": "Chichewa"
+    },
+    "it": {
+      "name": "Chichewa"
+    },
+    "pt": {
+      "name": "Chichewa"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.237Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.237Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f273380630a"
+  },
+  "key": "oc",
+  "main_flag_2": "FR",
+  "main_flag_3": "FRA",
+  "other_flags_2": [
+    "IT",
+    "ES"
+  ],
+  "other_flags_3": [
+    "ITA",
+    "ESP"
+  ],
+  "name": "Occitan",
+  "native": "Occitan",
+  "i18n": {
+    "de": {
+      "name": "Okzitanisch"
+    },
+    "en": {
+      "name": "Occitan"
+    },
+    "es": {
+      "name": "Occitano"
+    },
+    "fr": {
+      "name": "Occitan"
+    },
+    "it": {
+      "name": "Occitano"
+    },
+    "pt": {
+      "name": "Occitano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f273380630c"
+  },
+  "key": "oj",
+  "main_flag_2": "US",
+  "main_flag_3": "USA",
+  "other_flags_2": [
+    "CA"
+  ],
+  "other_flags_3": [
+    "CAN"
+  ],
+  "name": "Ojibwa",
+  "native": "ᐊᓂᔑᓈᐯᒧᐎᓐ / Anishinaabemowin",
+  "i18n": {
+    "de": {
+      "name": "Ojibwa"
+    },
+    "en": {
+      "name": "Ojibwa"
+    },
+    "es": {
+      "name": "Ojibwa"
+    },
+    "fr": {
+      "name": "Ojibwa"
+    },
+    "it": {
+      "name": "Ojibwa"
+    },
+    "pt": {
+      "name": "Ojibwa"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f273380630e"
+  },
+  "key": "om",
+  "main_flag_2": "ET",
+  "main_flag_3": "ETH",
+  "other_flags_2": [
+    "KE"
+  ],
+  "other_flags_3": [
+    "KEN"
+  ],
+  "name": "Oromo",
+  "native": "Oromoo",
+  "i18n": {
+    "de": {
+      "name": "Oromo"
+    },
+    "en": {
+      "name": "Oromo"
+    },
+    "es": {
+      "name": "Oromo"
+    },
+    "fr": {
+      "name": "Oromo"
+    },
+    "it": {
+      "name": "Oromo"
+    },
+    "pt": {
+      "name": "Oromo"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.547Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.547Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f2733806310"
+  },
+  "key": "or",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Oriya",
+  "native": "ଓଡ଼ିଆ",
+  "i18n": {
+    "de": {
+      "name": "Odia"
+    },
+    "en": {
+      "name": "Odia"
+    },
+    "es": {
+      "name": "Odia"
+    },
+    "fr": {
+      "name": "Odia"
+    },
+    "it": {
+      "name": "Odia"
+    },
+    "pt": {
+      "name": "Odia"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f2733806312"
+  },
+  "key": "os",
+  "main_flag_2": "RU",
+  "main_flag_3": "RUS",
+  "other_flags_2": [
+    "GE"
+  ],
+  "other_flags_3": [
+    "GEO"
+  ],
+  "name": "Ossetian / Ossetic",
+  "native": "Иронау",
+  "i18n": {
+    "de": {
+      "name": "Ossetisch"
+    },
+    "en": {
+      "name": "Ossetian"
+    },
+    "es": {
+      "name": "Osetio"
+    },
+    "fr": {
+      "name": "Ossète"
+    },
+    "it": {
+      "name": "Ossetico"
+    },
+    "pt": {
+      "name": "Ossétio"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.744Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.744Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f2733806314"
+  },
+  "key": "pa",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [
+    "PK"
+  ],
+  "other_flags_3": [
+    "PAK"
+  ],
+  "name": "Panjabi / Punjabi",
+  "native": "ਪੰਜਾਬੀ / पंजाबी / پنجابي",
+  "i18n": {
+    "de": {
+      "name": "Panjabi"
+    },
+    "en": {
+      "name": "Punjabi"
+    },
+    "es": {
+      "name": "Panyabí"
+    },
+    "fr": {
+      "name": "Panjabi"
+    },
+    "it": {
+      "name": "Panjabi"
+    },
+    "pt": {
+      "name": "Panjabi"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa872c353f2733806316"
+  },
+  "key": "pi",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Pali",
+  "native": "Pāli / पाऴि",
+  "i18n": {
+    "de": {
+      "name": "Pali"
+    },
+    "en": {
+      "name": "Pali"
+    },
+    "es": {
+      "name": "Pali"
+    },
+    "fr": {
+      "name": "Pali"
+    },
+    "it": {
+      "name": "Pali"
+    },
+    "pt": {
+      "name": "Pali"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:55.958Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:55.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa882c353f2733806318"
+  },
+  "key": "pl",
+  "main_flag_2": "PL",
+  "main_flag_3": "POL",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Polish",
+  "native": "Polski",
+  "i18n": {
+    "de": {
+      "name": "Polnisch"
+    },
+    "en": {
+      "name": "Polish"
+    },
+    "es": {
+      "name": "Polaco"
+    },
+    "fr": {
+      "name": "Polonais"
+    },
+    "it": {
+      "name": "Polacco"
+    },
+    "pt": {
+      "name": "Polonês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:56.066Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:56.066Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa882c353f273380631a"
+  },
+  "key": "ps",
+  "main_flag_2": "AF",
+  "main_flag_3": "AFG",
+  "other_flags_2": [
+    "PK",
+    "IR"
+  ],
+  "other_flags_3": [
+    "PAK",
+    "IRN"
+  ],
+  "name": "Pashto",
+  "native": "پښتو",
+  "i18n": {
+    "de": {
+      "name": "Paschtu"
+    },
+    "en": {
+      "name": "Pashto"
+    },
+    "es": {
+      "name": "Pastún"
+    },
+    "fr": {
+      "name": "Pachto"
+    },
+    "it": {
+      "name": "Pashto"
+    },
+    "pt": {
+      "name": "Pachto"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:56.174Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:56.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa882c353f273380631c"
+  },
+  "key": "pt",
+  "main_flag_2": "PT",
+  "main_flag_3": "PRT",
+  "other_flags_2": [
+    "BR",
+    "AO",
+    "MZ",
+    "GW",
+    "ST"
+  ],
+  "other_flags_3": [
+    "BRA",
+    "AGO",
+    "MOZ",
+    "GNB",
+    "STP"
+  ],
+  "name": "Portuguese",
+  "native": "Português",
+  "i18n": {
+    "de": {
+      "name": "Portugiesisch"
+    },
+    "en": {
+      "name": "Portuguese"
+    },
+    "es": {
+      "name": "Portugués"
+    },
+    "fr": {
+      "name": "Portugais"
+    },
+    "it": {
+      "name": "Portoghese"
+    },
+    "pt": {
+      "name": "Português"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:56.281Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:56.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa882c353f273380631e"
+  },
+  "key": "qu",
+  "main_flag_2": "PE",
+  "main_flag_3": "PER",
+  "other_flags_2": [
+    "BO",
+    "EC"
+  ],
+  "other_flags_3": [
+    "BOL",
+    "ECU"
+  ],
+  "name": "Quechua",
+  "native": "Runa Simi",
+  "i18n": {
+    "de": {
+      "name": "Quechua"
+    },
+    "en": {
+      "name": "Quechua"
+    },
+    "es": {
+      "name": "Quechua"
+    },
+    "fr": {
+      "name": "Quechua"
+    },
+    "it": {
+      "name": "Quechua"
+    },
+    "pt": {
+      "name": "Quechua"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:56.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:56.389Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa882c353f2733806320"
+  },
+  "key": "rm",
+  "main_flag_2": "CH",
+  "main_flag_3": "CHE",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Raeto Romance",
+  "native": "Rumantsch",
+  "i18n": {
+    "de": {
+      "name": "Rätoromanisch"
+    },
+    "en": {
+      "name": "Romansh"
+    },
+    "es": {
+      "name": "Romanche"
+    },
+    "fr": {
+      "name": "Romanche"
+    },
+    "it": {
+      "name": "Romancio"
+    },
+    "pt": {
+      "name": "Romanche"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:56.497Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:56.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa882c353f2733806322"
+  },
+  "key": "rn",
+  "main_flag_2": "BI",
+  "main_flag_3": "BDI",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Kirundi",
+  "native": "Kirundi",
+  "i18n": {
+    "de": {
+      "name": "Kirundi"
+    },
+    "en": {
+      "name": "Kirundi"
+    },
+    "es": {
+      "name": "Kirundi"
+    },
+    "fr": {
+      "name": "Kirundi"
+    },
+    "it": {
+      "name": "Kirundi"
+    },
+    "pt": {
+      "name": "Kirundi"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:56.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:56.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa882c353f2733806324"
+  },
+  "key": "ro",
+  "main_flag_2": "RO",
+  "main_flag_3": "ROU",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Romanian",
+  "native": "Română",
+  "i18n": {
+    "de": {
+      "name": "Rumänisch"
+    },
+    "en": {
+      "name": "Romanian"
+    },
+    "es": {
+      "name": "Rumano"
+    },
+    "fr": {
+      "name": "Roumain"
+    },
+    "it": {
+      "name": "Rumeno"
+    },
+    "pt": {
+      "name": "Romeno"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:56.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:56.712Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa882c353f2733806326"
+  },
+  "key": "ru",
+  "main_flag_2": "RU",
+  "main_flag_3": "RUS",
+  "other_flags_2": [
+    "BY",
+    "KZ",
+    "UA"
+  ],
+  "other_flags_3": [
+    "BLR",
+    "KAZ",
+    "UKR"
+  ],
+  "name": "Russian",
+  "native": "Русский",
+  "i18n": {
+    "de": {
+      "name": "Russisch"
+    },
+    "en": {
+      "name": "Russian"
+    },
+    "es": {
+      "name": "Ruso"
+    },
+    "fr": {
+      "name": "Russe"
+    },
+    "it": {
+      "name": "Russo"
+    },
+    "pt": {
+      "name": "Russo"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:56.820Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:56.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa882c353f2733806328"
+  },
+  "key": "rw",
+  "main_flag_2": "RW",
+  "main_flag_3": "RWA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Rwandi",
+  "native": "Kinyarwandi",
+  "i18n": {
+    "de": {
+      "name": "Kinyarwanda"
+    },
+    "en": {
+      "name": "Kinyarwanda"
+    },
+    "es": {
+      "name": "Kinyarwanda"
+    },
+    "fr": {
+      "name": "Kinyarwanda"
+    },
+    "it": {
+      "name": "Kinyarwanda"
+    },
+    "pt": {
+      "name": "Kinyarwanda"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:56.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:56.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f273380632a"
+  },
+  "key": "sa",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Sanskrit",
+  "native": "संस्कृतम्",
+  "i18n": {
+    "de": {
+      "name": "Sanskrit"
+    },
+    "en": {
+      "name": "Sanskrit"
+    },
+    "es": {
+      "name": "Sánscrito"
+    },
+    "fr": {
+      "name": "Sanskrit"
+    },
+    "it": {
+      "name": "Sanscrito"
+    },
+    "pt": {
+      "name": "Sânscrito"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.034Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.034Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f273380632c"
+  },
+  "key": "sc",
+  "main_flag_2": "SC",
+  "main_flag_3": "SYC",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Sardinian",
+  "native": "Sardu",
+  "i18n": {
+    "de": {
+      "name": "Sardisch"
+    },
+    "en": {
+      "name": "Sardinian"
+    },
+    "es": {
+      "name": "Sardo"
+    },
+    "fr": {
+      "name": "Sarde"
+    },
+    "it": {
+      "name": "Sardo"
+    },
+    "pt": {
+      "name": "Sardo"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.141Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.141Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f273380632e"
+  },
+  "key": "sd",
+  "main_flag_2": "PK",
+  "main_flag_3": "PAK",
+  "other_flags_2": [
+    "IN"
+  ],
+  "other_flags_3": [
+    "IND"
+  ],
+  "name": "Sindhi",
+  "native": "सिनधि",
+  "i18n": {
+    "de": {
+      "name": "Sindhi"
+    },
+    "en": {
+      "name": "Sindhi"
+    },
+    "es": {
+      "name": "Sindhi"
+    },
+    "fr": {
+      "name": "Sindhi"
+    },
+    "it": {
+      "name": "Sindhi"
+    },
+    "pt": {
+      "name": "Sindhi"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.250Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.250Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f2733806330"
+  },
+  "key": "se",
+  "main_flag_2": "SE",
+  "main_flag_3": "SWE",
+  "other_flags_2": [
+    "FI",
+    "NO"
+  ],
+  "other_flags_3": [
+    "FIN",
+    "NOR"
+  ],
+  "name": "Northern Sami",
+  "native": "Sámegiella",
+  "i18n": {
+    "de": {
+      "name": "Nordsamisch"
+    },
+    "en": {
+      "name": "Northern Sami"
+    },
+    "es": {
+      "name": "Sami septentrional"
+    },
+    "fr": {
+      "name": "Sami du Nord"
+    },
+    "it": {
+      "name": "Sami settentrionale"
+    },
+    "pt": {
+      "name": "Sami Setentrional"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.358Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.358Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f2733806332"
+  },
+  "key": "sg",
+  "main_flag_2": "CF",
+  "main_flag_3": "CAF",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Sango",
+  "native": "Sängö",
+  "i18n": {
+    "de": {
+      "name": "Sango"
+    },
+    "en": {
+      "name": "Sango"
+    },
+    "es": {
+      "name": "Sango"
+    },
+    "fr": {
+      "name": "Sango"
+    },
+    "it": {
+      "name": "Sango"
+    },
+    "pt": {
+      "name": "Sango"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f2733806334"
+  },
+  "key": "sh",
+  "main_flag_2": "SH",
+  "main_flag_3": "SHN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Serbo-Croatian",
+  "native": "Srpskohrvatski / Српскохрватски",
+  "i18n": {
+    "de": {
+      "name": "Serbokroatisch"
+    },
+    "en": {
+      "name": "Serbo-Croatian"
+    },
+    "es": {
+      "name": "Serbocroata"
+    },
+    "fr": {
+      "name": "Serbo-croate"
+    },
+    "it": {
+      "name": "Serbocroato"
+    },
+    "pt": {
+      "name": "Sérvio-Croata"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.574Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f2733806336"
+  },
+  "key": "si",
+  "main_flag_2": "LK",
+  "main_flag_3": "LKA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Sinhalese",
+  "native": "සිංහල",
+  "i18n": {
+    "de": {
+      "name": "Singhalesisch"
+    },
+    "en": {
+      "name": "Sinhala"
+    },
+    "es": {
+      "name": "Cingalés"
+    },
+    "fr": {
+      "name": "Cinghalais"
+    },
+    "it": {
+      "name": "Singalese"
+    },
+    "pt": {
+      "name": "Cingalês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.680Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f2733806338"
+  },
+  "key": "sk",
+  "main_flag_2": "SK",
+  "main_flag_3": "SVK",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Slovak",
+  "native": "Slovenčina",
+  "i18n": {
+    "de": {
+      "name": "Slowakisch"
+    },
+    "en": {
+      "name": "Slovak"
+    },
+    "es": {
+      "name": "Eslovaco"
+    },
+    "fr": {
+      "name": "Slovaque"
+    },
+    "it": {
+      "name": "Slovacco"
+    },
+    "pt": {
+      "name": "Eslovaco"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.788Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.788Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f273380633a"
+  },
+  "key": "sl",
+  "main_flag_2": "SI",
+  "main_flag_3": "SVN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Slovenian",
+  "native": "Slovenščina",
+  "i18n": {
+    "de": {
+      "name": "Slowenisch"
+    },
+    "en": {
+      "name": "Slovenian"
+    },
+    "es": {
+      "name": "Esloveno"
+    },
+    "fr": {
+      "name": "Slovène"
+    },
+    "it": {
+      "name": "Sloveno"
+    },
+    "pt": {
+      "name": "Esloveno"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.895Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.895Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa892c353f273380633c"
+  },
+  "key": "sm",
+  "main_flag_2": "WS",
+  "main_flag_3": "WSM",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Samoan",
+  "native": "Gagana Samoa",
+  "i18n": {
+    "de": {
+      "name": "Samoanisch"
+    },
+    "en": {
+      "name": "Samoan"
+    },
+    "es": {
+      "name": "Samoano"
+    },
+    "fr": {
+      "name": "Samoan"
+    },
+    "it": {
+      "name": "Samoano"
+    },
+    "pt": {
+      "name": "Samoano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:57.988Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:57.988Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8a2c353f273380633e"
+  },
+  "key": "sn",
+  "main_flag_2": "ZW",
+  "main_flag_3": "ZWE",
+  "other_flags_2": [
+    "MZ"
+  ],
+  "other_flags_3": [
+    "MOZ"
+  ],
+  "name": "Shona",
+  "native": "chiShona",
+  "i18n": {
+    "de": {
+      "name": "Schona"
+    },
+    "en": {
+      "name": "Shona"
+    },
+    "es": {
+      "name": "Shona"
+    },
+    "fr": {
+      "name": "Shona"
+    },
+    "it": {
+      "name": "Shona"
+    },
+    "pt": {
+      "name": "Shona"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:58.095Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:58.095Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8a2c353f2733806340"
+  },
+  "key": "so",
+  "main_flag_2": "SO",
+  "main_flag_3": "SOM",
+  "other_flags_2": [
+    "KE",
+    "ET"
+  ],
+  "other_flags_3": [
+    "KEN",
+    "ETH"
+  ],
+  "name": "Somalia",
+  "native": "Soomaaliga",
+  "i18n": {
+    "de": {
+      "name": "Somali"
+    },
+    "en": {
+      "name": "Somali"
+    },
+    "es": {
+      "name": "Somalí"
+    },
+    "fr": {
+      "name": "Somali"
+    },
+    "it": {
+      "name": "Somalo"
+    },
+    "pt": {
+      "name": "Somali"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:58.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:58.203Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8a2c353f2733806342"
+  },
+  "key": "sq",
+  "main_flag_2": "AL",
+  "main_flag_3": "ALB",
+  "other_flags_2": [
+    "MK"
+  ],
+  "other_flags_3": [
+    "MKD"
+  ],
+  "name": "Albanian",
+  "native": "Shqip",
+  "i18n": {
+    "de": {
+      "name": "Albanisch"
+    },
+    "en": {
+      "name": "Albanian"
+    },
+    "es": {
+      "name": "Albanés"
+    },
+    "fr": {
+      "name": "Albanais"
+    },
+    "it": {
+      "name": "Albanese"
+    },
+    "pt": {
+      "name": "Albanês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:58.311Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:58.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8a2c353f2733806344"
+  },
+  "key": "sr",
+  "main_flag_2": "RS",
+  "main_flag_3": "SRB",
+  "other_flags_2": [
+    "BA",
+    "ME"
+  ],
+  "other_flags_3": [
+    "BIH",
+    "MNE"
+  ],
+  "name": "Serbian",
+  "native": "Српски",
+  "i18n": {
+    "de": {
+      "name": "Serbisch"
+    },
+    "en": {
+      "name": "Serbian"
+    },
+    "es": {
+      "name": "Serbio"
+    },
+    "fr": {
+      "name": "Serbe"
+    },
+    "it": {
+      "name": "Serbo"
+    },
+    "pt": {
+      "name": "Sérvio"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:58.418Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:58.418Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8a2c353f2733806346"
+  },
+  "key": "ss",
+  "main_flag_2": "SZ",
+  "main_flag_3": "SWZ",
+  "other_flags_2": [
+    "ZA"
+  ],
+  "other_flags_3": [
+    "ZAF"
+  ],
+  "name": "Swati",
+  "native": "SiSwati",
+  "i18n": {
+    "de": {
+      "name": "Swasi"
+    },
+    "en": {
+      "name": "Swati"
+    },
+    "es": {
+      "name": "Swazi"
+    },
+    "fr": {
+      "name": "Swati"
+    },
+    "it": {
+      "name": "Swazi"
+    },
+    "pt": {
+      "name": "Swati"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:58.526Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:58.526Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8a2c353f2733806348"
+  },
+  "key": "st",
+  "main_flag_2": "LS",
+  "main_flag_3": "LSO",
+  "other_flags_2": [
+    "ZA"
+  ],
+  "other_flags_3": [
+    "ZAF"
+  ],
+  "name": "Southern Sotho",
+  "native": "Sesotho",
+  "i18n": {
+    "de": {
+      "name": "Süd-Sotho"
+    },
+    "en": {
+      "name": "Southern Sotho"
+    },
+    "es": {
+      "name": "Sesotho meridional"
+    },
+    "fr": {
+      "name": "Sotho du Sud"
+    },
+    "it": {
+      "name": "Sotho del sud"
+    },
+    "pt": {
+      "name": "Sesotho meridional"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:58.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:58.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8a2c353f273380634a"
+  },
+  "key": "su",
+  "main_flag_2": "ID",
+  "main_flag_3": "IDN",
+  "other_flags_2": [
+    "MY"
+  ],
+  "other_flags_3": [
+    "MYS"
+  ],
+  "name": "Sundanese",
+  "native": "Basa Sunda",
+  "i18n": {
+    "de": {
+      "name": "Sundanesisch"
+    },
+    "en": {
+      "name": "Sundanese"
+    },
+    "es": {
+      "name": "Sondanés"
+    },
+    "fr": {
+      "name": "Soundanais"
+    },
+    "it": {
+      "name": "Sundanese"
+    },
+    "pt": {
+      "name": "Sundanês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:58.741Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:58.741Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8a2c353f273380634c"
+  },
+  "key": "sv",
+  "main_flag_2": "SE",
+  "main_flag_3": "SWE",
+  "other_flags_2": [
+    "FI"
+  ],
+  "other_flags_3": [
+    "FIN"
+  ],
+  "name": "Swedish",
+  "native": "Svenska",
+  "i18n": {
+    "de": {
+      "name": "Schwedisch"
+    },
+    "en": {
+      "name": "Swedish"
+    },
+    "es": {
+      "name": "Sueco"
+    },
+    "fr": {
+      "name": "Suédois"
+    },
+    "it": {
+      "name": "Svedese"
+    },
+    "pt": {
+      "name": "Sueco"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:58.849Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:58.849Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8a2c353f273380634e"
+  },
+  "key": "sw",
+  "main_flag_2": "TZ",
+  "main_flag_3": "TZA",
+  "other_flags_2": [
+    "KE",
+    "UG",
+    "RW"
+  ],
+  "other_flags_3": [
+    "KEN",
+    "UGA",
+    "RWA"
+  ],
+  "name": "Swahili",
+  "native": "Kiswahili",
+  "i18n": {
+    "de": {
+      "name": "Suaheli"
+    },
+    "en": {
+      "name": "Swahili"
+    },
+    "es": {
+      "name": "Suajili"
+    },
+    "fr": {
+      "name": "Swahili"
+    },
+    "it": {
+      "name": "Swahili"
+    },
+    "pt": {
+      "name": "Suaíli"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:58.957Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:58.957Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8b2c353f2733806350"
+  },
+  "key": "ta",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [
+    "LK",
+    "MY",
+    "SG"
+  ],
+  "other_flags_3": [
+    "LKA",
+    "MYS",
+    "SGP"
+  ],
+  "name": "Tamil",
+  "native": "தமிழ்",
+  "i18n": {
+    "de": {
+      "name": "Tamil"
+    },
+    "en": {
+      "name": "Tamil"
+    },
+    "es": {
+      "name": "Tamil"
+    },
+    "fr": {
+      "name": "Tamoul"
+    },
+    "it": {
+      "name": "Tamil"
+    },
+    "pt": {
+      "name": "Tâmil"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:59.049Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:59.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8b2c353f2733806352"
+  },
+  "key": "te",
+  "main_flag_2": "IN",
+  "main_flag_3": "IND",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Telugu",
+  "native": "తెలుగు",
+  "i18n": {
+    "de": {
+      "name": "Telugu"
+    },
+    "en": {
+      "name": "Telugu"
+    },
+    "es": {
+      "name": "Telugu"
+    },
+    "fr": {
+      "name": "Télougou"
+    },
+    "it": {
+      "name": "Telugu"
+    },
+    "pt": {
+      "name": "Telugu"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:59.157Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:59.157Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8b2c353f2733806354"
+  },
+  "key": "tg",
+  "main_flag_2": "TG",
+  "main_flag_3": "TGO",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Tajik",
+  "native": "Тоҷикӣ",
+  "i18n": {
+    "de": {
+      "name": "Tadschikisch"
+    },
+    "en": {
+      "name": "Tajik"
+    },
+    "es": {
+      "name": "Tayiko"
+    },
+    "fr": {
+      "name": "Tadjik"
+    },
+    "it": {
+      "name": "Tagiko"
+    },
+    "pt": {
+      "name": "Tadjique"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:59.265Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:59.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8b2c353f2733806356"
+  },
+  "key": "th",
+  "main_flag_2": "TH",
+  "main_flag_3": "THA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Thai",
+  "native": "ไทย / Phasa Thai",
+  "i18n": {
+    "de": {
+      "name": "Thailändisch"
+    },
+    "en": {
+      "name": "Thai"
+    },
+    "es": {
+      "name": "Tailandés"
+    },
+    "fr": {
+      "name": "Thaï"
+    },
+    "it": {
+      "name": "Tailandese"
+    },
+    "pt": {
+      "name": "Tailandês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:59.373Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:59.373Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8b2c353f2733806358"
+  },
+  "key": "ti",
+  "main_flag_2": "ER",
+  "main_flag_3": "ERI",
+  "other_flags_2": [
+    "ET"
+  ],
+  "other_flags_3": [
+    "ETH"
+  ],
+  "name": "Tigrinya",
+  "native": "ትግርኛ",
+  "i18n": {
+    "de": {
+      "name": "Tigrinisch"
+    },
+    "en": {
+      "name": "Tigrinya"
+    },
+    "es": {
+      "name": "Tigriña"
+    },
+    "fr": {
+      "name": "Tigrigna"
+    },
+    "it": {
+      "name": "Tigrino"
+    },
+    "pt": {
+      "name": "Tigrínia"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:59.481Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:59.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8b2c353f273380635a"
+  },
+  "key": "tk",
+  "main_flag_2": "TM",
+  "main_flag_3": "TKM",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Turkmen",
+  "native": "Туркмен / تركمن",
+  "i18n": {
+    "de": {
+      "name": "Turkmenisch"
+    },
+    "en": {
+      "name": "Turkmen"
+    },
+    "es": {
+      "name": "Turcomano"
+    },
+    "fr": {
+      "name": "Turkmène"
+    },
+    "it": {
+      "name": "Turcomanno"
+    },
+    "pt": {
+      "name": "Turcomeno"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:59.588Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:59.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8b2c353f273380635c"
+  },
+  "key": "tl",
+  "main_flag_2": "PH",
+  "main_flag_3": "PHL",
+  "other_flags_2": [
+    "TL"
+  ],
+  "other_flags_3": [
+    "TLS"
+  ],
+  "name": "Tagalog / Filipino",
+  "native": "Tagalog",
+  "i18n": {
+    "de": {
+      "name": "Tagalog"
+    },
+    "en": {
+      "name": "Tagalog"
+    },
+    "es": {
+      "name": "Tagalo"
+    },
+    "fr": {
+      "name": "Tagalog"
+    },
+    "it": {
+      "name": "Tagalog"
+    },
+    "pt": {
+      "name": "Tagalo"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:59.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:59.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8b2c353f273380635e"
+  },
+  "key": "tn",
+  "main_flag_2": "ZA",
+  "main_flag_3": "ZAF",
+  "other_flags_2": [
+    "BW",
+    "SZ"
+  ],
+  "other_flags_3": [
+    "BWA",
+    "SWZ"
+  ],
+  "name": "Tswana",
+  "native": "Setswana",
+  "i18n": {
+    "de": {
+      "name": "Tswana"
+    },
+    "en": {
+      "name": "Tswana"
+    },
+    "es": {
+      "name": "Setsuana"
+    },
+    "fr": {
+      "name": "Tswana"
+    },
+    "it": {
+      "name": "Tswana"
+    },
+    "pt": {
+      "name": "Tswana"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:59.802Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:59.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8b2c353f2733806360"
+  },
+  "key": "to",
+  "main_flag_2": "TO",
+  "main_flag_3": "TON",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Tonga",
+  "native": "Lea Faka-Tonga",
+  "i18n": {
+    "de": {
+      "name": "Tongaisch"
+    },
+    "en": {
+      "name": "Tongan"
+    },
+    "es": {
+      "name": "Tongano"
+    },
+    "fr": {
+      "name": "Tongien"
+    },
+    "it": {
+      "name": "Tongano"
+    },
+    "pt": {
+      "name": "Tonguês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:48:59.908Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:48:59.908Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f2733806362"
+  },
+  "key": "tr",
+  "main_flag_2": "TR",
+  "main_flag_3": "TUR",
+  "other_flags_2": [
+    "CY"
+  ],
+  "other_flags_3": [
+    "CYP"
+  ],
+  "name": "Turkish",
+  "native": "Türkçe",
+  "i18n": {
+    "de": {
+      "name": "Türkisch"
+    },
+    "en": {
+      "name": "Turkish"
+    },
+    "es": {
+      "name": "Turco"
+    },
+    "fr": {
+      "name": "Turc"
+    },
+    "it": {
+      "name": "Turco"
+    },
+    "pt": {
+      "name": "Turco"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.017Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f2733806364"
+  },
+  "key": "ts",
+  "main_flag_2": "TZ",
+  "main_flag_3": "TZA",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Tsonga",
+  "native": "Xitsonga",
+  "i18n": {
+    "de": {
+      "name": "Tsonga"
+    },
+    "en": {
+      "name": "Tsonga"
+    },
+    "es": {
+      "name": "Tsonga"
+    },
+    "fr": {
+      "name": "Tsonga"
+    },
+    "it": {
+      "name": "Tsonga"
+    },
+    "pt": {
+      "name": "Tsonga"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.123Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f2733806366"
+  },
+  "key": "tt",
+  "main_flag_2": "RU",
+  "main_flag_3": "RUS",
+  "other_flags_2": [
+    "KZ"
+  ],
+  "other_flags_3": [
+    "KAZ"
+  ],
+  "name": "Tatar",
+  "native": "Tatarça",
+  "i18n": {
+    "de": {
+      "name": "Tatarisch"
+    },
+    "en": {
+      "name": "Tatar"
+    },
+    "es": {
+      "name": "Tártaro"
+    },
+    "fr": {
+      "name": "Tatar"
+    },
+    "it": {
+      "name": "Tataro"
+    },
+    "pt": {
+      "name": "Tártaro"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.232Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.232Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f2733806368"
+  },
+  "key": "tw",
+  "main_flag_2": "TW",
+  "main_flag_3": "TWN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Twi",
+  "native": "Twi",
+  "i18n": {
+    "de": {
+      "name": "Twi"
+    },
+    "en": {
+      "name": "Twi"
+    },
+    "es": {
+      "name": "Twi"
+    },
+    "fr": {
+      "name": "Twi"
+    },
+    "it": {
+      "name": "Twi"
+    },
+    "pt": {
+      "name": "Twi"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.340Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.340Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f273380636a"
+  },
+  "key": "ty",
+  "main_flag_2": "PF",
+  "main_flag_3": "PYF",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Tahitian",
+  "native": "Reo Mā`ohi",
+  "i18n": {
+    "de": {
+      "name": "Tahitisch"
+    },
+    "en": {
+      "name": "Tahitian"
+    },
+    "es": {
+      "name": "Tahitiano"
+    },
+    "fr": {
+      "name": "Tahitien"
+    },
+    "it": {
+      "name": "Tahitiano"
+    },
+    "pt": {
+      "name": "Taitiano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.448Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.448Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f273380636c"
+  },
+  "key": "ug",
+  "main_flag_2": "CN",
+  "main_flag_3": "CHN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Uyghur",
+  "native": "Uyƣurqə / ئۇيغۇرچە",
+  "i18n": {
+    "de": {
+      "name": "Uigurisch"
+    },
+    "en": {
+      "name": "Uyghur"
+    },
+    "es": {
+      "name": "Uigur"
+    },
+    "fr": {
+      "name": "Ouïghour"
+    },
+    "it": {
+      "name": "Uiguro"
+    },
+    "pt": {
+      "name": "Uigur"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.555Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f273380636e"
+  },
+  "key": "uk",
+  "main_flag_2": "UA",
+  "main_flag_3": "UKR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Ukrainian",
+  "native": "Українська",
+  "i18n": {
+    "de": {
+      "name": "Ukrainisch"
+    },
+    "en": {
+      "name": "Ukrainian"
+    },
+    "es": {
+      "name": "Ucraniano"
+    },
+    "fr": {
+      "name": "Ukrainien"
+    },
+    "it": {
+      "name": "Ucraino"
+    },
+    "pt": {
+      "name": "Ucraniano"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.663Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f2733806370"
+  },
+  "key": "ur",
+  "main_flag_2": "PK",
+  "main_flag_3": "PAK",
+  "other_flags_2": [
+    "IN"
+  ],
+  "other_flags_3": [
+    "IND"
+  ],
+  "name": "Urdu",
+  "native": "اردو",
+  "i18n": {
+    "de": {
+      "name": "Urdu"
+    },
+    "en": {
+      "name": "Urdu"
+    },
+    "es": {
+      "name": "Urdu"
+    },
+    "fr": {
+      "name": "Ourdou"
+    },
+    "it": {
+      "name": "Urdu"
+    },
+    "pt": {
+      "name": "Urdu"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.770Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f2733806372"
+  },
+  "key": "uz",
+  "main_flag_2": "UZ",
+  "main_flag_3": "UZB",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Uzbek",
+  "native": "Ўзбек",
+  "i18n": {
+    "de": {
+      "name": "Usbekisch"
+    },
+    "en": {
+      "name": "Uzbek"
+    },
+    "es": {
+      "name": "Uzbeko"
+    },
+    "fr": {
+      "name": "Ouzbek"
+    },
+    "it": {
+      "name": "Uzbeco"
+    },
+    "pt": {
+      "name": "Usbeque"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8c2c353f2733806374"
+  },
+  "key": "ve",
+  "main_flag_2": "VE",
+  "main_flag_3": "VEN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Venda",
+  "native": "Tshivenḓa",
+  "i18n": {
+    "de": {
+      "name": "Venda"
+    },
+    "en": {
+      "name": "Venda"
+    },
+    "es": {
+      "name": "Venda"
+    },
+    "fr": {
+      "name": "Venda"
+    },
+    "it": {
+      "name": "Venda"
+    },
+    "pt": {
+      "name": "Venda"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:00.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:00.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8d2c353f2733806376"
+  },
+  "key": "vi",
+  "main_flag_2": "VN",
+  "main_flag_3": "VNM",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Vietnamese",
+  "native": "Tiếng Việt",
+  "i18n": {
+    "de": {
+      "name": "Vietnamesisch"
+    },
+    "en": {
+      "name": "Vietnamese"
+    },
+    "es": {
+      "name": "Vietnamita"
+    },
+    "fr": {
+      "name": "Vietnamien"
+    },
+    "it": {
+      "name": "Vietnamita"
+    },
+    "pt": {
+      "name": "Vietnamita"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:01.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:01.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8d2c353f2733806378"
+  },
+  "key": "vo",
+  "main_flag_2": "DE",
+  "main_flag_3": "DEU",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Volapük",
+  "native": "Volapük",
+  "i18n": {
+    "de": {
+      "name": "Volapük"
+    },
+    "en": {
+      "name": "Volapük"
+    },
+    "es": {
+      "name": "Volapük"
+    },
+    "fr": {
+      "name": "Volapük"
+    },
+    "it": {
+      "name": "Volapük"
+    },
+    "pt": {
+      "name": "Volapük"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:01.185Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:01.185Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8d2c353f273380637a"
+  },
+  "key": "wa",
+  "main_flag_2": "BE",
+  "main_flag_3": "BEL",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Walloon",
+  "native": "Walon",
+  "i18n": {
+    "de": {
+      "name": "Wallonisch"
+    },
+    "en": {
+      "name": "Walloon"
+    },
+    "es": {
+      "name": "Valón"
+    },
+    "fr": {
+      "name": "Wallon"
+    },
+    "it": {
+      "name": "Vallone"
+    },
+    "pt": {
+      "name": "Valão"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:01.293Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:01.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8d2c353f273380637c"
+  },
+  "key": "wo",
+  "main_flag_2": "SN",
+  "main_flag_3": "SEN",
+  "other_flags_2": [
+    "MR"
+  ],
+  "other_flags_3": [
+    "MRT"
+  ],
+  "name": "Wolof",
+  "native": "Wollof",
+  "i18n": {
+    "de": {
+      "name": "Wolof"
+    },
+    "en": {
+      "name": "Wolof"
+    },
+    "es": {
+      "name": "Wólof"
+    },
+    "fr": {
+      "name": "Wolof"
+    },
+    "it": {
+      "name": "Wolof"
+    },
+    "pt": {
+      "name": "Uólofe"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:01.401Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:01.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8d2c353f273380637e"
+  },
+  "key": "xh",
+  "main_flag_2": "ZA",
+  "main_flag_3": "ZAF",
+  "other_flags_2": [
+    "ZW"
+  ],
+  "other_flags_3": [
+    "ZWE"
+  ],
+  "name": "Xhosa",
+  "native": "isiXhosa",
+  "i18n": {
+    "de": {
+      "name": "Xhosa"
+    },
+    "en": {
+      "name": "Xhosa"
+    },
+    "es": {
+      "name": "Xhosa"
+    },
+    "fr": {
+      "name": "Xhosa"
+    },
+    "it": {
+      "name": "Xhosa"
+    },
+    "pt": {
+      "name": "Xhosa"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:01.509Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:01.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8d2c353f2733806380"
+  },
+  "key": "yi",
+  "main_flag_2": "IL",
+  "main_flag_3": "ISR",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Yiddish",
+  "native": "ייִדיש",
+  "i18n": {
+    "de": {
+      "name": "Jiddisch"
+    },
+    "en": {
+      "name": "Yiddish"
+    },
+    "es": {
+      "name": "Yidis"
+    },
+    "fr": {
+      "name": "Yiddish"
+    },
+    "it": {
+      "name": "Yiddish"
+    },
+    "pt": {
+      "name": "Iídiche"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:01.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:01.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8d2c353f2733806382"
+  },
+  "key": "yo",
+  "main_flag_2": "NG",
+  "main_flag_3": "NGA",
+  "other_flags_2": [
+    "BJ"
+  ],
+  "other_flags_3": [
+    "BEN"
+  ],
+  "name": "Yoruba",
+  "native": "Yorùbá",
+  "i18n": {
+    "de": {
+      "name": "Yoruba"
+    },
+    "en": {
+      "name": "Yoruba"
+    },
+    "es": {
+      "name": "Yoruba"
+    },
+    "fr": {
+      "name": "Yoruba"
+    },
+    "it": {
+      "name": "Yoruba"
+    },
+    "pt": {
+      "name": "Iorubá"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:01.725Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:01.725Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8d2c353f2733806384"
+  },
+  "key": "za",
+  "main_flag_2": "CN",
+  "main_flag_3": "CHN",
+  "other_flags_2": [],
+  "other_flags_3": [],
+  "name": "Zhuang",
+  "native": "Cuengh / Tôô / 壮语",
+  "i18n": {
+    "de": {
+      "name": "Zhuang"
+    },
+    "en": {
+      "name": "Zhuang"
+    },
+    "es": {
+      "name": "Zhuang"
+    },
+    "fr": {
+      "name": "Zhuang"
+    },
+    "it": {
+      "name": "Zhuang"
+    },
+    "pt": {
+      "name": "Zhuang"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:01.832Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:01.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8d2c353f2733806386"
+  },
+  "key": "zh",
+  "main_flag_2": "CN",
+  "main_flag_3": "CHN",
+  "other_flags_2": [
+    "SG",
+    "TW",
+    "MY"
+  ],
+  "other_flags_3": [
+    "SGP",
+    "TWN",
+    "MYS"
+  ],
+  "name": "Chinese",
+  "native": "中文",
+  "i18n": {
+    "de": {
+      "name": "Chinesisch"
+    },
+    "en": {
+      "name": "Chinese"
+    },
+    "es": {
+      "name": "Chino"
+    },
+    "fr": {
+      "name": "Chinois"
+    },
+    "it": {
+      "name": "Cinese"
+    },
+    "pt": {
+      "name": "Chinês"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:01.940Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:01.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d5fa8e2c353f2733806388"
+  },
+  "key": "zu",
+  "main_flag_2": "ZA",
+  "main_flag_3": "ZAF",
+  "other_flags_2": [
+    "SZ"
+  ],
+  "other_flags_3": [
+    "SWZ"
+  ],
+  "name": "Zulu",
+  "native": "isiZulu",
+  "i18n": {
+    "de": {
+      "name": "Zulu"
+    },
+    "en": {
+      "name": "Zulu"
+    },
+    "es": {
+      "name": "Zulú"
+    },
+    "fr": {
+      "name": "Zoulou"
+    },
+    "it": {
+      "name": "Zulu"
+    },
+    "pt": {
+      "name": "Zulu"
+    }
+  },
+  "createdAt": {
+    "$date": "2024-09-02T17:49:02.062Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-02T17:49:02.062Z"
+  },
+  "__v": 0
+}]
